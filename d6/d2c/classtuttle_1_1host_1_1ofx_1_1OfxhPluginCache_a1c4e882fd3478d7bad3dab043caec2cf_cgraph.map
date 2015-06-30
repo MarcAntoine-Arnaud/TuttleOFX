@@ -1,0 +1,11 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$d7/d76/classtuttle_1_1host_1_1ofx_1_1OfxhPlugin.html#a3a7cd8c929ef3b873f24b2b15261be19" title="tuttle::host::ofx::OfxhPlugin::getApiHandler" alt="" coords="433,5,705,32"/>
+<area shape="rect" id="node5" href="$d3/d43/classtuttle_1_1host_1_1ofx_1_1OfxhPluginDesc.html#ae8f68a3675156401e1a9eb1bd37164bb" title="tuttle::host::ofx::OfxhPluginDesc::getIdentifier" alt="" coords="425,56,714,83"/>
+<area shape="rect" id="node7" href="$dc/d22/classtuttle_1_1host_1_1ofx_1_1OfxhPluginBinary.html#a03716787fe0a54f062b12935e82f38c1" title="how many plugins?" alt="" coords="420,107,719,133"/>
+<area shape="rect" id="node9" href="$dc/d22/classtuttle_1_1host_1_1ofx_1_1OfxhPluginBinary.html#a8aa608fcb9df97e2b41e751f1f9b2143" title="get a plugin" alt="" coords="429,157,710,184"/>
+<area shape="rect" id="node11" href="$d3/d43/classtuttle_1_1host_1_1ofx_1_1OfxhPluginDesc.html#a484c9013b645f0fe31d722507e56b58e" title="tuttle::host::ofx::OfxhPluginDesc::getVersionMajor" alt="" coords="412,208,727,235"/>
+<area shape="rect" id="node13" href="$d3/d43/classtuttle_1_1host_1_1ofx_1_1OfxhPluginDesc.html#af1fdbdf69321e3447e1ee6d4d4e00092" title="tuttle::host::ofx::OfxhPluginDesc::getVersionMinor" alt="" coords="412,259,727,285"/>
+<area shape="rect" id="node15" href="$df/d6c/classtuttle_1_1host_1_1ofx_1_1APICache_1_1OfxhPluginAPICacheI.html#ae7f707d305fc30bd98127a480209ca53" title="tuttle::host::ofx::APICache::OfxhPluginAPICacheI::loadFromPlugin" alt="" coords="363,309,775,336"/>
+<area shape="rect" id="node17" href="$d2/d7f/namespacetuttle.html#a87ac1f9750141f52daffed18951b58be" title="tuttle::quotes" alt="" coords="520,360,619,387"/>
+<area shape="rect" id="node19" href="$d6/d2c/classtuttle_1_1host_1_1ofx_1_1OfxhPluginCache.html#a6f9842c36bddc12a0e745c6755e1c18c" title="tuttle::host::ofx::OfxhPluginCache::setDirty" alt="" coords="432,411,707,437"/>
+</map>

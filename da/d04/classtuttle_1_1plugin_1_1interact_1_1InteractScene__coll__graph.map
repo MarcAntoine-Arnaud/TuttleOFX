@@ -1,0 +1,6 @@
+<map id="G" name="G">
+<area shape="rect" id="node2" href="$dd/d02/classtuttle_1_1plugin_1_1interact_1_1InteractObject.html" title="A base class for all object to use in interact or overlay. All sub classes needs to implement virtual..." alt="" coords="5,6,239,303"/>
+<area shape="rect" id="node5" href="$dd/deb/structtuttle_1_1plugin_1_1interact_1_1IColor.html" title="{tuttle::plugin::interact::IColor\n||+ ~IColor()\l+ getColor()\l}" alt="" coords="264,109,451,201"/>
+<area shape="rect" id="node7" href="$d9/df4/classtuttle_1_1plugin_1_1interact_1_1InteractInfos.html" title="{tuttle::plugin::interact::InteractInfos\n|+ _effect\l+ _focus\l+ _lastPenPos\l+ _penDown\l+ _projectSize\l+ _marge\l|+ InteractInfos()\l+ canonicalXXToNormalizedXX()\l+ normalizedXXToCanonicalXX()\l+ pointCanonicalXYToNormalizedXY()\l+ pointNormalizedXYToCanonicalXY()\l+ pointCanonicalXYToNormalizedXXc()\l+ pointNormalizedXXcnToCanonicalXY()\l}" alt="" coords="475,35,732,274"/>
+<area shape="rect" id="node9" href="$d5/d3b/structtuttle_1_1plugin_1_1interact_1_1MotionType.html" title="{tuttle::plugin::interact::MotionType\n|+ _mode\l+ _axis\l|+ MotionType()\l}" alt="" coords="758,109,977,201"/>
+</map>

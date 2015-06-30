@@ -1,0 +1,72 @@
+<map id="G" name="G">
+<area shape="rect" id="node1" href="$d7/d58/classtuttle_1_1host_1_1attribute_1_1Attribute.html" title="tuttle::host::attribute::Attribute" alt="" coords="869,689,1065,716"/>
+<area shape="rect" id="node3" href="$db/dd3/classtuttle_1_1host_1_1attribute_1_1ClipImage.html" title="tuttle::host::attribute::ClipImage" alt="" coords="1829,1019,2035,1045"/>
+<area shape="rect" id="node5" href="$d2/d75/classtuttle_1_1host_1_1attribute_1_1Param.html" title="tuttle::host::attribute::Param" alt="" coords="1329,613,1514,640"/>
+<area shape="rect" id="node7" href="$d4/dfb/classtuttle_1_1host_1_1attribute_1_1AnimatedParam.html" title="tuttle::host::attribute::AnimatedParam\&lt; double, ofx::attribute::OfxhParamDouble \&gt;" alt="" coords="1683,563,2181,589"/>
+<area shape="rect" id="node13" href="$d4/dfb/classtuttle_1_1host_1_1attribute_1_1AnimatedParam.html" title="tuttle::host::attribute::AnimatedParam\&lt; T, OFX_PARAM \&gt;" alt="" coords="1751,613,2113,640"/>
+<area shape="rect" id="node17" href="$d9/d34/classtuttle_1_1host_1_1attribute_1_1ParamBoolean.html" title="tuttle::host::attribute::ParamBoolean" alt="" coords="1816,208,2048,235"/>
+<area shape="rect" id="node19" href="$d9/dc9/classtuttle_1_1host_1_1attribute_1_1ParamChoice.html" title="tuttle::host::attribute::ParamChoice" alt="" coords="1819,259,2045,285"/>
+<area shape="rect" id="node21" href="$dc/d83/classtuttle_1_1host_1_1attribute_1_1ParamCustom.html" title="tuttle::host::attribute::ParamCustom" alt="" coords="2255,765,2486,792"/>
+<area shape="rect" id="node23" href="$d2/df6/classtuttle_1_1host_1_1attribute_1_1ParamDouble2D.html" title="tuttle::host::attribute::ParamDouble2D" alt="" coords="2249,123,2492,149"/>
+<area shape="rect" id="node25" href="$d3/dda/classtuttle_1_1host_1_1attribute_1_1ParamDouble3D.html" title="tuttle::host::attribute::ParamDouble3D" alt="" coords="2249,261,2492,288"/>
+<area shape="rect" id="node27" href="$db/d8b/classtuttle_1_1host_1_1attribute_1_1ParamGroup.html" title="tuttle::host::attribute::ParamGroup" alt="" coords="1822,968,2042,995"/>
+<area shape="rect" id="node29" href="$db/dc4/classtuttle_1_1host_1_1attribute_1_1ParamInteger2D.html" title="tuttle::host::attribute::ParamInteger2D" alt="" coords="1811,715,2053,741"/>
+<area shape="rect" id="node31" href="$d6/d09/classtuttle_1_1host_1_1attribute_1_1ParamInteger3D.html" title="tuttle::host::attribute::ParamInteger3D" alt="" coords="1811,765,2053,792"/>
+<area shape="rect" id="node33" href="$d3/d9f/classtuttle_1_1host_1_1attribute_1_1ParamPage.html" title="tuttle::host::attribute::ParamPage" alt="" coords="1825,917,2039,944"/>
+<area shape="rect" id="node35" href="$d3/d00/classtuttle_1_1host_1_1attribute_1_1ParamPushButton.html" title="tuttle::host::attribute::ParamPushButton" alt="" coords="1805,309,2059,336"/>
+<area shape="rect" id="node37" href="$d2/d1d/classtuttle_1_1host_1_1attribute_1_1ParamRGB.html" title="tuttle::host::attribute::ParamRGB" alt="" coords="2263,489,2478,516"/>
+<area shape="rect" id="node39" href="$de/d25/classtuttle_1_1host_1_1attribute_1_1ParamRGBA.html" title="tuttle::host::attribute::ParamRGBA" alt="" coords="2259,28,2482,55"/>
+<area shape="rect" id="node41" href="$d5/d24/classtuttle_1_1host_1_1attribute_1_1ParamString.html" title="tuttle::host::attribute::ParamString" alt="" coords="1823,816,2041,843"/>
+<area shape="rect" id="node9" href="$d7/d65/classtuttle_1_1host_1_1attribute_1_1AnimatedParamDouble.html" title="This class is just a re&#45;implementation dedicated to Double Param. It allows implicit conversion from ..." alt="" coords="2230,563,2511,589"/>
+<area shape="rect" id="node11" href="$d7/d90/classtuttle_1_1host_1_1attribute_1_1ParamDouble.html" title="tuttle::host::attribute::ParamDouble" alt="" coords="2560,563,2787,589"/>
+<area shape="rect" id="node15" href="$d7/d9e/classtuttle_1_1host_1_1attribute_1_1ParamInteger.html" title="tuttle::host::attribute::ParamInteger" alt="" coords="2258,613,2483,640"/>
+<area shape="rect" id="node42" href="$d6/dc0/classtuttle_1_1host_1_1INode.html" title="tuttle::host::INode" alt="" coords="903,1044,1030,1071"/>
+<area shape="rect" id="node44" href="$dc/df6/classtuttle_1_1host_1_1ImageEffectNode.html" title="tuttle::host::ImageEffectNode" alt="" coords="1324,1095,1519,1121"/>
+<area shape="rect" id="node45" href="$d1/dbd/classtuttle_1_1host_1_1ofx_1_1attribute_1_1OfxhAttributeAccessor.html" title="tuttle::host::ofx::attribute::OfxhAttributeAccessor" alt="" coords="10,715,315,741"/>
+<area shape="rect" id="node47" href="$d1/d9d/classtuttle_1_1host_1_1ofx_1_1attribute_1_1OfxhAttribute.html" title="tuttle::host::ofx::attribute::OfxhAttribute" alt="" coords="421,689,672,716"/>
+<area shape="rect" id="node104" href="$d7/d4d/classtuttle_1_1host_1_1ofx_1_1attribute_1_1OfxhAttributeDescriptor.html" title="tuttle::host::ofx::attribute::OfxhAttributeDescriptor" alt="" coords="391,740,702,767"/>
+<area shape="rect" id="node112" href="$dd/dc2/classtuttle_1_1host_1_1ofx_1_1attribute_1_1OfxhClipAccessor.html" title="tuttle::host::ofx::attribute::OfxhClipAccessor" alt="" coords="407,841,686,868"/>
+<area shape="rect" id="node120" href="$d7/d9d/classtuttle_1_1host_1_1ofx_1_1attribute_1_1OfxhParamAccessor.html" title="base class for all params" alt="" coords="399,639,694,665"/>
+<area shape="rect" id="node49" href="$d4/dad/classtuttle_1_1host_1_1ofx_1_1attribute_1_1OfxhClip.html" title="tuttle::host::ofx::attribute::OfxhClip" alt="" coords="855,841,1079,868"/>
+<area shape="rect" id="node54" href="$d1/dfc/classtuttle_1_1host_1_1ofx_1_1attribute_1_1OfxhParam.html" title="plugin parameter instance" alt="" coords="847,588,1086,615"/>
+<area shape="rect" id="node51" href="$d1/dab/classtuttle_1_1host_1_1ofx_1_1attribute_1_1OfxhClipImage.html" title="a clip image instance" alt="" coords="1291,1019,1551,1045"/>
+<area shape="rect" id="node56" href="$d1/df7/classtuttle_1_1host_1_1ofx_1_1attribute_1_1OfxhMultiDimParam.html" title="tuttle::host::ofx::attribute::OfxhMultiDimParam\&lt; ParamDouble, DIM \&gt;" alt="" coords="1208,132,1635,159"/>
+<area shape="rect" id="node70" href="$d1/df7/classtuttle_1_1host_1_1ofx_1_1attribute_1_1OfxhMultiDimParam.html" title="tuttle::host::ofx::attribute::OfxhMultiDimParam\&lt; ParamInteger, 2 \&gt;" alt="" coords="1217,664,1625,691"/>
+<area shape="rect" id="node73" href="$d1/df7/classtuttle_1_1host_1_1ofx_1_1attribute_1_1OfxhMultiDimParam.html" title="tuttle::host::ofx::attribute::OfxhMultiDimParam\&lt; ParamInteger, 3 \&gt;" alt="" coords="1217,715,1625,741"/>
+<area shape="rect" id="node76" href="$d1/df7/classtuttle_1_1host_1_1ofx_1_1attribute_1_1OfxhMultiDimParam.html" title="tuttle::host::ofx::attribute::OfxhMultiDimParam\&lt; T, DIM \&gt;" alt="" coords="1243,360,1599,387"/>
+<area shape="rect" id="node78" href="$da/d2b/classtuttle_1_1host_1_1ofx_1_1attribute_1_1OfxhParamBoolean.html" title="tuttle::host::ofx::attribute::OfxhParamBoolean" alt="" coords="1278,309,1565,336"/>
+<area shape="rect" id="node81" href="$dd/db1/classtuttle_1_1host_1_1ofx_1_1attribute_1_1OfxhParamChoice.html" title="tuttle::host::ofx::attribute::OfxhParamChoice" alt="" coords="1281,411,1561,437"/>
+<area shape="rect" id="node84" href="$db/dc2/classtuttle_1_1host_1_1ofx_1_1attribute_1_1OfxhParamDouble.html" title="tuttle::host::ofx::attribute::OfxhParamDouble" alt="" coords="1281,512,1561,539"/>
+<area shape="rect" id="node87" href="$dc/d44/classtuttle_1_1host_1_1ofx_1_1attribute_1_1OfxhParamGroup.html" title="tuttle::host::ofx::attribute::OfxhParamGroup" alt="" coords="1284,867,1559,893"/>
+<area shape="rect" id="node90" href="$d3/d59/classtuttle_1_1host_1_1ofx_1_1attribute_1_1OfxhParamInteger.html" title="tuttle::host::ofx::attribute::OfxhParamInteger" alt="" coords="1282,563,1561,589"/>
+<area shape="rect" id="node92" href="$da/d78/classtuttle_1_1host_1_1ofx_1_1attribute_1_1OfxhParamPage.html" title="tuttle::host::ofx::attribute::OfxhParamPage" alt="" coords="1287,816,1556,843"/>
+<area shape="rect" id="node95" href="$dd/d8b/classtuttle_1_1host_1_1ofx_1_1attribute_1_1OfxhParamPushButton.html" title="tuttle::host::ofx::attribute::OfxhParamPushButton" alt="" coords="1268,461,1575,488"/>
+<area shape="rect" id="node98" href="$d7/dbf/classtuttle_1_1host_1_1ofx_1_1attribute_1_1OfxhParamString.html" title="tuttle::host::ofx::attribute::OfxhParamString" alt="" coords="1285,765,1558,792"/>
+<area shape="rect" id="node58" href="$da/d33/classtuttle_1_1host_1_1attribute_1_1ParamDoubleMultiDim.html" title="tuttle::host::attribute::ParamDoubleMultiDim\&lt; 2 \&gt;" alt="" coords="1777,56,2087,83"/>
+<area shape="rect" id="node61" href="$da/d33/classtuttle_1_1host_1_1attribute_1_1ParamDoubleMultiDim.html" title="tuttle::host::attribute::ParamDoubleMultiDim\&lt; 3 \&gt;" alt="" coords="1777,107,2087,133"/>
+<area shape="rect" id="node65" href="$da/d33/classtuttle_1_1host_1_1attribute_1_1ParamDoubleMultiDim.html" title="tuttle::host::attribute::ParamDoubleMultiDim\&lt; 4 \&gt;" alt="" coords="1777,5,2087,32"/>
+<area shape="rect" id="node68" href="$da/d33/classtuttle_1_1host_1_1attribute_1_1ParamDoubleMultiDim.html" title="tuttle::host::attribute::ParamDoubleMultiDim\&lt; DIM \&gt;" alt="" coords="1769,157,2095,184"/>
+<area shape="rect" id="node101" href="$d1/d73/classtuttle_1_1host_1_1ofx_1_1attribute_1_1OfxhParamCustom.html" title="tuttle::host::ofx::attribute::OfxhParamCustom" alt="" coords="1789,867,2075,893"/>
+<area shape="rect" id="node106" href="$dc/d62/classtuttle_1_1host_1_1ofx_1_1attribute_1_1OfxhClipDescriptor.html" title="tuttle::host::ofx::attribute::OfxhClipDescriptor" alt="" coords="825,791,1109,817"/>
+<area shape="rect" id="node110" href="$dd/d39/classtuttle_1_1host_1_1ofx_1_1attribute_1_1OfxhParamDescriptor.html" title="the Descriptor of a plugin parameter" alt="" coords="817,740,1116,767"/>
+<area shape="rect" id="node108" href="$d3/d24/classtuttle_1_1host_1_1ofx_1_1attribute_1_1OfxhClipImageDescriptor.html" title="tuttle::host::ofx::attribute::OfxhClipImageDescriptor" alt="" coords="1261,968,1581,995"/>
+<area shape="rect" id="node116" href="$d6/df4/classtuttle_1_1host_1_1ofx_1_1attribute_1_1OfxhClipImageAccessor.html" title="tuttle::host::ofx::attribute::OfxhClipImageAccessor" alt="" coords="809,943,1124,969"/>
+<area shape="rect" id="node124" href="$db/dc0/classtuttle_1_1host_1_1ofx_1_1attribute_1_1OfxhKeyframeParam.html" title="tuttle::host::ofx::attribute::OfxhKeyframeParam" alt="" coords="819,487,1114,513"/>
+<area shape="rect" id="node135" href="$df/d18/classtuttle_1_1host_1_1ofx_1_1attribute_1_1OfxhParamSetAccessor.html" title="base class to the param set instance and param set descriptor" alt="" coords="5,917,320,944"/>
+<area shape="rect" id="node137" href="$d0/d5e/classtuttle_1_1host_1_1ofx_1_1attribute_1_1OfxhParamSet.html" title="tuttle::host::ofx::attribute::OfxhParamSet" alt="" coords="417,943,676,969"/>
+<area shape="rect" id="node143" href="$dc/de0/classtuttle_1_1host_1_1ofx_1_1attribute_1_1OfxhParamSetDescriptor.html" title="a set of parameters" alt="" coords="387,892,706,919"/>
+<area shape="rect" id="node140" href="$de/d55/classtuttle_1_1host_1_1ofx_1_1imageEffect_1_1OfxhImageEffectNode.html" title="tuttle::host::ofx::imageEffect::OfxhImageEffectNode" alt="" coords="803,1095,1130,1121"/>
+<area shape="rect" id="node145" href="$de/de4/classtuttle_1_1host_1_1ofx_1_1imageEffect_1_1OfxhImageEffectNodeDescriptor.html" title="tuttle::host::ofx::imageEffect::OfxhImageEffectNodeDescriptor" alt="" coords="773,993,1160,1020"/>
+<area shape="rect" id="node146" href="$df/de5/classtuttle_1_1host_1_1ofx_1_1interact_1_1OfxhInteractBase.html" title="tuttle::host::ofx::interact::OfxhInteractBase" alt="" coords="411,1297,682,1324"/>
+<area shape="rect" id="node148" href="$de/d9a/classtuttle_1_1host_1_1ofx_1_1interact_1_1OfxhInteract.html" title="tuttle::host::ofx::interact::OfxhInteract" alt="" coords="846,1196,1087,1223"/>
+<area shape="rect" id="node152" href="$df/d1b/classtuttle_1_1host_1_1ofx_1_1interact_1_1OfxhInteractDescriptor.html" title="Descriptor for an interact. Interacts all share a single description." alt="" coords="816,1297,1117,1324"/>
+<area shape="rect" id="node150" href="$d0/de9/classtuttle_1_1host_1_1OverlayInteract.html" title="tuttle::host::OverlayInteract" alt="" coords="1331,1196,1512,1223"/>
+<area shape="rect" id="node153" href="$d0/dd3/classtuttle_1_1host_1_1ofx_1_1OfxhIObject.html" title="All openfx objects that can be send to the plugin need to inherit this class. So all these objects ca..." alt="" coords="69,1069,257,1096"/>
+<area shape="rect" id="node155" href="$d5/d4f/classtuttle_1_1host_1_1ofx_1_1attribute_1_1OfxhClipImageSet.html" title="tuttle::host::ofx::attribute::OfxhClipImageSet" alt="" coords="407,1044,687,1071"/>
+<area shape="rect" id="node159" href="$d8/d1e/classtuttle_1_1host_1_1ofx_1_1imageEffect_1_1OfxhImageEffectNodeBase.html" title="tuttle::host::ofx::imageEffect::OfxhImageEffectNodeBase" alt="" coords="369,993,725,1020"/>
+<area shape="rect" id="node163" href="$df/dc0/classtuttle_1_1host_1_1ofx_1_1OfxhIMessage.html" title="tuttle::host::ofx::OfxhIMessage" alt="" coords="445,1095,648,1121"/>
+<area shape="rect" id="node166" href="$d9/d6a/classtuttle_1_1host_1_1ofx_1_1OfxhIProgress.html" title="tuttle::host::ofx::OfxhIProgress" alt="" coords="445,1196,648,1223"/>
+<area shape="rect" id="node169" href="$d4/d7e/classtuttle_1_1host_1_1ofx_1_1OfxhITimeline.html" title="tuttle::host::ofx::OfxhITimeline" alt="" coords="447,1247,646,1273"/>
+<area shape="rect" id="node171" href="$d8/d0c/classtuttle_1_1host_1_1ofx_1_1property_1_1OfxhGetHook.html" title="tuttle::host::ofx::property::OfxhGetHook" alt="" coords="420,1145,673,1172"/>
+<area shape="rect" id="node175" href="$dd/dd3/classtuttle_1_1host_1_1ofx_1_1property_1_1OfxhNotifyHook.html" title="tuttle::host::ofx::property::OfxhNotifyHook" alt="" coords="413,791,680,817"/>
+</map>

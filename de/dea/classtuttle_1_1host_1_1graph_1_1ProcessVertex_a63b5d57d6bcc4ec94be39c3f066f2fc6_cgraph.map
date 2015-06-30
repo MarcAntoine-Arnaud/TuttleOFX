@@ -1,0 +1,16 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$d9/d6b/namespacetuttle_1_1host_1_1graph.html#aa6780b3359877c7a8cb00217f782e186" title="Use this function to force the correct syntax. os &lt;&lt; dotEntry( &quot;label&quot;, &quot;fooNode&quot;); output: [label=&quot;f..." alt="" coords="483,5,664,32"/>
+<area shape="rect" id="node5" href="$d1/dab/classtuttle_1_1host_1_1ofx_1_1attribute_1_1OfxhClipImage.html#ac97ed9b44fdf6d037d688b61efce79f8" title="fetch depth of all chromatic component in this clip" alt="" coords="388,56,759,83"/>
+<area shape="rect" id="node11" href="$d1/dab/classtuttle_1_1host_1_1ofx_1_1attribute_1_1OfxhClipImage.html#a70eb90732a88e79264ba4db8967d1fe4" title="tuttle::host::ofx::attribute::OfxhClipImage::getComponentsString" alt="" coords="376,107,771,133"/>
+<area shape="rect" id="node15" href="$d1/dab/classtuttle_1_1host_1_1ofx_1_1attribute_1_1OfxhClipImage.html#af52bb75bcfc844d140c296cf54694a75" title="tuttle::host::ofx::attribute::OfxhClipImage::getFrameRange" alt="" coords="393,208,754,235"/>
+<area shape="rect" id="node20" href="$db/dd3/classtuttle_1_1host_1_1attribute_1_1ClipImage.html#a9b17957ef086770514ad48e942940757" title="Frame Rate The frame rate of a clip or instance&#39;s project." alt="" coords="425,157,722,184"/>
+<area shape="rect" id="node23" href="$da/d41/classtuttle_1_1host_1_1graph_1_1IVertex.html#ae497b9c70cf8ab5d062028e17e64fb58" title="tuttle::host::graph::IVertex::getName" alt="" coords="871,284,1105,311"/>
+<area shape="rect" id="node25" href="$dc/df6/classtuttle_1_1host_1_1ImageEffectNode.html#a30a35130c57b2ae9c59700a602e8af6d" title="tuttle::host::ImageEffectNode::getOutputClip" alt="" coords="432,360,715,387"/>
+<area shape="rect" id="node29" href="$da/d41/classtuttle_1_1host_1_1graph_1_1IVertex.html#a37244cbe55372033aa6391f6d9d35b6c" title="tuttle::host::graph::IVertex::getProcessNode" alt="" coords="434,309,713,336"/>
+<area shape="rect" id="node32" href="$da/d41/classtuttle_1_1host_1_1graph_1_1IVertex.html#ab2e0e4dec82a81e1d598147449e71f7f" title="tuttle::host::graph::IVertex::isFake" alt="" coords="463,411,684,437"/>
+<area shape="rect" id="node34" href="$d9/d6b/namespacetuttle_1_1host_1_1graph.html#aa092b14fb4e922e90257a0fe854a5104" title="tuttle::host::graph::subDotEntry" alt="" coords="471,461,676,488"/>
+<area shape="rect" id="node7" href="$d1/d9d/classtuttle_1_1host_1_1ofx_1_1attribute_1_1OfxhAttribute.html#a63bf42137afa64ab0e37537e7404add6" title="tuttle::host::ofx::attribute::OfxhAttribute::getProperties" alt="" coords="821,145,1155,172"/>
+<area shape="rect" id="node9" href="$db/dc8/classtuttle_1_1host_1_1ofx_1_1property_1_1OfxhSet.html#ad3455a816a53f81c7382f2a755f9f2c5" title="get the value of a particular string property" alt="" coords="823,69,1153,96"/>
+<area shape="rect" id="node18" href="$db/dc8/classtuttle_1_1host_1_1ofx_1_1property_1_1OfxhSet.html#afc064add87802be3add9630ae70e7b7c" title="get the value of a particular double property" alt="" coords="819,208,1157,235"/>
+<area shape="rect" id="node27" href="$dc/df6/classtuttle_1_1host_1_1ImageEffectNode.html#a8ebd9fbd445a09c4d186d609aa57a63b" title="tuttle::host::ImageEffectNode::getClip" alt="" coords="867,360,1109,387"/>
+</map>

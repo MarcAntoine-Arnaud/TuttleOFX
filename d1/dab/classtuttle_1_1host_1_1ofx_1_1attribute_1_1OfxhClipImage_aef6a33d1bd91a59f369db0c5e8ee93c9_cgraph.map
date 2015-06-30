@@ -1,0 +1,10 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$db/dc8/classtuttle_1_1host_1_1ofx_1_1property_1_1OfxhSet.html#ad2e6c7df7300e4f13cbc15e8d2f834d9" title="tuttle::host::ofx::property::OfxhSet::fetchLocalStringProperty" alt="" coords="475,5,847,32"/>
+<area shape="rect" id="node5" href="$d1/dab/classtuttle_1_1host_1_1ofx_1_1attribute_1_1OfxhClipImage.html#a11dbc89b9f072be01b49e000bc9f1ad6" title="fetch depth of all chromatic component in this clip" alt="" coords="493,56,830,83"/>
+<area shape="rect" id="node13" href="$dd/d48/namespacetuttle_1_1ofx_1_1imageEffect.html#a505dca59edac98771d6d00869fddb53d" title="map a std::string to a context" alt="" coords="925,107,1248,133"/>
+<area shape="rect" id="node15" href="$d1/d9d/classtuttle_1_1host_1_1ofx_1_1attribute_1_1OfxhAttribute.html#a5a58bf74358d0031e4045c8037c8f5b7" title="tuttle::host::ofx::attribute::OfxhAttribute::getEditableProperties" alt="" coords="470,157,853,184"/>
+<area shape="rect" id="node18" href="$d6/d97/classtuttle_1_1host_1_1ofx_1_1property_1_1OfxhPropertyTemplate.html#ab5c17520333b4375a0fa1d22e7c43d6a" title="set one value" alt="" coords="480,208,843,235"/>
+<area shape="rect" id="node7" href="$d1/dab/classtuttle_1_1host_1_1ofx_1_1attribute_1_1OfxhClipImage.html#ac97ed9b44fdf6d037d688b61efce79f8" title="fetch depth of all chromatic component in this clip" alt="" coords="901,56,1272,83"/>
+<area shape="rect" id="node9" href="$d1/d9d/classtuttle_1_1host_1_1ofx_1_1attribute_1_1OfxhAttribute.html#a63bf42137afa64ab0e37537e7404add6" title="tuttle::host::ofx::attribute::OfxhAttribute::getProperties" alt="" coords="1321,31,1655,57"/>
+<area shape="rect" id="node11" href="$db/dc8/classtuttle_1_1host_1_1ofx_1_1property_1_1OfxhSet.html#ad3455a816a53f81c7382f2a755f9f2c5" title="get the value of a particular string property" alt="" coords="1323,81,1653,108"/>
+</map>

@@ -1,0 +1,12 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$db/d69/ImageEffectGilPlugin_8hpp.html" title="TuttleOFX/libraries/tuttle/src/tuttle/plugin/ImageEffectGilPlugin.hpp" alt="" coords="895,80,1304,107"/>
+<area shape="rect" id="node5" href="$da/df5/GeneratorPlugin_8hpp.html" title="TuttleOFX/libraries/tuttle/src/tuttle/plugin/context/GeneratorPlugin.hpp" alt="" coords="5,155,432,181"/>
+<area shape="rect" id="node9" href="$de/db1/ReaderPlugin_8hpp.html" title="TuttleOFX/libraries/tuttle/src/tuttle/plugin/context/ReaderPlugin.hpp" alt="" coords="456,155,867,181"/>
+<area shape="rect" id="node13" href="$d4/d1c/SamplerPlugin_8hpp.html" title="TuttleOFX/libraries/tuttle/src/tuttle/plugin/context/SamplerPlugin.hpp" alt="" coords="891,155,1308,181"/>
+<area shape="rect" id="node17" href="$d1/d91/WriterPlugin_8hpp.html" title="TuttleOFX/libraries/tuttle/src/tuttle/plugin/context/WriterPlugin.hpp" alt="" coords="1333,155,1736,181"/>
+<area shape="rect" id="node21" href="$d1/d5d/ImageEffectGilPlugin_8cpp.html" title="TuttleOFX/libraries/tuttle/src/tuttle/plugin/ImageEffectGilPlugin.cpp" alt="" coords="1761,155,2169,181"/>
+<area shape="rect" id="node7" href="$d1/d89/GeneratorPlugin_8cpp.html" title="TuttleOFX/libraries/tuttle/src/tuttle/plugin/context/GeneratorPlugin.cpp" alt="" coords="5,229,432,256"/>
+<area shape="rect" id="node11" href="$d2/d75/ReaderPlugin_8cpp.html" title="TuttleOFX/libraries/tuttle/src/tuttle/plugin/context/ReaderPlugin.cpp" alt="" coords="456,229,867,256"/>
+<area shape="rect" id="node15" href="$dc/d93/SamplerPlugin_8cpp.html" title="TuttleOFX/libraries/tuttle/src/tuttle/plugin/context/SamplerPlugin.cpp" alt="" coords="891,229,1308,256"/>
+<area shape="rect" id="node19" href="$d6/d8c/WriterPlugin_8cpp.html" title="TuttleOFX/libraries/tuttle/src/tuttle/plugin/context/WriterPlugin.cpp" alt="" coords="1333,229,1736,256"/>
+</map>

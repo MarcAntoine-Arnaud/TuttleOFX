@@ -1,0 +1,8 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$de/d55/classtuttle_1_1host_1_1ofx_1_1imageEffect_1_1OfxhImageEffectNode.html#afb6d9496a50a161d77742a18e161535a" title="this is used retrieve any out args after the action was called in mainEntry" alt="" coords="470,5,901,32"/>
+<area shape="rect" id="node5" href="$db/dc8/classtuttle_1_1host_1_1ofx_1_1property_1_1OfxhSet.html#a384feefa53e7c58419806e167007d3b8" title="get a handle on this object for passing to the C API" alt="" coords="541,56,829,83"/>
+<area shape="rect" id="node7" href="$da/d09/classtuttle_1_1host_1_1ofx_1_1OfxhPluginLoadGuard.html#ae48367616acfdadf12cebbd25969462a" title="tuttle::host::ofx::OfxhPluginLoadGuard::getOfxPlugin" alt="" coords="521,107,849,133"/>
+<area shape="rect" id="node9" href="$df/d5d/classtuttle_1_1host_1_1ofx_1_1imageEffect_1_1OfxhImageEffectPlugin.html#a9cb2dbb8b6d6beb74f9fc7519e71e169" title="tuttle::host::ofx::imageEffect::OfxhImageEffectPlugin::getPluginLoadGuardPtr" alt="" coords="449,157,922,184"/>
+<area shape="rect" id="node11" href="$de/d55/classtuttle_1_1host_1_1ofx_1_1imageEffect_1_1OfxhImageEffectNode.html#ab00b11aa30735adf48123dfb53943463" title="this is used to populate with any extra action in arguments that may be needed" alt="" coords="467,208,903,235"/>
+<area shape="rect" id="node13" href="$de/d55/classtuttle_1_1host_1_1ofx_1_1imageEffect_1_1OfxhImageEffectNode.html#a8b853be9fcbc5761a70f50c15d4e473f" title="this is used to populate with any extra action out arguments that may be needed" alt="" coords="462,259,909,285"/>
+</map>

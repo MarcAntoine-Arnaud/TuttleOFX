@@ -1,0 +1,12 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$de/d43/classtuttle_1_1host_1_1ComputeOptions.html#a638b1e3e349a0a5574649e68ac9669d6" title="Set the output color enabled or not." alt="" coords="315,5,602,32"/>
+<area shape="rect" id="node7" href="$de/d43/classtuttle_1_1host_1_1ComputeOptions.html#a35759930edd638c5216fd899b5cdd569" title="Continue as much as possible after an error. If an image file inside an image sequence failed to be l..." alt="" coords="302,56,615,83"/>
+<area shape="rect" id="node9" href="$de/d43/classtuttle_1_1host_1_1ComputeOptions.html#ab0e398feb6a6c86a39d7952bef2d6e26" title="Continue as much as possible after an error. If an image file inside an image sequence failed to be l..." alt="" coords="283,107,634,133"/>
+<area shape="rect" id="node11" href="$de/d43/classtuttle_1_1host_1_1ComputeOptions.html#ae32c11f8d4bd1ba593855f20de2c5d69" title="For debug puposes only, you could force to call the process on all identity nodes. This case should never happens to the plugin, so it may fail to do it." alt="" coords="269,157,648,184"/>
+<area shape="rect" id="node13" href="$de/d43/classtuttle_1_1host_1_1ComputeOptions.html#a1e11ba76a851bdbad5895b8ed98bab91" title="Inform plugins about the kind of process: batch or interactive." alt="" coords="315,208,603,235"/>
+<area shape="rect" id="node15" href="$de/d43/classtuttle_1_1host_1_1ComputeOptions.html#a77f6669f146ef68a3696bbfeb0078d68" title="To get a preview of the result, you could set a renderscale." alt="" coords="313,259,604,285"/>
+<area shape="rect" id="node17" href="$de/d43/classtuttle_1_1host_1_1ComputeOptions.html#a7e98c2bd8038e8ac098ce88c79f3166b" title="To get output buffer of all output nodes." alt="" coords="310,309,607,336"/>
+<area shape="rect" id="node19" href="$de/d43/classtuttle_1_1host_1_1ComputeOptions.html#a676e33b798d37c39bcd8bd8ea4826830" title="Set the verbose level of the process." alt="" coords="311,360,606,387"/>
+<area shape="rect" id="node5" href="$da/d3b/classtuttle_1_1common_1_1Color.html#a63fe1071e7b4cbcdfe8822052f793ec5" title="tuttle::common::Color::get" alt="" coords="709,5,883,32"/>
+<area shape="rect" id="node21" href="$dd/dd5/classtuttle_1_1common_1_1Formatter.html#ae587f0f159aa61018734b493ba4e241a" title="tuttle::common::Formatter::get" alt="" coords="697,360,895,387"/>
+</map>

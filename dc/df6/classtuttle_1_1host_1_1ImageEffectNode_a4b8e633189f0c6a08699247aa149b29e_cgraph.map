@@ -1,0 +1,13 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$dc/df6/classtuttle_1_1host_1_1ImageEffectNode.html#a30a35130c57b2ae9c59700a602e8af6d" title="tuttle::host::ImageEffectNode::getOutputClip" alt="" coords="380,19,663,45"/>
+<area shape="rect" id="node7" href="$d1/dab/classtuttle_1_1host_1_1ofx_1_1attribute_1_1OfxhClipImage.html#aa19baad5f5233a353400fb7b9a630d8e" title="tuttle::host::ofx::attribute::OfxhClipImage::getPixelAspectRatio" alt="" coords="328,95,715,121"/>
+<area shape="rect" id="node13" href="$de/d55/classtuttle_1_1host_1_1ofx_1_1imageEffect_1_1OfxhImageEffectNode.html#aa71e5aaa4c384f1fd69dc75cd4c9ca3e" title="tuttle::host::ofx::imageEffect::OfxhImageEffectNode::isIdentityAction" alt="" coords="309,208,733,235"/>
+<area shape="rect" id="node5" href="$dc/df6/classtuttle_1_1host_1_1ImageEffectNode.html#a8ebd9fbd445a09c4d186d609aa57a63b" title="tuttle::host::ImageEffectNode::getClip" alt="" coords="833,5,1076,32"/>
+<area shape="rect" id="node9" href="$d1/d9d/classtuttle_1_1host_1_1ofx_1_1attribute_1_1OfxhAttribute.html#a63bf42137afa64ab0e37537e7404add6" title="tuttle::host::ofx::attribute::OfxhAttribute::getProperties" alt="" coords="787,56,1122,83"/>
+<area shape="rect" id="node11" href="$db/dc8/classtuttle_1_1host_1_1ofx_1_1property_1_1OfxhSet.html#afc064add87802be3add9630ae70e7b7c" title="get the value of a particular double property" alt="" coords="786,107,1123,133"/>
+<area shape="rect" id="node15" href="$db/dc8/classtuttle_1_1host_1_1ofx_1_1property_1_1OfxhSet.html#a32654a6d0ff3bebe697b2836c255f940" title="set a particular string property without fetching via a get hook, useful for notifies" alt="" coords="789,157,1120,184"/>
+<area shape="rect" id="node17" href="$db/dc8/classtuttle_1_1host_1_1ofx_1_1property_1_1OfxhSet.html#a0531611320fc76e6fbe1dab5658b2cec" title="get a particular double property" alt="" coords="786,208,1123,235"/>
+<area shape="rect" id="node19" href="$db/dc8/classtuttle_1_1host_1_1ofx_1_1property_1_1OfxhSet.html#a179cf4809adbc62771b7404e31ef69c9" title="set a particular double property" alt="" coords="794,259,1115,285"/>
+<area shape="rect" id="node21" href="$db/dc8/classtuttle_1_1host_1_1ofx_1_1property_1_1OfxhSet.html#a2bb46a5f5d914e0fae46ad75ef4a6ddf" title="get a particular double property" alt="" coords="781,309,1128,336"/>
+<area shape="rect" id="node24" href="$db/dc8/classtuttle_1_1host_1_1ofx_1_1property_1_1OfxhSet.html#ad3455a816a53f81c7382f2a755f9f2c5" title="get the value of a particular string property" alt="" coords="789,360,1120,387"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$de/d29/structtuttle_1_1plugin_1_1interact_1_1Color.html" title="{tuttle::plugin::interact::Color\n|+ _color\l|+ Color()\l+ Color()\l+ getColor()\l}" alt="" coords="5,147,187,253"/>
+<area shape="rect" id="node5" href="$df/de8/structtuttle_1_1plugin_1_1interact_1_1ColorRGBAParam.html" title="{tuttle::plugin::interact::ColorRGBAParam\n|+ _param\l|+ ColorRGBAParam()\l+ getColor()\l}" alt="" coords="212,154,469,246"/>
+<area shape="rect" id="node7" href="$d1/d73/structtuttle_1_1plugin_1_1interact_1_1ColorRGBParam.html" title="{tuttle::plugin::interact::ColorRGBParam\n|+ _param\l|+ ColorRGBParam()\l+ getColor()\l}" alt="" coords="495,154,745,246"/>
+</map>

@@ -1,0 +1,10 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$df/d1b/classtuttle_1_1host_1_1ofx_1_1interact_1_1OfxhInteractDescriptor.html#a2e58846ff58dd038f6e44f045a004d9f" title="call describe on this descriptor, returns true if all went well" alt="" coords="657,68,1015,95"/>
+<area shape="rect" id="node11" href="$d8/d1e/classtuttle_1_1host_1_1ofx_1_1imageEffect_1_1OfxhImageEffectNodeBase.html#a2e918c6fb8eecf4b21c203e3852e89e3" title="get the overlay interact main entry if it exists" alt="" coords="571,144,1101,171"/>
+<area shape="rect" id="node15" href="$df/d1b/classtuttle_1_1host_1_1ofx_1_1interact_1_1OfxhInteractDescriptor.html#a311222d5f4005ca33fbf0317aeac2353" title="what is it&#39;s state?" alt="" coords="657,195,1015,221"/>
+<area shape="rect" id="node17" href="$df/d1b/classtuttle_1_1host_1_1ofx_1_1interact_1_1OfxhInteractDescriptor.html#a78f4f22387246db52ef8d5e9539b8708" title="set the main entry points" alt="" coords="642,245,1030,272"/>
+<area shape="rect" id="node5" href="$db/dc8/classtuttle_1_1host_1_1ofx_1_1property_1_1OfxhSet.html#a2110c0e43429db10446b7fa0a7f62dd1" title="set a particular int property" alt="" coords="1174,5,1485,32"/>
+<area shape="rect" id="node7" href="$df/d1b/classtuttle_1_1host_1_1ofx_1_1interact_1_1OfxhInteractDescriptor.html#af3d1177c3e6ee3b755db8418aa0fabb5" title="call the entry point with action and the given args" alt="" coords="1149,56,1509,83"/>
+<area shape="rect" id="node9" href="$df/de5/classtuttle_1_1host_1_1ofx_1_1interact_1_1OfxhInteractBase.html#a1ce98bd3f8311de456b7479912061709" title="grab a handle on the parameter for passing to the C API" alt="" coords="1160,107,1499,133"/>
+<area shape="rect" id="node13" href="$db/dc8/classtuttle_1_1host_1_1ofx_1_1property_1_1OfxhSet.html#a48d3280a8ca43310907fda71f95023ac" title="get the value of a particular pointer property" alt="" coords="1161,157,1498,184"/>
+</map>

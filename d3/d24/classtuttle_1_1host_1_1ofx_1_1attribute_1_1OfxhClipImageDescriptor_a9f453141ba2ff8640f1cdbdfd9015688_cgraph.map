@@ -1,0 +1,6 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$db/dc8/classtuttle_1_1host_1_1ofx_1_1property_1_1OfxhSet.html#ae4f6e8aadabf45e1bf55dfced998989e" title="adds a bunch of properties from PropSpec" alt="" coords="411,5,720,32"/>
+<area shape="rect" id="node9" href="$db/dc8/classtuttle_1_1host_1_1ofx_1_1property_1_1OfxhSet.html#a32654a6d0ff3bebe697b2836c255f940" title="set a particular string property without fetching via a get hook, useful for notifies" alt="" coords="400,56,731,83"/>
+<area shape="rect" id="node5" href="$db/dc8/classtuttle_1_1host_1_1ofx_1_1property_1_1OfxhSet.html#a6c87c959bb4175ec30daadfe0d44da11" title="add one new property" alt="" coords="779,5,1093,32"/>
+<area shape="rect" id="node7" href="$dc/dd4/namespacetuttle_1_1host_1_1ofx_1_1property.html#a6db68329639d790e07cc142c3cf89e11" title="tuttle::host::ofx::property::mapTypeEnumToString" alt="" coords="1142,5,1453,32"/>
+</map>

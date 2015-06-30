@@ -1,0 +1,8 @@
+<map id="G" name="G">
+<area shape="rect" id="node5" href="$d9/d80/classtuttle_1_1plugin_1_1ImageProcessor.html" title="Base class that can be used to process images of any type." alt="" coords="80,453,349,824"/>
+<area shape="rect" id="node2" href="$d2/dae/classtuttle_1_1plugin_1_1IProgress.html" title="{tuttle::plugin::IProgress\n||+ ~IProgress()\l+ progressBegin()\l+ progressEnd()\l+ progressForward()\l}" alt="" coords="136,6,293,127"/>
+<area shape="rect" id="node7" href="$de/d63/classtuttle_1_1plugin_1_1ImageGilProcessor.html" title="{tuttle::plugin::ImageGilProcessor\&lt; DView \&gt;\n|# _dstView\l|+ ImageGilProcessor()\l+ ~ImageGilProcessor()\l+ setup()\l+ getView()\l+ getCustomView()\l}" alt="" coords="43,1075,317,1211"/>
+<area shape="rect" id="node11" href="$dd/d2f/classtuttle_1_1plugin_1_1ImageFilterProcessor.html" title="Base class that can be used to process images of any type using boost::gil library view to access ima..." alt="" coords="102,875,327,1011"/>
+<area shape="rect" id="node13" href="$de/d63/classtuttle_1_1plugin_1_1ImageGilProcessor.html" title="Base class that can be used to process images of any type using boost::gil library view to access ima..." alt="" coords="351,875,616,1011"/>
+<area shape="rect" id="node9" href="$d5/d6a/classtuttle_1_1plugin_1_1ImageGilFilterProcessor.html" title="Base class that can be used to process images of any type using boost::gil library view to access ima..." alt="" coords="5,1262,355,1413"/>
+</map>

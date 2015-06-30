@@ -1,0 +1,7 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$de/d55/classtuttle_1_1host_1_1ofx_1_1imageEffect_1_1OfxhImageEffectNode.html#a9a33579f26a474220c650678705e6a51" title="tuttle::host::ofx::imageEffect::OfxhImageEffectNode::getOutputOfxhClip" alt="" coords="547,5,989,32"/>
+<area shape="rect" id="node7" href="$d1/dab/classtuttle_1_1host_1_1ofx_1_1attribute_1_1OfxhClipImage.html#aa19baad5f5233a353400fb7b9a630d8e" title="tuttle::host::ofx::attribute::OfxhClipImage::getPixelAspectRatio" alt="" coords="575,56,961,83"/>
+<area shape="rect" id="node5" href="$d5/d4f/classtuttle_1_1host_1_1ofx_1_1attribute_1_1OfxhClipImageSet.html#ac3bcdf38ea0762fd36f054ff68d247f4" title="tuttle::host::ofx::attribute::OfxhClipImageSet::getClip" alt="" coords="1042,5,1371,32"/>
+<area shape="rect" id="node9" href="$db/dc8/classtuttle_1_1host_1_1ofx_1_1property_1_1OfxhSet.html#afc064add87802be3add9630ae70e7b7c" title="get the value of a particular double property" alt="" coords="1038,56,1375,83"/>
+<area shape="rect" id="node11" href="$d1/d9d/classtuttle_1_1host_1_1ofx_1_1attribute_1_1OfxhAttribute.html#a63bf42137afa64ab0e37537e7404add6" title="tuttle::host::ofx::attribute::OfxhAttribute::getProperties" alt="" coords="1039,107,1374,133"/>
+</map>

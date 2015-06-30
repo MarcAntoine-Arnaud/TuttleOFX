@@ -1,0 +1,11 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$d6/d2c/classtuttle_1_1host_1_1ofx_1_1OfxhPluginCache.html#a2dd12a280c2d38a196e2eaa3be7609de" title="find the API cache handler for the given api/apiverson" alt="" coords="363,5,677,32"/>
+<area shape="rect" id="node5" href="$de/d55/classtuttle_1_1host_1_1ofx_1_1OfxhBinary.html#aebb1f6f2460482af9ad8506a9b29b89e" title="tuttle::host::ofx::OfxhBinary::findSymbol" alt="" coords="392,56,648,83"/>
+<area shape="rect" id="node9" href="$de/d55/classtuttle_1_1host_1_1ofx_1_1OfxhBinary.html#a726a12e9dbf89d3b70219eed765b0130" title="Path to the file." alt="" coords="383,107,657,133"/>
+<area shape="rect" id="node11" href="$de/d55/classtuttle_1_1host_1_1ofx_1_1OfxhBinary.html#a6f8be11347370fe572155a2de1aece25" title="Current size of the file." alt="" coords="403,157,637,184"/>
+<area shape="rect" id="node13" href="$de/d55/classtuttle_1_1host_1_1ofx_1_1OfxhBinary.html#a9808d52ab205a1956d7cf64d8ec81aa9" title="Last modification time of the file." alt="" coords="401,208,639,235"/>
+<area shape="rect" id="node15" href="$de/d55/classtuttle_1_1host_1_1ofx_1_1OfxhBinary.html#a24129006b338ba025260cc2cc5591eec" title="open the binary." alt="" coords="413,259,627,285"/>
+<area shape="rect" id="node18" href="$de/d55/classtuttle_1_1host_1_1ofx_1_1OfxhBinary.html#a842ef41073812a3b5fd031eacb385548" title="set invalid status (e.g. called by user if a mandatory symbol was missing)" alt="" coords="397,309,643,336"/>
+<area shape="rect" id="node20" href="$de/d55/classtuttle_1_1host_1_1ofx_1_1OfxhBinary.html#a525b33266ba5b65abddf4cc9cf194320" title="close the binary" alt="" coords="405,360,635,387"/>
+<area shape="rect" id="node7" href="$d2/d7f/namespacetuttle.html#a87ac1f9750141f52daffed18951b58be" title="tuttle::quotes" alt="" coords="725,157,824,184"/>
+</map>

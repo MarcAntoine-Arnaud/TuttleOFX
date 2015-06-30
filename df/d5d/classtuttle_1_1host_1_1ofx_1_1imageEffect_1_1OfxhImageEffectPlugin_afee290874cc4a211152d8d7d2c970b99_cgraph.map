@@ -1,0 +1,12 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$df/d5d/classtuttle_1_1host_1_1ofx_1_1imageEffect_1_1OfxhImageEffectPlugin.html#a085f27a7ae4f997b7480ff279676f9e2" title="tuttle::host::ofx::imageEffect::OfxhImageEffectPlugin::getApiHandler" alt="" coords="536,5,957,32"/>
+<area shape="rect" id="node5" href="$df/d5d/classtuttle_1_1host_1_1ofx_1_1imageEffect_1_1OfxhImageEffectPlugin.html#a9efeb361c7c97b05edc5c48e0fcd1c8e" title="get the base image effect descriptor" alt="" coords="1018,56,1435,83"/>
+<area shape="rect" id="node7" href="$d3/d43/classtuttle_1_1host_1_1ofx_1_1OfxhPluginDesc.html#ae8f68a3675156401e1a9eb1bd37164bb" title="tuttle::host::ofx::OfxhPluginDesc::getIdentifier" alt="" coords="602,107,891,133"/>
+<area shape="rect" id="node9" href="$df/d5d/classtuttle_1_1host_1_1ofx_1_1imageEffect_1_1OfxhImageEffectPlugin.html#a783880b7d65c35f07e8488a5ef61765f" title="tuttle::host::ofx::imageEffect::OfxhImageEffectPlugin::initContexts" alt="" coords="542,157,951,184"/>
+<area shape="rect" id="node11" href="$df/d5d/classtuttle_1_1host_1_1ofx_1_1imageEffect_1_1OfxhImageEffectPlugin.html#a9fa63b104e47c682dcd3dad0ecfb7c1b" title="tuttle::host::ofx::imageEffect::OfxhImageEffectPlugin::addContext" alt="" coords="1023,107,1430,133"/>
+<area shape="rect" id="node14" href="$db/dc8/classtuttle_1_1host_1_1ofx_1_1property_1_1OfxhSet.html#a28303829c305482437c8e12cb1b8c996" title="get the dimension of a particular property" alt="" coords="1072,157,1381,184"/>
+<area shape="rect" id="node21" href="$d8/d1e/classtuttle_1_1host_1_1ofx_1_1imageEffect_1_1OfxhImageEffectNodeBase.html#ae5aece28ee4518c45899d38181a1008d" title="tuttle::host::ofx::imageEffect::OfxhImageEffectNodeBase::getProperties" alt="" coords="1006,208,1447,235"/>
+<area shape="rect" id="node23" href="$db/dc8/classtuttle_1_1host_1_1ofx_1_1property_1_1OfxhSet.html#ad3455a816a53f81c7382f2a755f9f2c5" title="get the value of a particular string property" alt="" coords="1061,259,1392,285"/>
+<area shape="rect" id="node16" href="$db/dc8/classtuttle_1_1host_1_1ofx_1_1property_1_1OfxhSet.html#a49e82bcaa85b8a713b385a84f6b46573" title="tuttle::host::ofx::property::OfxhSet::fetchProperty" alt="" coords="1512,132,1819,159"/>
+<area shape="rect" id="node19" href="$db/d1f/classtuttle_1_1host_1_1ofx_1_1property_1_1OfxhProperty.html#a93d474f91ba00e2c329d81badc6e3101" title="tuttle::host::ofx::property::OfxhProperty::getDimension" alt="" coords="1496,183,1835,209"/>
+</map>

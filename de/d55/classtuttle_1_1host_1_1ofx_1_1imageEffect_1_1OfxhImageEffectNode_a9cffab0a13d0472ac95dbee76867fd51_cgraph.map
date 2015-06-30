@@ -1,0 +1,10 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$d9/dec/namespacetuttle_1_1ofx.html#add5dd38c00eb82cd1dfed32e022af1cb" title="clamp the value" alt="" coords="655,56,775,83"/>
+<area shape="rect" id="node9" href="$db/dc8/classtuttle_1_1host_1_1ofx_1_1property_1_1OfxhSet.html#a6c87c959bb4175ec30daadfe0d44da11" title="add one new property" alt="" coords="557,107,872,133"/>
+<area shape="rect" id="node13" href="$db/dc8/classtuttle_1_1host_1_1ofx_1_1property_1_1OfxhSet.html#afc064add87802be3add9630ae70e7b7c" title="get the value of a particular double property" alt="" coords="546,157,883,184"/>
+<area shape="rect" id="node15" href="$db/dc8/classtuttle_1_1host_1_1ofx_1_1property_1_1OfxhSet.html#a0531611320fc76e6fbe1dab5658b2cec" title="get a particular double property" alt="" coords="546,208,883,235"/>
+<area shape="rect" id="node17" href="$db/dc8/classtuttle_1_1host_1_1ofx_1_1property_1_1OfxhSet.html#a2bb46a5f5d914e0fae46ad75ef4a6ddf" title="get a particular double property" alt="" coords="541,259,888,285"/>
+<area shape="rect" id="node5" href="$d2/d7f/namespacetuttle.html#afbd150ec02af9b6e21b9d758f8aae158" title="tuttle::min" alt="" coords="1052,5,1132,32"/>
+<area shape="rect" id="node7" href="$d2/d7f/namespacetuttle.html#ae47d39ffbfd26c4920c2b25e8c0da3cc" title="tuttle::max" alt="" coords="1050,56,1134,83"/>
+<area shape="rect" id="node11" href="$dc/dd4/namespacetuttle_1_1host_1_1ofx_1_1property.html#a6db68329639d790e07cc142c3cf89e11" title="tuttle::host::ofx::property::mapTypeEnumToString" alt="" coords="937,107,1247,133"/>
+</map>

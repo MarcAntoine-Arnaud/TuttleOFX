@@ -1,0 +1,4 @@
+<map id="G" name="G">
+<area shape="rect" id="node2" href="$da/d61/classtuttle_1_1host_1_1ofx_1_1imageEffect_1_1OfxhImageEffectHost.html" title="{tuttle::host::ofx::imageEffect::OfxhImageEffectHost\n||+ OfxhImageEffectHost()\l+ ~OfxhImageEffectHost()\l+ fetchSuite()\l+ newInstance()\l+ loadingStatus()\l+ pluginSupported()\l+ makeDescriptor()\l+ makeDescriptor()\l+ makeDescriptor()\l+ initDescriptor()\l}" alt="" coords="4,265,325,474"/>
+<area shape="rect" id="node4" href="$dc/df2/classtuttle_1_1host_1_1ofx_1_1OfxhHost.html" title="{tuttle::host::ofx::OfxhHost\n|# _host\l# _properties\l|+ OfxhHost()\l+ ~OfxhHost()\l+ getProperties()\l+ getProperties()\l+ fetchSuite()\l+ getHandle()\l+ verifyMagic()\l+ initDescriptor()\l+ vmessage()\l}" alt="" coords="78,6,252,215"/>
+</map>

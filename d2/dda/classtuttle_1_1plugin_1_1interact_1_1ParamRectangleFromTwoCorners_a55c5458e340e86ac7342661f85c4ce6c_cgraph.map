@@ -1,0 +1,11 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$d8/d91/namespacetuttle_1_1plugin_1_1overlay.html#a666793d3b6af45b8b79095c2d17be668" title="tuttle::plugin::overlay::displayRect" alt="" coords="486,56,706,83"/>
+<area shape="rect" id="node5" href="$d0/deb/classtuttle_1_1plugin_1_1interact_1_1PointInteract.html#a9f6a14474789c18e1835ec2c14e41b7b" title="the function called to draw in the interact" alt="" coords="465,107,727,133"/>
+<area shape="rect" id="node17" href="$d0/d1a/namespacetuttle_1_1plugin.html#a89fbd46bf16ce2a47d0753bfefc854ba" title="tuttle::plugin::ofxToGil" alt="" coords="521,157,671,184"/>
+<area shape="rect" id="node19" href="$d0/d1a/namespacetuttle_1_1plugin.html#af64cd9ea5d5794eeaa7e60f1cea77f27" title="tuttle::plugin::pointNormalizedXXcToCanonicalXY" alt="" coords="441,208,751,235"/>
+<area shape="rect" id="node7" href="$d0/deb/classtuttle_1_1plugin_1_1interact_1_1PointInteract.html#a17d56ae823a845a07fc17536c474d50a" title="tuttle::plugin::interact::PointInteract::getMarge" alt="" coords="812,5,1100,32"/>
+<area shape="rect" id="node9" href="$d0/deb/classtuttle_1_1plugin_1_1interact_1_1PointInteract.html#abf67214529caa551a8f5904bbbb5106e" title="tuttle::plugin::interact::PointInteract::getPoint" alt="" coords="815,56,1097,83"/>
+<area shape="rect" id="node11" href="$dd/d02/classtuttle_1_1plugin_1_1interact_1_1InteractObject.html#a281ca492b24bbee69e50beaaf0c79a4b" title="tuttle::plugin::interact::InteractObject::getSelected" alt="" coords="801,107,1111,133"/>
+<area shape="rect" id="node13" href="$d8/d91/namespacetuttle_1_1plugin_1_1overlay.html#ae04fa93336229f87c6f3afd3f6b8ee03" title="tuttle::plugin::overlay::displayPointRect" alt="" coords="831,157,1081,184"/>
+<area shape="rect" id="node15" href="$d8/d91/namespacetuttle_1_1plugin_1_1overlay.html#a0ba060922cd6c9039efc1150bccc9150" title="tuttle::plugin::overlay::displayCross" alt="" coords="843,208,1069,235"/>
+</map>

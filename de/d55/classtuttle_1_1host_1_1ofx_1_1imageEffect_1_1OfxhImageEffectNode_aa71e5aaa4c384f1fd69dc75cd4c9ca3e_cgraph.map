@@ -1,0 +1,8 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$db/dc8/classtuttle_1_1host_1_1ofx_1_1property_1_1OfxhSet.html#afc064add87802be3add9630ae70e7b7c" title="get the value of a particular double property" alt="" coords="482,5,819,32"/>
+<area shape="rect" id="node5" href="$db/dc8/classtuttle_1_1host_1_1ofx_1_1property_1_1OfxhSet.html#ad3455a816a53f81c7382f2a755f9f2c5" title="get the value of a particular string property" alt="" coords="485,56,816,83"/>
+<area shape="rect" id="node7" href="$db/dc8/classtuttle_1_1host_1_1ofx_1_1property_1_1OfxhSet.html#a0531611320fc76e6fbe1dab5658b2cec" title="get a particular double property" alt="" coords="482,107,819,133"/>
+<area shape="rect" id="node9" href="$db/dc8/classtuttle_1_1host_1_1ofx_1_1property_1_1OfxhSet.html#a2bb46a5f5d914e0fae46ad75ef4a6ddf" title="get a particular double property" alt="" coords="477,157,824,184"/>
+<area shape="rect" id="node11" href="$db/dc8/classtuttle_1_1host_1_1ofx_1_1property_1_1OfxhSet.html#a179cf4809adbc62771b7404e31ef69c9" title="set a particular double property" alt="" coords="490,208,811,235"/>
+<area shape="rect" id="node13" href="$db/dc8/classtuttle_1_1host_1_1ofx_1_1property_1_1OfxhSet.html#a32654a6d0ff3bebe697b2836c255f940" title="set a particular string property without fetching via a get hook, useful for notifies" alt="" coords="485,259,816,285"/>
+</map>

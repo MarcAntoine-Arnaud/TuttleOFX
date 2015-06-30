@@ -1,0 +1,22 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$d4/d1c/SamplerPlugin_8hpp.html" title="SamplerPlugin.hpp" alt="" coords="700,80,829,107"/>
+<area shape="rect" id="node5" href="$d9/d7f/SamplerDefinition_8hpp.html" title="SamplerDefinition.hpp" alt="" coords="319,155,469,181"/>
+<area shape="rect" id="node11" href="$db/d69/ImageEffectGilPlugin_8hpp.html" title="tuttle/plugin/ImageEffectGilPlugin.hpp" alt="" coords="1802,155,2043,181"/>
+<area shape="rect" id="node38" href="$d4/db8/plugin_2exceptions_8hpp.html" title="tuttle/plugin/exceptions.hpp" alt="" coords="1681,229,1863,256"/>
+<area shape="rect" id="node13" href="$db/d96/plugin_2global_8hpp.html" title="tuttle/plugin/global.hpp" alt="" coords="1921,304,2073,331"/>
+<area shape="rect" id="node103" href="$dc/dd4/all_8hpp.html" title="tuttle/plugin/ofxToGil/all.hpp" alt="" coords="2797,304,2981,331"/>
+<area shape="rect" id="node115" href="$dc/de5/ImageEffectGilPlugin_8tcc.html" title="ImageEffectGilPlugin.tcc" alt="" coords="2099,229,2265,256"/>
+<area shape="rect" id="node15" href="$df/df9/common_2utils_2global_8hpp.html" title="tuttle/common/utils/global.hpp" alt="" coords="1842,453,2037,480"/>
+<area shape="rect" id="node19" href="$d9/d2e/Formatter_8hpp.html" title="Formatter.hpp" alt="" coords="2061,528,2163,555"/>
+<area shape="rect" id="node22" href="$dd/d90/system_8hpp.html" title="tuttle/common/system/system.hpp" alt="" coords="727,528,949,555"/>
+<area shape="rect" id="node24" href="$dd/d80/compatibility_8hpp.html" title="tuttle/common/system/compatibility.hpp" alt="" coords="2187,528,2441,555"/>
+<area shape="rect" id="node26" href="$d9/d43/windows_8h.html" title="tuttle/common/system/windows/windows.h" alt="" coords="2466,528,2739,555"/>
+<area shape="rect" id="node36" href="$d8/d16/release_8hpp.html" title="release.hpp" alt="" coords="1947,528,2036,555"/>
+<area shape="rect" id="node40" href="$db/d29/common_2exceptions_8hpp.html" title="tuttle/common/exceptions.hpp" alt="" coords="1673,304,1871,331"/>
+<area shape="rect" id="node42" href="$d4/d42/boost__error__info__sstream_8hpp.html" title="utils/boost_error_info_sstream.hpp" alt="" coords="2198,379,2420,405"/>
+<area shape="rect" id="node53" href="$da/dfe/backtrace_8hpp.html" title="utils/backtrace.hpp" alt="" coords="174,379,305,405"/>
+<area shape="rect" id="node66" href="$da/d47/core_8hpp.html" title="tuttle/common/ofx/core.hpp" alt="" coords="2596,379,2777,405"/>
+<area shape="rect" id="node72" href="$dc/d5f/utilities_8hpp.html" title="tuttle/common/ofx/utilities.hpp" alt="" coords="699,379,896,405"/>
+<area shape="rect" id="node93" href="$d0/d16/common_2utils_2color_8hpp.html" title="tuttle/common/utils/color.hpp" alt="" coords="433,379,623,405"/>
+<area shape="rect" id="node105" href="$d0/de4/point_8hpp.html" title="point.hpp" alt="" coords="2801,379,2875,405"/>
+</map>

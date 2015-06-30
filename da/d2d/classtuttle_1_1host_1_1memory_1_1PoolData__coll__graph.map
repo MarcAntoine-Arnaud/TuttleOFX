@@ -1,0 +1,5 @@
+<map id="G" name="G">
+<area shape="rect" id="node2" href="$d2/d1b/classtuttle_1_1host_1_1memory_1_1IPoolData.html" title="{tuttle::host::memory::IPoolData\n||+ ~IPoolData()\l+ data()\l+ data()\l+ size()\l+ reservedSize()\l+ setSize()\l}" alt="" coords="5,163,211,314"/>
+<area shape="rect" id="node4" href="$d6/daa/classtuttle_1_1host_1_1memory_1_1IUnknown.html" title="{tuttle::host::memory::IUnknown\n||+ ~IUnknown()\l+ addRef()\l+ release()\l}" alt="" coords="5,5,211,112"/>
+<area shape="rect" id="node6" href="$d7/d5b/classtuttle_1_1host_1_1memory_1_1IPool.html" title="forward declaration" alt="" coords="235,185,412,292"/>
+</map>

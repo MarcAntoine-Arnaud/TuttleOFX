@@ -1,0 +1,24 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$db/dd3/classtuttle_1_1host_1_1attribute_1_1ClipImage.html#a997dcd060a9bb17b616965c625236b5e" title="tuttle::host::attribute::ClipImage::getConnectedClip" alt="" coords="926,7,1245,34"/>
+<area shape="rect" id="node5" href="$dc/df6/classtuttle_1_1host_1_1ImageEffectNode.html#a1dece05f83ecfbc0884158f4c08ae8b7" title="tuttle::host::ImageEffectNode::getDefaultTimeDomain" alt="" coords="445,184,781,211"/>
+<area shape="rect" id="node7" href="$d1/dbd/classtuttle_1_1host_1_1ofx_1_1attribute_1_1OfxhAttributeAccessor.html#a9a7f6fa9ba00352e303f162f11ca6540" title="is the clip an output clip" alt="" coords="904,58,1267,84"/>
+<area shape="rect" id="node15" href="$dd/dc2/classtuttle_1_1host_1_1ofx_1_1attribute_1_1OfxhClipAccessor.html#a4cfa0f7d859e260cb216c8b3745fe749" title="tuttle::host::ofx::attribute::OfxhClipAccessor::isConnected" alt="" coords="905,311,1265,338"/>
+<area shape="rect" id="node29" href="$d1/dab/classtuttle_1_1host_1_1ofx_1_1attribute_1_1OfxhClipImage.html#af52bb75bcfc844d140c296cf54694a75" title="tuttle::host::ofx::attribute::OfxhClipImage::getFrameRange" alt="" coords="433,362,794,388"/>
+<area shape="rect" id="node35" href="$dc/df6/classtuttle_1_1host_1_1ImageEffectNode.html#a97b755b4cc770fb93adc3fd867965beb" title="tuttle::host::ImageEffectNode::getName" alt="" coords="486,463,741,490"/>
+<area shape="rect" id="node37" href="$de/d55/classtuttle_1_1host_1_1ofx_1_1imageEffect_1_1OfxhImageEffectNode.html#a90b0bed9f73b8938a4a0ef68c1ec4d7d" title="tuttle::host::ofx::imageEffect::OfxhImageEffectNode::getTimeDomainAction" alt="" coords="382,412,845,439"/>
+<area shape="rect" id="node44" href="$d2/d7f/namespacetuttle.html#a87ac1f9750141f52daffed18951b58be" title="tuttle::quotes" alt="" coords="564,514,663,540"/>
+<area shape="rect" id="node46" href="$db/dd3/classtuttle_1_1host_1_1attribute_1_1ClipImage.html#a07a0d8770004bc1328a21b8c2724c45b" title="Frame Range (startFrame, endFrame) The frame range over which a clip has images." alt="" coords="460,564,767,591"/>
+<area shape="rect" id="node50" href="$db/dd3/classtuttle_1_1host_1_1attribute_1_1ClipImage.html#aa28fb6ee757c0fd8383da36fc875f1af" title="Unmapped Frame Range &#45; The unmaped frame range over which an output clip has images." alt="" coords="428,615,799,642"/>
+<area shape="rect" id="node21" href="$d7/d58/classtuttle_1_1host_1_1attribute_1_1Attribute.html#a3f70f88825447f81c5aa66c0bd3694e2" title="tuttle::host::attribute::Attribute::getNode" alt="" coords="959,159,1212,186"/>
+<area shape="rect" id="node23" href="$d6/dc0/classtuttle_1_1host_1_1INode.html#a82cc859318eeb494a5d1f806018b9e68" title="tuttle::host::INode::getTimeDomain" alt="" coords="972,210,1199,236"/>
+<area shape="rect" id="node25" href="$d2/d7f/namespacetuttle.html#afbd150ec02af9b6e21b9d758f8aae158" title="tuttle::min" alt="" coords="1045,260,1125,287"/>
+<area shape="rect" id="node27" href="$d2/d7f/namespacetuttle.html#ae47d39ffbfd26c4920c2b25e8c0da3cc" title="tuttle::max" alt="" coords="1043,108,1127,135"/>
+<area shape="rect" id="node9" href="$d1/dbd/classtuttle_1_1host_1_1ofx_1_1attribute_1_1OfxhAttributeAccessor.html#a5dd0b6a71e059db4f3eaa1bf23b208d8" title="tuttle::host::ofx::attribute::OfxhAttributeAccessor::getName" alt="" coords="1326,134,1693,160"/>
+<area shape="rect" id="node11" href="$d1/dbd/classtuttle_1_1host_1_1ofx_1_1attribute_1_1OfxhAttributeAccessor.html#afc39d1c719a76f2a906468bad6d90a45" title="tuttle::host::ofx::attribute::OfxhAttributeAccessor::getProperties" alt="" coords="1742,247,2133,274"/>
+<area shape="rect" id="node13" href="$db/dc8/classtuttle_1_1host_1_1ofx_1_1property_1_1OfxhSet.html#ad3455a816a53f81c7382f2a755f9f2c5" title="get the value of a particular string property" alt="" coords="1772,134,2103,160"/>
+<area shape="rect" id="node18" href="$db/dc8/classtuttle_1_1host_1_1ofx_1_1property_1_1OfxhSet.html#a93aa0eb3c85c46638935cd97331ed87f" title="get the value of a particular int property" alt="" coords="1354,260,1665,287"/>
+<area shape="rect" id="node31" href="$d1/d9d/classtuttle_1_1host_1_1ofx_1_1attribute_1_1OfxhAttribute.html#a63bf42137afa64ab0e37537e7404add6" title="tuttle::host::ofx::attribute::OfxhAttribute::getProperties" alt="" coords="918,362,1253,388"/>
+<area shape="rect" id="node33" href="$db/dc8/classtuttle_1_1host_1_1ofx_1_1property_1_1OfxhSet.html#afc064add87802be3add9630ae70e7b7c" title="get the value of a particular double property" alt="" coords="917,412,1254,439"/>
+<area shape="rect" id="node39" href="$db/dc8/classtuttle_1_1host_1_1ofx_1_1property_1_1OfxhSet.html#a0531611320fc76e6fbe1dab5658b2cec" title="get a particular double property" alt="" coords="917,463,1254,490"/>
+<area shape="rect" id="node48" href="$d1/d9d/classtuttle_1_1host_1_1ofx_1_1attribute_1_1OfxhAttribute.html#a5a58bf74358d0031e4045c8037c8f5b7" title="tuttle::host::ofx::attribute::OfxhAttribute::getEditableProperties" alt="" coords="894,590,1277,616"/>
+</map>

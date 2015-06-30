@@ -1,0 +1,10 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$d6/d6a/classtuttle_1_1host_1_1ofx_1_1imageEffect_1_1OfxhImage.html#a64213215c00c6af329fd5454d9692b89" title="tuttle::host::ofx::imageEffect::OfxhImage::getBitDepth" alt="" coords="325,5,662,32"/>
+<area shape="rect" id="node7" href="$d6/d6a/classtuttle_1_1host_1_1ofx_1_1imageEffect_1_1OfxhImage.html#af1e4c842e2b676fe200318dbb6e074a4" title="get the bounds of the pixels in memory" alt="" coords="328,107,659,133"/>
+<area shape="rect" id="node11" href="$d6/d6a/classtuttle_1_1host_1_1ofx_1_1imageEffect_1_1OfxhImage.html#a1ecf5a3ee9d7a716c467fe211cf1658b" title="tuttle::host::ofx::imageEffect::OfxhImage::getComponentsType" alt="" coords="299,56,688,83"/>
+<area shape="rect" id="node14" href="$d8/d5b/classtuttle_1_1host_1_1attribute_1_1Image.html#a34f870b816801ee6300e4f0658fd3229" title="tuttle::host::attribute::Image::getPixelData" alt="" coords="360,157,627,184"/>
+<area shape="rect" id="node16" href="$d6/d6a/classtuttle_1_1host_1_1ofx_1_1imageEffect_1_1OfxhImage.html#aab6208a340aaa1ff546172c51511572f" title="tuttle::host::ofx::imageEffect::OfxhImage::getRowBytes" alt="" coords="320,208,667,235"/>
+<area shape="rect" id="node5" href="$db/dc8/classtuttle_1_1host_1_1ofx_1_1property_1_1OfxhSet.html#ad3455a816a53f81c7382f2a755f9f2c5" title="get the value of a particular string property" alt="" coords="736,31,1067,57"/>
+<area shape="rect" id="node9" href="$db/dc8/classtuttle_1_1host_1_1ofx_1_1property_1_1OfxhSet.html#a7ef1ef4f225414f3950651b04752ae2c" title="get the value of a particular double property" alt="" coords="741,107,1062,133"/>
+<area shape="rect" id="node18" href="$db/dc8/classtuttle_1_1host_1_1ofx_1_1property_1_1OfxhSet.html#a93aa0eb3c85c46638935cd97331ed87f" title="get the value of a particular int property" alt="" coords="746,208,1057,235"/>
+</map>

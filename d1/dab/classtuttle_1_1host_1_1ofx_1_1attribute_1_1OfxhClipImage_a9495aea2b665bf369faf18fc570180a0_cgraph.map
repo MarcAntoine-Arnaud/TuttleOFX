@@ -1,0 +1,7 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$dd/d48/namespacetuttle_1_1ofx_1_1imageEffect.html#a373b96838d4f965f03b9d5ef354a33f3" title="tuttle::ofx::imageEffect::mapBitDepthEnumToString" alt="" coords="416,5,739,32"/>
+<area shape="rect" id="node5" href="$d1/dab/classtuttle_1_1host_1_1ofx_1_1attribute_1_1OfxhClipImage.html#aace82377ea87e56417a5ee27f0e05e2f" title="tuttle::host::ofx::attribute::OfxhClipImage::setBitDepthString" alt="" coords="392,56,763,83"/>
+<area shape="rect" id="node7" href="$d1/d9d/classtuttle_1_1host_1_1ofx_1_1attribute_1_1OfxhAttribute.html#a5a58bf74358d0031e4045c8037c8f5b7" title="tuttle::host::ofx::attribute::OfxhAttribute::getEditableProperties" alt="" coords="811,5,1194,32"/>
+<area shape="rect" id="node9" href="$db/dc8/classtuttle_1_1host_1_1ofx_1_1property_1_1OfxhSet.html#ad2e6c7df7300e4f13cbc15e8d2f834d9" title="tuttle::host::ofx::property::OfxhSet::fetchLocalStringProperty" alt="" coords="817,56,1189,83"/>
+<area shape="rect" id="node11" href="$d6/d97/classtuttle_1_1host_1_1ofx_1_1property_1_1OfxhPropertyTemplate.html#ab5c17520333b4375a0fa1d22e7c43d6a" title="set one value" alt="" coords="821,107,1184,133"/>
+</map>

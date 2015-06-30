@@ -1,0 +1,8 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$d8/d1e/classtuttle_1_1host_1_1ofx_1_1imageEffect_1_1OfxhImageEffectNodeBase.html#ae5aece28ee4518c45899d38181a1008d" title="tuttle::host::ofx::imageEffect::OfxhImageEffectNodeBase::getProperties" alt="" coords="518,5,959,32"/>
+<area shape="rect" id="node5" href="$de/d55/classtuttle_1_1host_1_1ofx_1_1imageEffect_1_1OfxhImageEffectNode.html#a337321204b17bb56c6a4446c938525a5" title="tuttle::host::ofx::imageEffect::OfxhImageEffectNode::initHook" alt="" coords="547,56,930,83"/>
+<area shape="rect" id="node13" href="$db/dc8/classtuttle_1_1host_1_1ofx_1_1property_1_1OfxhSet.html#ab1707488b9c87c786ae90a04c31bc5c5" title="set the chained property set" alt="" coords="581,107,896,133"/>
+<area shape="rect" id="node7" href="$db/dc8/classtuttle_1_1host_1_1ofx_1_1property_1_1OfxhSet.html#a928825357ab919e941e4e2897c510ed4" title="tuttle::host::ofx::property::OfxhSet::setGetHook" alt="" coords="1008,56,1307,83"/>
+<area shape="rect" id="node9" href="$db/dc8/classtuttle_1_1host_1_1ofx_1_1property_1_1OfxhSet.html#a2380328ed788adddb0ca0bc69ea5f7f3" title="tuttle::host::ofx::property::OfxhSet::fetchLocalProperty" alt="" coords="1355,31,1693,57"/>
+<area shape="rect" id="node11" href="$db/d1f/classtuttle_1_1host_1_1ofx_1_1property_1_1OfxhProperty.html#a3de2b74c9427980a153b6c3b9e108233" title="set the get hook" alt="" coords="1360,81,1688,108"/>
+</map>

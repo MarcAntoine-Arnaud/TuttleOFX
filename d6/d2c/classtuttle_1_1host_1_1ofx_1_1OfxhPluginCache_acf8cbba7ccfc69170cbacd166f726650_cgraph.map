@@ -1,0 +1,20 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$d6/d2c/classtuttle_1_1host_1_1ofx_1_1OfxhPluginCache.html#a945e718705cb9bdd48e5b480cf7280db" title="tuttle::host::ofx::OfxhPluginCache::addPlugin" alt="" coords="439,157,724,184"/>
+<area shape="rect" id="node9" href="$d3/d43/classtuttle_1_1host_1_1ofx_1_1OfxhPluginDesc.html#ae8f68a3675156401e1a9eb1bd37164bb" title="tuttle::host::ofx::OfxhPluginDesc::getIdentifier" alt="" coords="899,259,1189,285"/>
+<area shape="rect" id="node21" href="$df/d6c/classtuttle_1_1host_1_1ofx_1_1APICache_1_1OfxhPluginAPICacheI.html#a3f889627fbc8e7e6cbe9a2b381eff16c" title="tuttle::host::ofx::APICache::OfxhPluginAPICacheI::confirmPlugin" alt="" coords="381,664,782,691"/>
+<area shape="rect" id="node23" href="$d7/d76/classtuttle_1_1host_1_1ofx_1_1OfxhPlugin.html#a3a7cd8c929ef3b873f24b2b15261be19" title="tuttle::host::ofx::OfxhPlugin::getApiHandler" alt="" coords="908,309,1180,336"/>
+<area shape="rect" id="node26" href="$df/d6c/classtuttle_1_1host_1_1ofx_1_1APICache_1_1OfxhPluginAPICacheI.html#ae7f707d305fc30bd98127a480209ca53" title="tuttle::host::ofx::APICache::OfxhPluginAPICacheI::loadFromPlugin" alt="" coords="838,563,1250,589"/>
+<area shape="rect" id="node28" href="$df/d6c/classtuttle_1_1host_1_1ofx_1_1APICache_1_1OfxhPluginAPICacheI.html#a36fed1a27a0f0f192bb085a6527333f7" title="tuttle::host::ofx::APICache::OfxhPluginAPICacheI::pluginSupported" alt="" coords="374,715,789,741"/>
+<area shape="rect" id="node30" href="$d2/d7f/namespacetuttle.html#a87ac1f9750141f52daffed18951b58be" title="tuttle::quotes" alt="" coords="995,613,1093,640"/>
+<area shape="rect" id="node32" href="$d6/d2c/classtuttle_1_1host_1_1ofx_1_1OfxhPluginCache.html#a1c4e882fd3478d7bad3dab043caec2cf" title="tuttle::host::ofx::OfxhPluginCache::scanDirectory" alt="" coords="427,461,736,488"/>
+<area shape="rect" id="node44" href="$d6/d2c/classtuttle_1_1host_1_1ofx_1_1OfxhPluginCache.html#a6f9842c36bddc12a0e745c6755e1c18c" title="tuttle::host::ofx::OfxhPluginCache::setDirty" alt="" coords="907,664,1181,691"/>
+<area shape="rect" id="node5" href="$d7/d76/classtuttle_1_1host_1_1ofx_1_1OfxhPlugin.html#a466685302ca0453055a1667b1cb71052" title="tuttle::host::ofx::OfxhPlugin::getBinary" alt="" coords="921,5,1167,32"/>
+<area shape="rect" id="node7" href="$dc/d22/classtuttle_1_1host_1_1ofx_1_1OfxhPluginBinary.html#a757a69df4523605fa20daaf1b75068b9" title="tuttle::host::ofx::OfxhPluginBinary::getFilePath" alt="" coords="897,56,1191,83"/>
+<area shape="rect" id="node11" href="$d3/d43/classtuttle_1_1host_1_1ofx_1_1OfxhPluginDesc.html#ac4b12201dd2495dda4889d80f5111878" title="tuttle::host::ofx::OfxhPluginDesc::getIdentity" alt="" coords="903,107,1185,133"/>
+<area shape="rect" id="node13" href="$d3/d43/classtuttle_1_1host_1_1ofx_1_1OfxhPluginDesc.html#a42b541710417dfcaced1fd3929d74ca5" title="tuttle::host::ofx::OfxhPluginDesc::getRawIdentifier" alt="" coords="886,157,1202,184"/>
+<area shape="rect" id="node15" href="$d7/d76/classtuttle_1_1host_1_1ofx_1_1OfxhPlugin.html#a25844b521a313011fcab820480f87742" title="tuttle::host::ofx::OfxhPlugin::trumps" alt="" coords="929,208,1159,235"/>
+<area shape="rect" id="node17" href="$d3/d43/classtuttle_1_1host_1_1ofx_1_1OfxhPluginDesc.html#a484c9013b645f0fe31d722507e56b58e" title="tuttle::host::ofx::OfxhPluginDesc::getVersionMajor" alt="" coords="1299,284,1613,311"/>
+<area shape="rect" id="node19" href="$d3/d43/classtuttle_1_1host_1_1ofx_1_1OfxhPluginDesc.html#af1fdbdf69321e3447e1ee6d4d4e00092" title="tuttle::host::ofx::OfxhPluginDesc::getVersionMinor" alt="" coords="1299,360,1613,387"/>
+<area shape="rect" id="node36" href="$dc/d22/classtuttle_1_1host_1_1ofx_1_1OfxhPluginBinary.html#a03716787fe0a54f062b12935e82f38c1" title="how many plugins?" alt="" coords="895,411,1193,437"/>
+<area shape="rect" id="node38" href="$dc/d22/classtuttle_1_1host_1_1ofx_1_1OfxhPluginBinary.html#a8aa608fcb9df97e2b41e751f1f9b2143" title="get a plugin" alt="" coords="903,512,1185,539"/>
+</map>

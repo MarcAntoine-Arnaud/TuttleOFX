@@ -1,0 +1,34 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$d6/d2c/classtuttle_1_1host_1_1ofx_1_1OfxhPluginCache.html#a3901889346b0f35f985fe525b3b0ff82" title="add a directory to the plugin path" alt="" coords="251,82,595,109"/>
+<area shape="rect" id="node5" href="$d0/d0f/namespacetuttle_1_1host.html#a746fb95bca42f3df0271cb413f04804e" title="tuttle::host::core" alt="" coords="364,133,481,160"/>
+<area shape="rect" id="node9" href="$d2/d07/classtuttle_1_1host_1_1Core.html#a13a46468256749870f649ddeb7b5307d" title="tuttle::host::Core::getImageEffectPluginById" alt="" coords="283,184,563,210"/>
+<area shape="rect" id="node23" href="$d2/d07/classtuttle_1_1host_1_1Core.html#a793a84442b39846c4a827fa81372d024" title="tuttle::host::Core::getPluginCache" alt="" coords="313,234,533,261"/>
+<area shape="rect" id="node25" href="$d2/d07/classtuttle_1_1host_1_1Core.html#ade2a0ab3b98b10c23a8c69a51eab172d" title="tuttle::host::Core::preload" alt="" coords="337,513,508,540"/>
+<area shape="rect" id="node7" href="$de/d69/classSingleton.html#a8c7bf07247779fedadccb1fc482a4b85" title="return the unique instance of Singleton&lt;T&gt; class" alt="" coords="736,133,869,160"/>
+<area shape="rect" id="node11" href="$dc/d22/classtuttle_1_1host_1_1ofx_1_1imageEffect_1_1OfxhImageEffectPluginCache.html#ab94972e484c8541fdd901832bbd631a7" title="tuttle::host::ofx::imageEffect::OfxhImageEffectPluginCache::getPluginById" alt="" coords="1011,82,1469,109"/>
+<area shape="rect" id="node13" href="$d3/d43/classtuttle_1_1host_1_1ofx_1_1OfxhPluginDesc.html#ae8f68a3675156401e1a9eb1bd37164bb" title="tuttle::host::ofx::OfxhPluginDesc::getIdentifier" alt="" coords="1579,336,1869,362"/>
+<area shape="rect" id="node15" href="$d3/d43/classtuttle_1_1host_1_1ofx_1_1OfxhPluginDesc.html#a484c9013b645f0fe31d722507e56b58e" title="tuttle::host::ofx::OfxhPluginDesc::getVersionMajor" alt="" coords="1979,32,2293,58"/>
+<area shape="rect" id="node17" href="$d3/d43/classtuttle_1_1host_1_1ofx_1_1OfxhPluginDesc.html#af1fdbdf69321e3447e1ee6d4d4e00092" title="tuttle::host::ofx::OfxhPluginDesc::getVersionMinor" alt="" coords="1979,82,2293,109"/>
+<area shape="rect" id="node19" href="$d7/d76/classtuttle_1_1host_1_1ofx_1_1OfxhPlugin.html#a25844b521a313011fcab820480f87742" title="tuttle::host::ofx::OfxhPlugin::trumps" alt="" coords="1609,32,1839,58"/>
+<area shape="rect" id="node27" href="$d2/d07/classtuttle_1_1host_1_1Core.html#a7c8d91db6613818bb156b58487b6f4d5" title="tuttle::host::Core::getPreferences" alt="" coords="695,614,911,641"/>
+<area shape="rect" id="node29" href="$dc/df3/classtuttle_1_1host_1_1Preferences.html#a7e51a2e7f246ef6739704f7af5cbbad6" title="tuttle::host::Preferences::getTuttleHomePath" alt="" coords="661,665,944,692"/>
+<area shape="rect" id="node31" href="$d6/d2c/classtuttle_1_1host_1_1ofx_1_1OfxhPluginCache.html#ad5e2c528194b3215658ac8ba0acb00e7" title="Remove all plugins." alt="" coords="1080,336,1400,362"/>
+<area shape="rect" id="node35" href="$d6/d2c/classtuttle_1_1host_1_1ofx_1_1OfxhPluginCache.html#acf8cbba7ccfc69170cbacd166f726650" title="scan for plugins" alt="" coords="643,462,963,489"/>
+<area shape="rect" id="node74" href="$d6/d2c/classtuttle_1_1host_1_1ofx_1_1OfxhPluginCache.html#a5908d778aa7dc4ca98566200d44ef360" title="was the cache outdated?" alt="" coords="669,513,936,540"/>
+<area shape="rect" id="node76" href="$d8/d7a/namespaceOFX.html#a55e963cf55bc941b4822cb9f78677dcd" title="OFX::to_string" alt="" coords="749,564,856,590"/>
+<area shape="rect" id="node33" href="$d6/d2c/classtuttle_1_1host_1_1ofx_1_1OfxhPluginCache.html#a6f9842c36bddc12a0e745c6755e1c18c" title="tuttle::host::ofx::OfxhPluginCache::setDirty" alt="" coords="1587,386,1861,413"/>
+<area shape="rect" id="node37" href="$d6/d2c/classtuttle_1_1host_1_1ofx_1_1OfxhPluginCache.html#a1c4e882fd3478d7bad3dab043caec2cf" title="tuttle::host::ofx::OfxhPluginCache::scanDirectory" alt="" coords="1085,589,1395,616"/>
+<area shape="rect" id="node39" href="$d2/d7f/namespacetuttle.html#a87ac1f9750141f52daffed18951b58be" title="tuttle::quotes" alt="" coords="1675,741,1773,768"/>
+<area shape="rect" id="node46" href="$d7/d76/classtuttle_1_1host_1_1ofx_1_1OfxhPlugin.html#a3a7cd8c929ef3b873f24b2b15261be19" title="tuttle::host::ofx::OfxhPlugin::getApiHandler" alt="" coords="1588,437,1860,464"/>
+<area shape="rect" id="node48" href="$df/d6c/classtuttle_1_1host_1_1ofx_1_1APICache_1_1OfxhPluginAPICacheI.html#ae7f707d305fc30bd98127a480209ca53" title="tuttle::host::ofx::APICache::OfxhPluginAPICacheI::loadFromPlugin" alt="" coords="1518,690,1930,717"/>
+<area shape="rect" id="node56" href="$df/d6c/classtuttle_1_1host_1_1ofx_1_1APICache_1_1OfxhPluginAPICacheI.html#a36fed1a27a0f0f192bb085a6527333f7" title="tuttle::host::ofx::APICache::OfxhPluginAPICacheI::pluginSupported" alt="" coords="1033,437,1447,464"/>
+<area shape="rect" id="node58" href="$d6/d2c/classtuttle_1_1host_1_1ofx_1_1OfxhPluginCache.html#a945e718705cb9bdd48e5b480cf7280db" title="tuttle::host::ofx::OfxhPluginCache::addPlugin" alt="" coords="1097,234,1383,261"/>
+<area shape="rect" id="node70" href="$df/d6c/classtuttle_1_1host_1_1ofx_1_1APICache_1_1OfxhPluginAPICacheI.html#a3f889627fbc8e7e6cbe9a2b381eff16c" title="tuttle::host::ofx::APICache::OfxhPluginAPICacheI::confirmPlugin" alt="" coords="1039,538,1441,565"/>
+<area shape="rect" id="node42" href="$dc/d22/classtuttle_1_1host_1_1ofx_1_1OfxhPluginBinary.html#a03716787fe0a54f062b12935e82f38c1" title="how many plugins?" alt="" coords="1575,538,1873,565"/>
+<area shape="rect" id="node44" href="$dc/d22/classtuttle_1_1host_1_1ofx_1_1OfxhPluginBinary.html#a8aa608fcb9df97e2b41e751f1f9b2143" title="get a plugin" alt="" coords="1583,589,1865,616"/>
+<area shape="rect" id="node60" href="$d3/d43/classtuttle_1_1host_1_1ofx_1_1OfxhPluginDesc.html#ac4b12201dd2495dda4889d80f5111878" title="tuttle::host::ofx::OfxhPluginDesc::getIdentity" alt="" coords="1583,133,1865,160"/>
+<area shape="rect" id="node62" href="$d3/d43/classtuttle_1_1host_1_1ofx_1_1OfxhPluginDesc.html#a42b541710417dfcaced1fd3929d74ca5" title="tuttle::host::ofx::OfxhPluginDesc::getRawIdentifier" alt="" coords="1566,184,1882,210"/>
+<area shape="rect" id="node64" href="$d7/d76/classtuttle_1_1host_1_1ofx_1_1OfxhPlugin.html#a466685302ca0453055a1667b1cb71052" title="tuttle::host::ofx::OfxhPlugin::getBinary" alt="" coords="1601,234,1847,261"/>
+<area shape="rect" id="node66" href="$dc/d22/classtuttle_1_1host_1_1ofx_1_1OfxhPluginBinary.html#a757a69df4523605fa20daaf1b75068b9" title="tuttle::host::ofx::OfxhPluginBinary::getFilePath" alt="" coords="1577,285,1871,312"/>
+<area shape="rect" id="node78" href="$d9/dec/namespacetuttle_1_1ofx.html#a0f09fc8d4c55a7df9b85f7a22921069f" title="maps status to a string" alt="" coords="1141,741,1339,768"/>
+</map>

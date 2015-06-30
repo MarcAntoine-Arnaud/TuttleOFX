@@ -1,0 +1,14 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$db/dc8/classtuttle_1_1host_1_1ofx_1_1property_1_1OfxhSet.html#a93aa0eb3c85c46638935cd97331ed87f" title="get the value of a particular int property" alt="" coords="599,5,910,32"/>
+<area shape="rect" id="node5" href="$da/d09/classtuttle_1_1host_1_1ofx_1_1OfxhPluginLoadGuard.html#ae48367616acfdadf12cebbd25969462a" title="tuttle::host::ofx::OfxhPluginLoadGuard::getOfxPlugin" alt="" coords="591,56,919,83"/>
+<area shape="rect" id="node7" href="$df/d5d/classtuttle_1_1host_1_1ofx_1_1imageEffect_1_1OfxhImageEffectPlugin.html#a9cb2dbb8b6d6beb74f9fc7519e71e169" title="tuttle::host::ofx::imageEffect::OfxhImageEffectPlugin::getPluginLoadGuardPtr" alt="" coords="518,107,991,133"/>
+<area shape="rect" id="node9" href="$d8/d1e/classtuttle_1_1host_1_1ofx_1_1imageEffect_1_1OfxhImageEffectNodeBase.html#ae5aece28ee4518c45899d38181a1008d" title="tuttle::host::ofx::imageEffect::OfxhImageEffectNodeBase::getProperties" alt="" coords="534,157,975,184"/>
+<area shape="rect" id="node11" href="$de/d55/classtuttle_1_1host_1_1ofx_1_1imageEffect_1_1OfxhImageEffectNode.html#a337321204b17bb56c6a4446c938525a5" title="tuttle::host::ofx::imageEffect::OfxhImageEffectNode::initHook" alt="" coords="563,208,946,235"/>
+<area shape="rect" id="node19" href="$db/dc8/classtuttle_1_1host_1_1ofx_1_1property_1_1OfxhSet.html#ab1707488b9c87c786ae90a04c31bc5c5" title="set the chained property set" alt="" coords="597,259,912,285"/>
+<area shape="rect" id="node21" href="$db/dc8/classtuttle_1_1host_1_1ofx_1_1property_1_1OfxhSet.html#a2110c0e43429db10446b7fa0a7f62dd1" title="set a particular int property" alt="" coords="599,309,910,336"/>
+<area shape="rect" id="node23" href="$db/dc8/classtuttle_1_1host_1_1ofx_1_1property_1_1OfxhSet.html#a5e9bd143d801d10f9379dbf83b57340b" title="get a particular double property" alt="" coords="586,360,923,387"/>
+<area shape="rect" id="node25" href="$db/dc8/classtuttle_1_1host_1_1ofx_1_1property_1_1OfxhSet.html#a32654a6d0ff3bebe697b2836c255f940" title="set a particular string property without fetching via a get hook, useful for notifies" alt="" coords="589,411,920,437"/>
+<area shape="rect" id="node13" href="$db/dc8/classtuttle_1_1host_1_1ofx_1_1property_1_1OfxhSet.html#a928825357ab919e941e4e2897c510ed4" title="tuttle::host::ofx::property::OfxhSet::setGetHook" alt="" coords="1040,208,1339,235"/>
+<area shape="rect" id="node15" href="$db/dc8/classtuttle_1_1host_1_1ofx_1_1property_1_1OfxhSet.html#a2380328ed788adddb0ca0bc69ea5f7f3" title="tuttle::host::ofx::property::OfxhSet::fetchLocalProperty" alt="" coords="1387,183,1725,209"/>
+<area shape="rect" id="node17" href="$db/d1f/classtuttle_1_1host_1_1ofx_1_1property_1_1OfxhProperty.html#a3de2b74c9427980a153b6c3b9e108233" title="set the get hook" alt="" coords="1392,233,1720,260"/>
+</map>

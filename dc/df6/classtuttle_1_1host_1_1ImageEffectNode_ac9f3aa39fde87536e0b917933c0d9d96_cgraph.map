@@ -1,0 +1,14 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$d1/dab/classtuttle_1_1host_1_1ofx_1_1attribute_1_1OfxhClipImage.html#a11dbc89b9f072be01b49e000bc9f1ad6" title="fetch depth of all chromatic component in this clip" alt="" coords="795,56,1133,83"/>
+<area shape="rect" id="node13" href="$d1/dab/classtuttle_1_1host_1_1ofx_1_1attribute_1_1OfxhClipImage.html#af8dec23e64515c6d2373036319337d59" title="tuttle::host::ofx::attribute::OfxhClipImage::getNbComponents" alt="" coords="358,120,735,147"/>
+<area shape="rect" id="node25" href="$dc/df6/classtuttle_1_1host_1_1ImageEffectNode.html#a30a35130c57b2ae9c59700a602e8af6d" title="tuttle::host::ImageEffectNode::getOutputClip" alt="" coords="405,183,688,209"/>
+<area shape="rect" id="node5" href="$d1/dab/classtuttle_1_1host_1_1ofx_1_1attribute_1_1OfxhClipImage.html#ac97ed9b44fdf6d037d688b61efce79f8" title="fetch depth of all chromatic component in this clip" alt="" coords="1204,5,1575,32"/>
+<area shape="rect" id="node11" href="$dd/d48/namespacetuttle_1_1ofx_1_1imageEffect.html#a505dca59edac98771d6d00869fddb53d" title="map a std::string to a context" alt="" coords="1228,56,1551,83"/>
+<area shape="rect" id="node7" href="$d1/d9d/classtuttle_1_1host_1_1ofx_1_1attribute_1_1OfxhAttribute.html#a63bf42137afa64ab0e37537e7404add6" title="tuttle::host::ofx::attribute::OfxhAttribute::getProperties" alt="" coords="1635,19,1970,45"/>
+<area shape="rect" id="node9" href="$db/dc8/classtuttle_1_1host_1_1ofx_1_1property_1_1OfxhSet.html#ad3455a816a53f81c7382f2a755f9f2c5" title="get the value of a particular string property" alt="" coords="1637,95,1968,121"/>
+<area shape="rect" id="node15" href="$dd/d48/namespacetuttle_1_1ofx_1_1imageEffect.html#aa738356992534ac07c4c6f9e0f3687a0" title="tuttle::ofx::imageEffect::numberOfComponents" alt="" coords="817,157,1111,184"/>
+<area shape="rect" id="node17" href="$d1/dab/classtuttle_1_1host_1_1ofx_1_1attribute_1_1OfxhClipImage.html#a7ad2ec8166d155f3bd3c6d916027a78f" title="tuttle::host::ofx::attribute::OfxhClipImage::getComponents" alt="" coords="784,107,1144,133"/>
+<area shape="rect" id="node19" href="$dd/d48/namespacetuttle_1_1ofx_1_1imageEffect.html#a1e2b2faf199ad451bb5b076465176151" title="turns a pixel component string into and enum" alt="" coords="1206,157,1573,184"/>
+<area shape="rect" id="node21" href="$d1/dab/classtuttle_1_1host_1_1ofx_1_1attribute_1_1OfxhClipImage.html#a70eb90732a88e79264ba4db8967d1fe4" title="tuttle::host::ofx::attribute::OfxhClipImage::getComponentsString" alt="" coords="1192,107,1587,133"/>
+<area shape="rect" id="node27" href="$dc/df6/classtuttle_1_1host_1_1ImageEffectNode.html#a8ebd9fbd445a09c4d186d609aa57a63b" title="tuttle::host::ImageEffectNode::getClip" alt="" coords="843,208,1085,235"/>
+</map>

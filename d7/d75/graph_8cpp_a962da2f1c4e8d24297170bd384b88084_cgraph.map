@@ -1,0 +1,23 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$d8/d72/classtuttle_1_1host_1_1Graph.html#a73deb10bff86eb5fff005a16e9467d78" title="Add nodes to the graph and connect them linearly." alt="" coords="263,56,521,83"/>
+<area shape="rect" id="node15" href="$d8/d72/classtuttle_1_1host_1_1Graph.html#ad48388d361fa6d3b383ba6a3c5da19cb" title="tuttle::host::Graph::getNbInputConnections" alt="" coords="256,157,528,184"/>
+<area shape="rect" id="node23" href="$d8/d72/classtuttle_1_1host_1_1Graph.html#a5a7ec4d7dba2a2dc2a09e9a448df8137" title="tuttle::host::Graph::getNbOutputConnections" alt="" coords="251,208,533,235"/>
+<area shape="rect" id="node29" href="$d8/d72/classtuttle_1_1host_1_1Graph.html#a642e326117ad31815c87292575f9e633" title="tuttle::host::Graph::getNodesByPlugin" alt="" coords="271,512,513,539"/>
+<area shape="rect" id="node39" href="$d8/d72/classtuttle_1_1host_1_1Graph.html#a44944ff73686b46971de9856424f3802" title="tuttle::host::Graph::unconnect" alt="" coords="295,309,489,336"/>
+<area shape="rect" id="node5" href="$d8/d72/classtuttle_1_1host_1_1Graph.html#a30c1a63adf3de5b2eb38ce6fe68d234f" title="Add nodes to the graph." alt="" coords="679,56,873,83"/>
+<area shape="rect" id="node11" href="$d8/d72/classtuttle_1_1host_1_1Graph.html#ae09d010c511292846d8afbe467af736e" title="Connect nodes (using there unique name in this graph)." alt="" coords="685,5,867,32"/>
+<area shape="rect" id="node7" href="$d8/d72/classtuttle_1_1host_1_1Graph.html#a23190ba311be1d85e8cdf67cf843813a" title="Add a node to the graph. It takes the ownership of the node object." alt="" coords="1019,56,1205,83"/>
+<area shape="rect" id="node9" href="$de/dbb/classtuttle_1_1host_1_1NodeInit.html#af9040128d16197f3ea0816d970c61aad" title="tuttle::host::NodeInit::release" alt="" coords="1254,56,1445,83"/>
+<area shape="rect" id="node13" href="$d8/d72/classtuttle_1_1host_1_1Graph.html#a9b58b5e99a51543823a42752c070264a" title="tuttle::host::Graph::getNode" alt="" coords="1020,5,1204,32"/>
+<area shape="rect" id="node17" href="$d0/d14/classtuttle_1_1host_1_1graph_1_1InternalGraph.html#aee88eac4299afc9d1d34cd55d29fadd0" title="tuttle::host::graph::InternalGraph::getInDegree" alt="" coords="631,107,921,133"/>
+<area shape="rect" id="node19" href="$d0/d14/classtuttle_1_1host_1_1graph_1_1InternalGraph.html#aa7b8a7a36c1468c25fbdc70d7cb0da39" title="tuttle::host::graph::InternalGraph::getVertexDescriptor" alt="" coords="609,157,943,184"/>
+<area shape="rect" id="node21" href="$d6/dc0/classtuttle_1_1host_1_1INode.html#a1035be3d96536a96ccc6094ec4b05846" title="tuttle::host::INode::getName" alt="" coords="682,259,870,285"/>
+<area shape="rect" id="node25" href="$d0/d14/classtuttle_1_1host_1_1graph_1_1InternalGraph.html#acb5793ac64807ee1bcbf6dcd4d1cd41a" title="tuttle::host::graph::InternalGraph::getOutDegree" alt="" coords="627,208,925,235"/>
+<area shape="rect" id="node31" href="$d8/d72/classtuttle_1_1host_1_1Graph.html#a099e4ec3190aa37eafb6fef76e435111" title="tuttle::host::Graph::getNodesMap" alt="" coords="668,613,884,640"/>
+<area shape="rect" id="node33" href="$d6/dc0/classtuttle_1_1host_1_1INode.html#a3638640241342cae8098b5f69446aa30" title="tuttle::host::INode::asImageEffectNode" alt="" coords="651,461,901,488"/>
+<area shape="rect" id="node35" href="$de/d55/classtuttle_1_1host_1_1ofx_1_1imageEffect_1_1OfxhImageEffectNode.html#a75e1d88efaa61e052b5201ff89d23d0c" title="return the plugin this instance was created with" alt="" coords="582,512,970,539"/>
+<area shape="rect" id="node37" href="$d3/d43/classtuttle_1_1host_1_1ofx_1_1OfxhPluginDesc.html#ae8f68a3675156401e1a9eb1bd37164bb" title="tuttle::host::ofx::OfxhPluginDesc::getIdentifier" alt="" coords="631,563,921,589"/>
+<area shape="rect" id="node41" href="$d0/d14/classtuttle_1_1host_1_1graph_1_1InternalGraph.html#ab1da67ad07f710bb55a985a62a48a8de" title="tuttle::host::graph::InternalGraph::unconnect" alt="" coords="637,309,915,336"/>
+<area shape="rect" id="node43" href="$d7/d58/classtuttle_1_1host_1_1attribute_1_1Attribute.html#a3f70f88825447f81c5aa66c0bd3694e2" title="tuttle::host::attribute::Attribute::getNode" alt="" coords="649,360,903,387"/>
+<area shape="rect" id="node46" href="$d7/d58/classtuttle_1_1host_1_1attribute_1_1Attribute.html#a927f4f9858aff04a615238e065fd478d" title="tuttle::host::attribute::Attribute::getName" alt="" coords="647,411,905,437"/>
+</map>

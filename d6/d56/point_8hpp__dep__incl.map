@@ -1,0 +1,30 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$dd/dfa/InteractInfos_8hpp.html" title="TuttleOFX/libraries/tuttle/src/tuttle/plugin/interact/InteractInfos.hpp" alt="" coords="1066,80,1472,107"/>
+<area shape="rect" id="node9" href="$de/dfc/InteractScene_8cpp.html" title="TuttleOFX/libraries/tuttle/src/tuttle/plugin/interact/InteractScene.cpp" alt="" coords="5,304,419,331"/>
+<area shape="rect" id="node16" href="$d5/d4a/ParamPoint_8hpp.html" title="TuttleOFX/libraries/tuttle/src/tuttle/plugin/interact/ParamPoint.hpp" alt="" coords="1309,229,1709,256"/>
+<area shape="rect" id="node20" href="$d7/d49/ParamPointRelativePoint_8hpp.html" title="TuttleOFX/libraries/tuttle/src/tuttle/plugin/interact/ParamPointRelativePoint.hpp" alt="" coords="554,304,1032,331"/>
+<area shape="rect" id="node24" href="$d5/d16/ParamRectangleFromCenterSize_8hpp.html" title="TuttleOFX/libraries/tuttle/src/tuttle/plugin/interact/ParamRectangleFromCenterSize.hpp" alt="" coords="1925,304,2451,331"/>
+<area shape="rect" id="node28" href="$db/dc8/ParamTangent_8hpp.html" title="TuttleOFX/libraries/tuttle/src/tuttle/plugin/interact/ParamTangent.hpp" alt="" coords="1483,304,1901,331"/>
+<area shape="rect" id="node34" href="$d2/d13/ParamRectangleFromTwoCorners_8hpp.html" title="TuttleOFX/libraries/tuttle/src/tuttle/plugin/interact/ParamRectangleFromTwoCorners.hpp" alt="" coords="2268,229,2799,256"/>
+<area shape="rect" id="node39" href="$d0/d89/PointInteract_8cpp.html" title="TuttleOFX/libraries/tuttle/src/tuttle/plugin/interact/PointInteract.cpp" alt="" coords="1837,229,2243,256"/>
+<area shape="rect" id="node51" href="$dc/dd4/all_8hpp.html" title="TuttleOFX/libraries/tuttle/src/tuttle/plugin/ofxToGil/all.hpp" alt="" coords="3269,80,3621,107"/>
+<area shape="rect" id="node5" href="$d1/d7c/InteractInfos_8cpp.html" title="TuttleOFX/libraries/tuttle/src/tuttle/plugin/interact/InteractInfos.cpp" alt="" coords="775,155,1181,181"/>
+<area shape="rect" id="node7" href="$d3/d5f/InteractScene_8hpp.html" title="TuttleOFX/libraries/tuttle/src/tuttle/plugin/interact/InteractScene.hpp" alt="" coords="246,229,660,256"/>
+<area shape="rect" id="node11" href="$de/d27/SelectionManipulator_8hpp.html" title="TuttleOFX/libraries/tuttle/src/tuttle/plugin/interact/SelectionManipulator.hpp" alt="" coords="297,155,751,181"/>
+<area shape="rect" id="node30" href="$dc/d0c/PointInteract_8hpp.html" title="TuttleOFX/libraries/tuttle/src/tuttle/plugin/interact/PointInteract.hpp" alt="" coords="1549,155,1955,181"/>
+<area shape="rect" id="node14" href="$de/d4c/SelectionManipulator_8cpp.html" title="TuttleOFX/libraries/tuttle/src/tuttle/plugin/interact/SelectionManipulator.cpp" alt="" coords="685,229,1139,256"/>
+<area shape="rect" id="node18" href="$d9/d68/ParamPoint_8cpp.html" title="TuttleOFX/libraries/tuttle/src/tuttle/plugin/interact/ParamPoint.cpp" alt="" coords="1057,304,1457,331"/>
+<area shape="rect" id="node22" href="$dd/d8d/ParamPointRelativePoint_8cpp.html" title="TuttleOFX/libraries/tuttle/src/tuttle/plugin/interact/ParamPointRelativePoint.cpp" alt="" coords="554,379,1032,405"/>
+<area shape="rect" id="node26" href="$de/df4/ParamRectangleFromCenterSize_8cpp.html" title="TuttleOFX/libraries/tuttle/src/tuttle/plugin/interact/ParamRectangleFromCenterSize.cpp" alt="" coords="1925,379,2451,405"/>
+<area shape="rect" id="node36" href="$d6/dc9/ParamRectangleFromTwoCorners_8cpp.html" title="TuttleOFX/libraries/tuttle/src/tuttle/plugin/interact/ParamRectangleFromTwoCorners.cpp" alt="" coords="2475,304,3005,331"/>
+<area shape="rect" id="node53" href="$db/d69/ImageEffectGilPlugin_8hpp.html" title="TuttleOFX/libraries/tuttle/src/tuttle/plugin/ImageEffectGilPlugin.hpp" alt="" coords="3587,155,3996,181"/>
+<area shape="rect" id="node55" href="$da/df5/GeneratorPlugin_8hpp.html" title="TuttleOFX/libraries/tuttle/src/tuttle/plugin/context/GeneratorPlugin.hpp" alt="" coords="3357,229,3784,256"/>
+<area shape="rect" id="node59" href="$de/db1/ReaderPlugin_8hpp.html" title="TuttleOFX/libraries/tuttle/src/tuttle/plugin/context/ReaderPlugin.hpp" alt="" coords="3808,229,4219,256"/>
+<area shape="rect" id="node63" href="$d4/d1c/SamplerPlugin_8hpp.html" title="TuttleOFX/libraries/tuttle/src/tuttle/plugin/context/SamplerPlugin.hpp" alt="" coords="4243,229,4660,256"/>
+<area shape="rect" id="node67" href="$d1/d91/WriterPlugin_8hpp.html" title="TuttleOFX/libraries/tuttle/src/tuttle/plugin/context/WriterPlugin.hpp" alt="" coords="4685,229,5088,256"/>
+<area shape="rect" id="node71" href="$d1/d5d/ImageEffectGilPlugin_8cpp.html" title="TuttleOFX/libraries/tuttle/src/tuttle/plugin/ImageEffectGilPlugin.cpp" alt="" coords="2923,229,3332,256"/>
+<area shape="rect" id="node57" href="$d1/d89/GeneratorPlugin_8cpp.html" title="TuttleOFX/libraries/tuttle/src/tuttle/plugin/context/GeneratorPlugin.cpp" alt="" coords="3357,304,3784,331"/>
+<area shape="rect" id="node61" href="$d2/d75/ReaderPlugin_8cpp.html" title="TuttleOFX/libraries/tuttle/src/tuttle/plugin/context/ReaderPlugin.cpp" alt="" coords="3808,304,4219,331"/>
+<area shape="rect" id="node65" href="$dc/d93/SamplerPlugin_8cpp.html" title="TuttleOFX/libraries/tuttle/src/tuttle/plugin/context/SamplerPlugin.cpp" alt="" coords="4243,304,4660,331"/>
+<area shape="rect" id="node69" href="$d6/d8c/WriterPlugin_8cpp.html" title="TuttleOFX/libraries/tuttle/src/tuttle/plugin/context/WriterPlugin.cpp" alt="" coords="4685,304,5088,331"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="G" name="G">
+<area shape="rect" id="node5" href="$d1/dc5/classtuttle_1_1host_1_1Host.html" title="{tuttle::host::Host\n||+ Host()\l+ newInstance()\l+ makeDescriptor()\l+ makeDescriptor()\l+ makeDescriptor()\l+ vmessage()\l}" alt="" coords="98,523,232,674"/>
+<area shape="rect" id="node2" href="$dc/df2/classtuttle_1_1host_1_1ofx_1_1OfxhHost.html" title="{tuttle::host::ofx::OfxhHost\n|# _host\l# _properties\l|+ OfxhHost()\l+ ~OfxhHost()\l+ getProperties()\l+ getProperties()\l+ fetchSuite()\l+ getHandle()\l+ verifyMagic()\l+ initDescriptor()\l+ vmessage()\l}" alt="" coords="78,6,252,215"/>
+</map>

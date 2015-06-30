@@ -1,0 +1,20 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$db/dd3/classtuttle_1_1host_1_1attribute_1_1ClipImage.html#acc369bc2892a1cdf09dbcf5e99300557" title="override this to return the rod on the clip" alt="" coords="323,222,677,249"/>
+<area shape="rect" id="node14" href="$d7/d58/classtuttle_1_1host_1_1attribute_1_1Attribute.html#a3f70f88825447f81c5aa66c0bd3694e2" title="tuttle::host::attribute::Attribute::getNode" alt="" coords="1617,165,1871,192"/>
+<area shape="rect" id="node19" href="$d6/dc0/classtuttle_1_1host_1_1INode.html#ac0acabcf812acfe4b00557bde062e5bd" title="tuttle::host::INode::getData" alt="" coords="1240,121,1421,148"/>
+<area shape="rect" id="node22" href="$db/dd3/classtuttle_1_1host_1_1attribute_1_1ClipImage.html#aa0beda5dd093e1a4572176d27fa2f9ad" title="tuttle::host::attribute::ClipImage::getRemappedTime" alt="" coords="751,298,1075,325"/>
+<area shape="rect" id="node43" href="$db/dd3/classtuttle_1_1host_1_1attribute_1_1ClipImage.html#a5e6d00d39d27d57bc586223cbd24d322" title="tuttle::host::attribute::ClipImage::getClipIdentifier" alt="" coords="347,450,653,477"/>
+<area shape="rect" id="node5" href="$d6/dc0/classtuttle_1_1host_1_1INode.html#a3638640241342cae8098b5f69446aa30" title="tuttle::host::INode::asImageEffectNode" alt="" coords="788,146,1039,173"/>
+<area shape="rect" id="node8" href="$db/dd3/classtuttle_1_1host_1_1attribute_1_1ClipImage.html#acdea50ccb25efbabdb60d0add89372fc" title="tuttle::host::attribute::ClipImage::getFullName" alt="" coords="1187,248,1475,274"/>
+<area shape="rect" id="node17" href="$dc/df6/classtuttle_1_1host_1_1ImageEffectNode.html#a21e1122ee803385b39262c316359a3dc" title="tuttle::host::ImageEffectNode::getRegionOfDefinition" alt="" coords="748,96,1079,122"/>
+<area shape="rect" id="node24" href="$d1/dbd/classtuttle_1_1host_1_1ofx_1_1attribute_1_1OfxhAttributeAccessor.html#a9a7f6fa9ba00352e303f162f11ca6540" title="is the clip an output clip" alt="" coords="1149,425,1512,452"/>
+<area shape="rect" id="node35" href="$dd/dc2/classtuttle_1_1host_1_1ofx_1_1attribute_1_1OfxhClipAccessor.html#a4cfa0f7d859e260cb216c8b3745fe749" title="tuttle::host::ofx::attribute::OfxhClipAccessor::isConnected" alt="" coords="1151,501,1511,528"/>
+<area shape="rect" id="node41" href="$d0/d0f/namespacetuttle_1_1host.html#a7df03e678c6db8fa102ec5be6e523800" title="tuttle::host::mapNodeTypeEnumToString" alt="" coords="783,197,1043,224"/>
+<area shape="rect" id="node10" href="$db/dd3/classtuttle_1_1host_1_1attribute_1_1ClipImage.html#a114c73991a9ae0477e12f9ce096ee2db" title="tuttle::host::attribute::ClipImage::getName" alt="" coords="1611,290,1877,317"/>
+<area shape="rect" id="node12" href="$d6/dc0/classtuttle_1_1host_1_1INode.html#a1035be3d96536a96ccc6094ec4b05846" title="tuttle::host::INode::getName" alt="" coords="1650,224,1838,250"/>
+<area shape="rect" id="node26" href="$d1/dbd/classtuttle_1_1host_1_1ofx_1_1attribute_1_1OfxhAttributeAccessor.html#a5dd0b6a71e059db4f3eaa1bf23b208d8" title="tuttle::host::ofx::attribute::OfxhAttributeAccessor::getName" alt="" coords="1561,425,1927,452"/>
+<area shape="rect" id="node28" href="$d1/dbd/classtuttle_1_1host_1_1ofx_1_1attribute_1_1OfxhAttributeAccessor.html#afc39d1c719a76f2a906468bad6d90a45" title="tuttle::host::ofx::attribute::OfxhAttributeAccessor::getProperties" alt="" coords="1977,476,2367,502"/>
+<area shape="rect" id="node30" href="$db/dc8/classtuttle_1_1host_1_1ofx_1_1property_1_1OfxhSet.html#ad3455a816a53f81c7382f2a755f9f2c5" title="get the value of a particular string property" alt="" coords="2007,425,2337,452"/>
+<area shape="rect" id="node38" href="$db/dc8/classtuttle_1_1host_1_1ofx_1_1property_1_1OfxhSet.html#a93aa0eb3c85c46638935cd97331ed87f" title="get the value of a particular int property" alt="" coords="1589,526,1899,553"/>
+<area shape="rect" id="node45" href="$db/dd3/classtuttle_1_1host_1_1attribute_1_1ClipImage.html#a2974cd638e95f0c17a65157dde6e2a7c" title="tuttle::host::attribute::ClipImage::getConnectedClipFullName" alt="" coords="726,450,1101,477"/>
+</map>

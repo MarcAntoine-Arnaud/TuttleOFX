@@ -1,0 +1,11 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$db/dcb/classtuttle_1_1host_1_1memory_1_1MemoryCache.html#aa833ac06e0a105ba501880a686b40634" title="tuttle::host::memory::MemoryCache::clearAll" alt="" coords="275,5,557,32"/>
+<area shape="rect" id="node5" href="$db/dcb/classtuttle_1_1host_1_1memory_1_1MemoryCache.html#a54977faafe0a927dfc5680e9d11f7974" title="tuttle::host::memory::MemoryCache::empty" alt="" coords="278,56,554,83"/>
+<area shape="rect" id="node7" href="$db/dcb/classtuttle_1_1host_1_1memory_1_1MemoryCache.html#a378815a3c1c6d796b82bd49066088787" title="tuttle::host::memory::MemoryCache::getPluginName" alt="" coords="251,107,581,133"/>
+<area shape="rect" id="node11" href="$db/dcb/classtuttle_1_1host_1_1memory_1_1MemoryCache.html#a96d80965adf0abc765f8fe6af31758e4" title="tuttle::host::memory::MemoryCache::getTime" alt="" coords="273,157,559,184"/>
+<area shape="rect" id="node14" href="$db/dcb/classtuttle_1_1host_1_1memory_1_1MemoryCache.html#a2c005374b41ea8a1b0bd007ff7af1701" title="tuttle::host::memory::MemoryCache::inCache" alt="" coords="272,208,560,235"/>
+<area shape="rect" id="node17" href="$db/dcb/classtuttle_1_1host_1_1memory_1_1MemoryCache.html#a53c88180c0ecf295332602d48d60bf05" title="tuttle::host::memory::MemoryCache::put" alt="" coords="287,259,545,285"/>
+<area shape="rect" id="node19" href="$db/dcb/classtuttle_1_1host_1_1memory_1_1MemoryCache.html#a0119990e436f76500d35399988f00f8d" title="tuttle::host::memory::MemoryCache::remove" alt="" coords="275,309,557,336"/>
+<area shape="rect" id="node22" href="$db/dcb/classtuttle_1_1host_1_1memory_1_1MemoryCache.html#a62c87e38ffcebaadb350c5b975b63bd3" title="tuttle::host::memory::MemoryCache::size" alt="" coords="284,360,548,387"/>
+<area shape="rect" id="node9" href="$db/dcb/classtuttle_1_1host_1_1memory_1_1MemoryCache.html#a87dd0d7937e0a318ae6331c8c428ae01" title="tuttle::host::memory::MemoryCache::getIteratorForValue" alt="" coords="630,183,981,209"/>
+</map>

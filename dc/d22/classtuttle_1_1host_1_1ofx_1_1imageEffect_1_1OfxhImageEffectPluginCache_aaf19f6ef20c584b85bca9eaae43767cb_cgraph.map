@@ -1,0 +1,16 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$df/d5d/classtuttle_1_1host_1_1ofx_1_1imageEffect_1_1OfxhImageEffectPlugin.html#a9fa63b104e47c682dcd3dad0ecfb7c1b" title="tuttle::host::ofx::imageEffect::OfxhImageEffectPlugin::addContext" alt="" coords="538,5,945,32"/>
+<area shape="rect" id="node5" href="$df/d5d/classtuttle_1_1host_1_1ofx_1_1imageEffect_1_1OfxhImageEffectPlugin.html#a9efeb361c7c97b05edc5c48e0fcd1c8e" title="get the base image effect descriptor" alt="" coords="533,56,950,83"/>
+<area shape="rect" id="node7" href="$db/dc8/classtuttle_1_1host_1_1ofx_1_1property_1_1OfxhSet.html#a28303829c305482437c8e12cb1b8c996" title="get the dimension of a particular property" alt="" coords="587,107,896,133"/>
+<area shape="rect" id="node14" href="$d8/d1e/classtuttle_1_1host_1_1ofx_1_1imageEffect_1_1OfxhImageEffectNodeBase.html#ad6367e1a19cd55a662af140aaadb1eff" title="obtain a handle on this for passing to the C api" alt="" coords="530,157,953,184"/>
+<area shape="rect" id="node16" href="$dc/d22/classtuttle_1_1host_1_1ofx_1_1imageEffect_1_1OfxhImageEffectPluginCache.html#aeaec25ddf991ea8463936ee48366206f" title="tuttle::host::ofx::imageEffect::OfxhImageEffectPluginCache::getHost" alt="" coords="530,208,953,235"/>
+<area shape="rect" id="node18" href="$d3/d43/classtuttle_1_1host_1_1ofx_1_1OfxhPluginDesc.html#ae8f68a3675156401e1a9eb1bd37164bb" title="tuttle::host::ofx::OfxhPluginDesc::getIdentifier" alt="" coords="597,259,886,285"/>
+<area shape="rect" id="node20" href="$d8/d1e/classtuttle_1_1host_1_1ofx_1_1imageEffect_1_1OfxhImageEffectNodeBase.html#ae5aece28ee4518c45899d38181a1008d" title="tuttle::host::ofx::imageEffect::OfxhImageEffectNodeBase::getProperties" alt="" coords="521,309,962,336"/>
+<area shape="rect" id="node22" href="$d3/d43/classtuttle_1_1host_1_1ofx_1_1OfxhPluginDesc.html#a42b541710417dfcaced1fd3929d74ca5" title="tuttle::host::ofx::OfxhPluginDesc::getRawIdentifier" alt="" coords="583,360,899,387"/>
+<area shape="rect" id="node24" href="$db/dc8/classtuttle_1_1host_1_1ofx_1_1property_1_1OfxhSet.html#ad3455a816a53f81c7382f2a755f9f2c5" title="get the value of a particular string property" alt="" coords="576,411,907,437"/>
+<area shape="rect" id="node26" href="$da/d61/classtuttle_1_1host_1_1ofx_1_1imageEffect_1_1OfxhImageEffectHost.html#a26e6a2c2f089b028d4469fffb1a85cfa" title="tuttle::host::ofx::imageEffect::OfxhImageEffectHost::loadingStatus" alt="" coords="536,461,947,488"/>
+<area shape="rect" id="node28" href="$d7/d76/classtuttle_1_1host_1_1ofx_1_1OfxhPlugin.html#a2c5f77379c1fb58475bbf12851b0ee1b" title="tuttle::host::ofx::OfxhPlugin::setIsSupported" alt="" coords="602,512,881,539"/>
+<area shape="rect" id="node9" href="$db/dc8/classtuttle_1_1host_1_1ofx_1_1property_1_1OfxhSet.html#a49e82bcaa85b8a713b385a84f6b46573" title="tuttle::host::ofx::property::OfxhSet::fetchProperty" alt="" coords="1027,81,1333,108"/>
+<area shape="rect" id="node12" href="$db/d1f/classtuttle_1_1host_1_1ofx_1_1property_1_1OfxhProperty.html#a93d474f91ba00e2c329d81badc6e3101" title="tuttle::host::ofx::property::OfxhProperty::getDimension" alt="" coords="1011,132,1349,159"/>
+<area shape="rect" id="node30" href="$d7/d76/classtuttle_1_1host_1_1ofx_1_1OfxhPlugin.html#aae6384381c64f29831188a13747afaa7" title="tuttle::host::ofx::OfxhPlugin::isSupported" alt="" coords="1051,512,1309,539"/>
+</map>

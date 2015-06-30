@@ -1,0 +1,11 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$de/d55/classtuttle_1_1host_1_1ofx_1_1OfxhBinary.html#aebb1f6f2460482af9ad8506a9b29b89e" title="tuttle::host::ofx::OfxhBinary::findSymbol" alt="" coords="795,22,1051,49"/>
+<area shape="rect" id="node7" href="$dc/d22/classtuttle_1_1host_1_1ofx_1_1OfxhPluginBinary.html#a9f8ede9a6f3eb05f5b3f28f4e91ccea2" title="tuttle::host::ofx::OfxhPluginBinary::getBundlePath" alt="" coords="435,34,747,61"/>
+<area shape="rect" id="node9" href="$dc/df2/classtuttle_1_1host_1_1ofx_1_1OfxhHost.html#a51fc5e0f7e8bf6a2457149a68b517e06" title="get the C API handle that is passed across the API to represent this host" alt="" coords="470,85,711,111"/>
+<area shape="rect" id="node11" href="$d7/d76/classtuttle_1_1host_1_1ofx_1_1OfxhPlugin.html#a4be7883187ba1d2b2b467330cfe1076c" title="tuttle::host::ofx::OfxhPlugin::getIndex" alt="" coords="471,135,711,162"/>
+<area shape="rect" id="node13" href="$de/d55/classtuttle_1_1host_1_1ofx_1_1OfxhBinary.html#a36b929026a55dd533efaf8a2462573ef" title="tuttle::host::ofx::OfxhBinary::ref" alt="" coords="487,186,694,213"/>
+<area shape="rect" id="node18" href="$de/d55/classtuttle_1_1host_1_1ofx_1_1OfxhBinary.html#af6467a79fb97b9cc8be80c5cb6da609c" title="tuttle::host::ofx::OfxhBinary::unref" alt="" coords="481,237,701,263"/>
+<area shape="rect" id="node5" href="$d2/d7f/namespacetuttle.html#a87ac1f9750141f52daffed18951b58be" title="tuttle::quotes" alt="" coords="1099,66,1197,93"/>
+<area shape="rect" id="node15" href="$de/d55/classtuttle_1_1host_1_1ofx_1_1OfxhBinary.html#a24129006b338ba025260cc2cc5591eec" title="open the binary." alt="" coords="815,110,1030,137"/>
+<area shape="rect" id="node20" href="$de/d55/classtuttle_1_1host_1_1ofx_1_1OfxhBinary.html#a525b33266ba5b65abddf4cc9cf194320" title="close the binary" alt="" coords="808,237,1037,263"/>
+</map>

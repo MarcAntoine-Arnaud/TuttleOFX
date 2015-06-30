@@ -1,0 +1,8 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$d8/d5b/classtuttle_1_1host_1_1attribute_1_1Image.html#a93978bfa8c2cbacff51609dba7ee7fd5" title="Get distance between rows depending on the requested orientation." alt="" coords="288,5,659,32"/>
+<area shape="rect" id="node5" href="$d1/dab/classtuttle_1_1host_1_1ofx_1_1attribute_1_1OfxhClipImage.html#aa19baad5f5233a353400fb7b9a630d8e" title="tuttle::host::ofx::attribute::OfxhClipImage::getPixelAspectRatio" alt="" coords="280,56,667,83"/>
+<area shape="rect" id="node11" href="$db/dc8/classtuttle_1_1host_1_1ofx_1_1property_1_1OfxhSet.html#a0531611320fc76e6fbe1dab5658b2cec" title="get a particular double property" alt="" coords="305,107,642,133"/>
+<area shape="rect" id="node13" href="$db/dc8/classtuttle_1_1host_1_1ofx_1_1property_1_1OfxhSet.html#a2110c0e43429db10446b7fa0a7f62dd1" title="set a particular int property" alt="" coords="318,157,629,184"/>
+<area shape="rect" id="node7" href="$d1/d9d/classtuttle_1_1host_1_1ofx_1_1attribute_1_1OfxhAttribute.html#a63bf42137afa64ab0e37537e7404add6" title="tuttle::host::ofx::attribute::OfxhAttribute::getProperties" alt="" coords="717,31,1051,57"/>
+<area shape="rect" id="node9" href="$db/dc8/classtuttle_1_1host_1_1ofx_1_1property_1_1OfxhSet.html#afc064add87802be3add9630ae70e7b7c" title="get the value of a particular double property" alt="" coords="715,81,1053,108"/>
+</map>

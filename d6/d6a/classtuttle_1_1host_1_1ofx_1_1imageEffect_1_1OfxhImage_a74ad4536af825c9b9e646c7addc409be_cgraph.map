@@ -1,0 +1,12 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$d6/d6a/classtuttle_1_1host_1_1ofx_1_1imageEffect_1_1OfxhImage.html#ad41393675f5ff30683495c0a542f66c4" title="tuttle::host::ofx::imageEffect::OfxhImage::getClipName" alt="" coords="405,5,749,32"/>
+<area shape="rect" id="node5" href="$d6/d6a/classtuttle_1_1host_1_1ofx_1_1imageEffect_1_1OfxhImage.html#a8f7c43ae0abe311c15ccfdbe97e0619f" title="tuttle::host::ofx::imageEffect::OfxhImage::getId" alt="" coords="429,56,726,83"/>
+<area shape="rect" id="node7" href="$d6/d6a/classtuttle_1_1host_1_1ofx_1_1imageEffect_1_1OfxhImage.html#a51a1d558719fc0c7725e5d30da77e10b" title="tuttle::host::ofx::imageEffect::OfxhImage::getReferenceCount" alt="" coords="387,107,768,133"/>
+<area shape="rect" id="node9" href="$d6/d6a/classtuttle_1_1host_1_1ofx_1_1imageEffect_1_1OfxhImage.html#a7b63e3b09b518a7144c7ce7fc0f1917c" title="tuttle::host::ofx::imageEffect::OfxhImage::getTime" alt="" coords="420,157,735,184"/>
+<area shape="rect" id="node11" href="$d6/d6a/classtuttle_1_1host_1_1ofx_1_1imageEffect_1_1OfxhImage.html#aa00f19e944b2a34c66aa29a89a19b733" title="called during ctors to get bits from the clip props into ours" alt="" coords="412,208,743,235"/>
+<area shape="rect" id="node13" href="$d1/d9d/classtuttle_1_1host_1_1ofx_1_1attribute_1_1OfxhAttribute.html#a63bf42137afa64ab0e37537e7404add6" title="tuttle::host::ofx::attribute::OfxhAttribute::getProperties" alt="" coords="818,107,1153,133"/>
+<area shape="rect" id="node15" href="$db/dc8/classtuttle_1_1host_1_1ofx_1_1property_1_1OfxhSet.html#ad3455a816a53f81c7382f2a755f9f2c5" title="get the value of a particular string property" alt="" coords="820,157,1151,184"/>
+<area shape="rect" id="node17" href="$db/dc8/classtuttle_1_1host_1_1ofx_1_1property_1_1OfxhSet.html#a32654a6d0ff3bebe697b2836c255f940" title="set a particular string property without fetching via a get hook, useful for notifies" alt="" coords="820,208,1151,235"/>
+<area shape="rect" id="node19" href="$db/dc8/classtuttle_1_1host_1_1ofx_1_1property_1_1OfxhSet.html#a0531611320fc76e6fbe1dab5658b2cec" title="get a particular double property" alt="" coords="817,259,1154,285"/>
+<area shape="rect" id="node21" href="$db/dc8/classtuttle_1_1host_1_1ofx_1_1property_1_1OfxhSet.html#afc064add87802be3add9630ae70e7b7c" title="get the value of a particular double property" alt="" coords="817,309,1154,336"/>
+</map>

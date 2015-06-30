@@ -1,0 +1,3 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$db/dcb/classtuttle_1_1host_1_1memory_1_1MemoryCache.html" title="{tuttle::host::memory::MemoryCache\n|&#45; _map\l&#45; _mutexMap\l|+ MemoryCache()\l+ MemoryCache()\l+ ~MemoryCache()\l+ operator=()\l+ put()\l+ get()\l+ get()\l+ getUnusedWithSize()\l+ size()\l+ empty()\l+ inCache()\l+ getTime()\l+ getPluginName()\l+ remove()\l+ clearUnused()\l+ clearAll()\l+ outputStream()\l&#45; getIteratorForValue()\l&#45; getIteratorForValue()\l}" alt="" coords="7,307,239,663"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$d1/dbd/classtuttle_1_1host_1_1ofx_1_1attribute_1_1OfxhAttributeAccessor.html#a021957a7534d97d5e490c35e88765cab" title="tuttle::host::ofx::attribute::OfxhAttributeAccessor::setLabel" alt="" coords="459,107,821,133"/>
+<area shape="rect" id="node9" href="$d1/dbd/classtuttle_1_1host_1_1ofx_1_1attribute_1_1OfxhAttributeAccessor.html#a3ecbc70c656007ef396fe284b35a0d57" title="tuttle::host::ofx::attribute::OfxhAttributeAccessor::setLongLabel" alt="" coords="445,157,835,184"/>
+<area shape="rect" id="node13" href="$d1/dbd/classtuttle_1_1host_1_1ofx_1_1attribute_1_1OfxhAttributeAccessor.html#a2d96a4406f1d37ec6c2276e47eb8c803" title="tuttle::host::ofx::attribute::OfxhAttributeAccessor::setName" alt="" coords="457,5,823,32"/>
+<area shape="rect" id="node17" href="$d1/dbd/classtuttle_1_1host_1_1ofx_1_1attribute_1_1OfxhAttributeAccessor.html#a325cd879816ce367439ac9875d2c438d" title="tuttle::host::ofx::attribute::OfxhAttributeAccessor::setShortLabel" alt="" coords="443,56,837,83"/>
+<area shape="rect" id="node5" href="$d1/dbd/classtuttle_1_1host_1_1ofx_1_1attribute_1_1OfxhAttributeAccessor.html#a1d53d4e2abc7848170e25c6dacece122" title="tuttle::host::ofx::attribute::OfxhAttributeAccessor::getEditableProperties" alt="" coords="885,56,1323,83"/>
+<area shape="rect" id="node7" href="$db/dc8/classtuttle_1_1host_1_1ofx_1_1property_1_1OfxhSet.html#a32654a6d0ff3bebe697b2836c255f940" title="set a particular string property without fetching via a get hook, useful for notifies" alt="" coords="939,107,1269,133"/>
+</map>

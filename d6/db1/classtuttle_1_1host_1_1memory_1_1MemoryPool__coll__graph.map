@@ -1,0 +1,4 @@
+<map id="G" name="G">
+<area shape="rect" id="node2" href="$d1/d34/classtuttle_1_1host_1_1memory_1_1IMemoryPool.html" title="{tuttle::host::memory::IMemoryPool\n||+ ~IMemoryPool()\l+ getUsedMemorySize()\l+ getAllocatedAndUnusedMemorySize()\l+ getAllocatedMemorySize()\l+ getAvailableMemorySize()\l+ getWastedMemorySize()\l+ getMaxMemorySize()\l+ clear()\l+ clearOne()\l+ clear()\l+ allocate()\l+ updateMemoryAuthorizedWithRAM()\l}" alt="" coords="5,6,259,245"/>
+<area shape="rect" id="node4" href="$d7/d5b/classtuttle_1_1host_1_1memory_1_1IPool.html" title="forward declaration" alt="" coords="283,72,460,179"/>
+</map>

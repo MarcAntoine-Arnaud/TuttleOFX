@@ -1,0 +1,13 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$de/d55/classtuttle_1_1host_1_1ofx_1_1imageEffect_1_1OfxhImageEffectNode.html#a0e74ac40373eebd8fdf70609836e9ab7" title="tuttle::host::ofx::imageEffect::OfxhImageEffectNode::beginInstanceChangedAction" alt="" coords="480,5,984,32"/>
+<area shape="rect" id="node5" href="$de/d55/classtuttle_1_1host_1_1ofx_1_1imageEffect_1_1OfxhImageEffectNode.html#a5211ad5d7906840efc77a08908066f7d" title="tuttle::host::ofx::imageEffect::OfxhImageEffectNode::endInstanceChangedAction" alt="" coords="485,56,979,83"/>
+<area shape="rect" id="node7" href="$de/d55/classtuttle_1_1host_1_1ofx_1_1imageEffect_1_1OfxhImageEffectNode.html#aebfb77fb0222533643a6f2acb9f038de" title="tuttle::host::ofx::imageEffect::OfxhImageEffectNode::getFrameRecursive" alt="" coords="508,107,956,133"/>
+<area shape="rect" id="node9" href="$d1/dbd/classtuttle_1_1host_1_1ofx_1_1attribute_1_1OfxhAttributeAccessor.html#a5dd0b6a71e059db4f3eaa1bf23b208d8" title="tuttle::host::ofx::attribute::OfxhAttributeAccessor::getName" alt="" coords="549,157,915,184"/>
+<area shape="rect" id="node15" href="$de/d55/classtuttle_1_1host_1_1ofx_1_1imageEffect_1_1OfxhImageEffectNode.html#a70b2f80985de084f4cf4f7afc495ea99" title="tuttle::host::ofx::imageEffect::OfxhImageEffectNode::getRenderScaleRecursive" alt="" coords="489,208,975,235"/>
+<area shape="rect" id="node17" href="$d2/dd3/namespacetuttle_1_1host_1_1ofx_1_1attribute.html#af167b73e6cf3c3c8b7c2d0bba43c093d" title="tuttle::host::ofx::attribute::mapChangeEnumToString" alt="" coords="569,259,895,285"/>
+<area shape="rect" id="node19" href="$de/d55/classtuttle_1_1host_1_1ofx_1_1imageEffect_1_1OfxhImageEffectNode.html#a580416c50bf369c9a220a41010b64f40" title="tuttle::host::ofx::imageEffect::OfxhImageEffectNode::paramInstanceChangedAction" alt="" coords="477,309,987,336"/>
+<area shape="rect" id="node11" href="$d1/dbd/classtuttle_1_1host_1_1ofx_1_1attribute_1_1OfxhAttributeAccessor.html#afc39d1c719a76f2a906468bad6d90a45" title="tuttle::host::ofx::attribute::OfxhAttributeAccessor::getProperties" alt="" coords="1035,132,1426,159"/>
+<area shape="rect" id="node13" href="$db/dc8/classtuttle_1_1host_1_1ofx_1_1property_1_1OfxhSet.html#ad3455a816a53f81c7382f2a755f9f2c5" title="get the value of a particular string property" alt="" coords="1065,183,1396,209"/>
+<area shape="rect" id="node21" href="$db/dc8/classtuttle_1_1host_1_1ofx_1_1property_1_1OfxhSet.html#a0531611320fc76e6fbe1dab5658b2cec" title="get a particular double property" alt="" coords="1062,284,1399,311"/>
+<area shape="rect" id="node23" href="$db/dc8/classtuttle_1_1host_1_1ofx_1_1property_1_1OfxhSet.html#a2bb46a5f5d914e0fae46ad75ef4a6ddf" title="get a particular double property" alt="" coords="1057,335,1404,361"/>
+</map>

@@ -1,0 +1,11 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$d8/d1e/classtuttle_1_1host_1_1ofx_1_1imageEffect_1_1OfxhImageEffectNodeBase.html#ad6367e1a19cd55a662af140aaadb1eff" title="obtain a handle on this for passing to the C api" alt="" coords="526,81,949,108"/>
+<area shape="rect" id="node5" href="$de/d55/classtuttle_1_1host_1_1ofx_1_1imageEffect_1_1OfxhImageEffectNode.html#a708164924c07c6be4497abf6a041d26e" title="call the effect entry point" alt="" coords="541,132,934,159"/>
+<area shape="rect" id="node19" href="$d9/dec/namespacetuttle_1_1ofx.html#a0f09fc8d4c55a7df9b85f7a22921069f" title="maps status to a string" alt="" coords="639,183,836,209"/>
+<area shape="rect" id="node7" href="$df/d5d/classtuttle_1_1host_1_1ofx_1_1imageEffect_1_1OfxhImageEffectPlugin.html#a9cb2dbb8b6d6beb74f9fc7519e71e169" title="tuttle::host::ofx::imageEffect::OfxhImageEffectPlugin::getPluginLoadGuardPtr" alt="" coords="998,5,1471,32"/>
+<area shape="rect" id="node9" href="$da/d09/classtuttle_1_1host_1_1ofx_1_1OfxhPluginLoadGuard.html#ae48367616acfdadf12cebbd25969462a" title="tuttle::host::ofx::OfxhPluginLoadGuard::getOfxPlugin" alt="" coords="1071,56,1399,83"/>
+<area shape="rect" id="node11" href="$de/d55/classtuttle_1_1host_1_1ofx_1_1imageEffect_1_1OfxhImageEffectNode.html#ab00b11aa30735adf48123dfb53943463" title="this is used to populate with any extra action in arguments that may be needed" alt="" coords="1017,107,1453,133"/>
+<area shape="rect" id="node13" href="$db/dc8/classtuttle_1_1host_1_1ofx_1_1property_1_1OfxhSet.html#a384feefa53e7c58419806e167007d3b8" title="get a handle on this object for passing to the C API" alt="" coords="1091,157,1379,184"/>
+<area shape="rect" id="node15" href="$de/d55/classtuttle_1_1host_1_1ofx_1_1imageEffect_1_1OfxhImageEffectNode.html#a8b853be9fcbc5761a70f50c15d4e473f" title="this is used to populate with any extra action out arguments that may be needed" alt="" coords="1011,208,1458,235"/>
+<area shape="rect" id="node17" href="$de/d55/classtuttle_1_1host_1_1ofx_1_1imageEffect_1_1OfxhImageEffectNode.html#afb6d9496a50a161d77742a18e161535a" title="this is used retrieve any out args after the action was called in mainEntry" alt="" coords="1019,259,1450,285"/>
+</map>

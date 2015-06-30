@@ -1,0 +1,9 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$dc/d22/classtuttle_1_1host_1_1ofx_1_1imageEffect_1_1OfxhImageEffectPluginCache.html#aeb41bc5e90f1b2785bae580538b5f06c" title="tuttle::host::ofx::imageEffect::OfxhImageEffectPluginCache::getPluginByLabel" alt="" coords="534,132,1013,159"/>
+<area shape="rect" id="node5" href="$df/d5d/classtuttle_1_1host_1_1ofx_1_1imageEffect_1_1OfxhImageEffectPlugin.html#a9efeb361c7c97b05edc5c48e0fcd1c8e" title="get the base image effect descriptor" alt="" coords="1074,5,1491,32"/>
+<area shape="rect" id="node7" href="$d8/d1e/classtuttle_1_1host_1_1ofx_1_1imageEffect_1_1OfxhImageEffectNodeBase.html#ae5aece28ee4518c45899d38181a1008d" title="tuttle::host::ofx::imageEffect::OfxhImageEffectNodeBase::getProperties" alt="" coords="1062,56,1503,83"/>
+<area shape="rect" id="node9" href="$db/dc8/classtuttle_1_1host_1_1ofx_1_1property_1_1OfxhSet.html#ad3455a816a53f81c7382f2a755f9f2c5" title="get the value of a particular string property" alt="" coords="1117,107,1448,133"/>
+<area shape="rect" id="node11" href="$d3/d43/classtuttle_1_1host_1_1ofx_1_1OfxhPluginDesc.html#a484c9013b645f0fe31d722507e56b58e" title="tuttle::host::ofx::OfxhPluginDesc::getVersionMajor" alt="" coords="1552,183,1867,209"/>
+<area shape="rect" id="node13" href="$d3/d43/classtuttle_1_1host_1_1ofx_1_1OfxhPluginDesc.html#af1fdbdf69321e3447e1ee6d4d4e00092" title="tuttle::host::ofx::OfxhPluginDesc::getVersionMinor" alt="" coords="1552,245,1867,272"/>
+<area shape="rect" id="node15" href="$d7/d76/classtuttle_1_1host_1_1ofx_1_1OfxhPlugin.html#a25844b521a313011fcab820480f87742" title="tuttle::host::ofx::OfxhPlugin::trumps" alt="" coords="1167,208,1398,235"/>
+</map>

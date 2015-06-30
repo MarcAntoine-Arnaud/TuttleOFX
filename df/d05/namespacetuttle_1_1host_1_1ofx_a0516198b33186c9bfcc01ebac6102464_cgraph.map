@@ -1,0 +1,6 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$dc/df2/classtuttle_1_1host_1_1ofx_1_1OfxhHost.html#a1de999e8b1d92eccaf8606beb6367370" title="tuttle::host::ofx::OfxhHost::fetchSuite" alt="" coords="281,31,522,57"/>
+<area shape="rect" id="node9" href="$db/dc8/classtuttle_1_1host_1_1ofx_1_1property_1_1OfxhSet.html#a48d3280a8ca43310907fda71f95023ac" title="get the value of a particular pointer property" alt="" coords="233,81,570,108"/>
+<area shape="rect" id="node5" href="$dc/dd4/namespacetuttle_1_1host_1_1ofx_1_1property.html#a75ba5ad7a1e447fc1401e2b261196aa0" title="return the OFX function suite that manages properties" alt="" coords="619,5,890,32"/>
+<area shape="rect" id="node7" href="$df/d05/namespacetuttle_1_1host_1_1ofx.html#a2c551a5d511c539cf26d6b39588d65e2" title="tuttle::host::ofx::getMemorySuite" alt="" coords="648,56,861,83"/>
+</map>

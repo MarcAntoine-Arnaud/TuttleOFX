@@ -1,0 +1,14 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$dc/df6/classtuttle_1_1host_1_1ImageEffectNode.html#a30a35130c57b2ae9c59700a602e8af6d" title="tuttle::host::ImageEffectNode::getOutputClip" alt="" coords="479,19,761,45"/>
+<area shape="rect" id="node7" href="$de/d55/classtuttle_1_1host_1_1ofx_1_1imageEffect_1_1OfxhImageEffectNode.html#a97ceba190322a5d1ee3834487970014c" title="tuttle::host::ofx::imageEffect::OfxhImageEffectNode::getOutputPixelAspectRatio" alt="" coords="374,95,866,121"/>
+<area shape="rect" id="node19" href="$d1/dab/classtuttle_1_1host_1_1ofx_1_1attribute_1_1OfxhClipImage.html#a287d29798be183b39be3257c6549cde0" title="tuttle::host::ofx::attribute::OfxhClipImage::setPixelAspectRatio" alt="" coords="427,171,813,197"/>
+<area shape="rect" id="node5" href="$dc/df6/classtuttle_1_1host_1_1ImageEffectNode.html#a8ebd9fbd445a09c4d186d609aa57a63b" title="tuttle::host::ImageEffectNode::getClip" alt="" coords="1015,5,1257,32"/>
+<area shape="rect" id="node9" href="$de/d55/classtuttle_1_1host_1_1ofx_1_1imageEffect_1_1OfxhImageEffectNode.html#a9a33579f26a474220c650678705e6a51" title="tuttle::host::ofx::imageEffect::OfxhImageEffectNode::getOutputOfxhClip" alt="" coords="915,56,1357,83"/>
+<area shape="rect" id="node13" href="$d1/dab/classtuttle_1_1host_1_1ofx_1_1attribute_1_1OfxhClipImage.html#aa19baad5f5233a353400fb7b9a630d8e" title="tuttle::host::ofx::attribute::OfxhClipImage::getPixelAspectRatio" alt="" coords="943,107,1329,133"/>
+<area shape="rect" id="node11" href="$d5/d4f/classtuttle_1_1host_1_1ofx_1_1attribute_1_1OfxhClipImageSet.html#ac3bcdf38ea0762fd36f054ff68d247f4" title="tuttle::host::ofx::attribute::OfxhClipImageSet::getClip" alt="" coords="1410,56,1739,83"/>
+<area shape="rect" id="node15" href="$d1/d9d/classtuttle_1_1host_1_1ofx_1_1attribute_1_1OfxhAttribute.html#a63bf42137afa64ab0e37537e7404add6" title="tuttle::host::ofx::attribute::OfxhAttribute::getProperties" alt="" coords="1407,107,1742,133"/>
+<area shape="rect" id="node17" href="$db/dc8/classtuttle_1_1host_1_1ofx_1_1property_1_1OfxhSet.html#afc064add87802be3add9630ae70e7b7c" title="get the value of a particular double property" alt="" coords="1406,157,1743,184"/>
+<area shape="rect" id="node21" href="$d1/d9d/classtuttle_1_1host_1_1ofx_1_1attribute_1_1OfxhAttribute.html#a5a58bf74358d0031e4045c8037c8f5b7" title="tuttle::host::ofx::attribute::OfxhAttribute::getEditableProperties" alt="" coords="945,157,1327,184"/>
+<area shape="rect" id="node23" href="$db/dc8/classtuttle_1_1host_1_1ofx_1_1property_1_1OfxhSet.html#a6ded4f3d0a62109407fda56e666b6243" title="tuttle::host::ofx::property::OfxhSet::fetchLocalDoubleProperty" alt="" coords="947,208,1325,235"/>
+<area shape="rect" id="node25" href="$d6/d97/classtuttle_1_1host_1_1ofx_1_1property_1_1OfxhPropertyTemplate.html#ab5c17520333b4375a0fa1d22e7c43d6a" title="set one value" alt="" coords="955,259,1317,285"/>
+</map>

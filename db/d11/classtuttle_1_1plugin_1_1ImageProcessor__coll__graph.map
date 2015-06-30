@@ -1,0 +1,4 @@
+<map id="G" name="G">
+<area shape="rect" id="node2" href="$df/dac/classtuttle_1_1plugin_1_1OfxProgress.html" title="{tuttle::plugin::OfxProgress\n|# _stepSize\l# _counter\l&#45; _effect\l&#45; _mutex\l|+ OfxProgress()\l+ ~OfxProgress()\l+ progressBegin()\l+ progressEnd()\l+ progressForward()\l+ progressUpdate()\l+ getOfxProgress()\l&#45; operator=()\l}" alt="" coords="53,176,227,400"/>
+<area shape="rect" id="node4" href="$d2/dae/classtuttle_1_1plugin_1_1IProgress.html" title="{tuttle::plugin::IProgress\n||+ ~IProgress()\l+ progressBegin()\l+ progressEnd()\l+ progressForward()\l}" alt="" coords="61,6,219,127"/>
+</map>

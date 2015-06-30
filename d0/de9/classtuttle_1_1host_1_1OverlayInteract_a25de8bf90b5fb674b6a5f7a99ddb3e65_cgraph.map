@@ -1,0 +1,8 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$de/d9a/classtuttle_1_1host_1_1ofx_1_1interact_1_1OfxhInteract.html#afbd953637fe9873645df38cf2867d2b9" title="call create instance" alt="" coords="375,56,747,83"/>
+<area shape="rect" id="node13" href="$de/d55/classtuttle_1_1host_1_1ofx_1_1imageEffect_1_1OfxhImageEffectNode.html#a1702c4a8f955816d966ac34d9607be64" title="tuttle::host::ofx::imageEffect::OfxhImageEffectNode::initOverlayDescriptor" alt="" coords="333,107,789,133"/>
+<area shape="rect" id="node5" href="$de/d9a/classtuttle_1_1host_1_1ofx_1_1interact_1_1OfxhInteract.html#aced763793a601d7fd1b86fe0fec38ba6" title="call the entry point in the descriptor with action and the given args" alt="" coords="838,56,1138,83"/>
+<area shape="rect" id="node7" href="$db/dc8/classtuttle_1_1host_1_1ofx_1_1property_1_1OfxhSet.html#a384feefa53e7c58419806e167007d3b8" title="get a handle on this object for passing to the C API" alt="" coords="1223,5,1511,32"/>
+<area shape="rect" id="node9" href="$df/d1b/classtuttle_1_1host_1_1ofx_1_1interact_1_1OfxhInteractDescriptor.html#af3d1177c3e6ee3b755db8418aa0fabb5" title="call the entry point with action and the given args" alt="" coords="1187,56,1547,83"/>
+<area shape="rect" id="node11" href="$df/de5/classtuttle_1_1host_1_1ofx_1_1interact_1_1OfxhInteractBase.html#a1ce98bd3f8311de456b7479912061709" title="grab a handle on the parameter for passing to the C API" alt="" coords="1197,107,1536,133"/>
+</map>

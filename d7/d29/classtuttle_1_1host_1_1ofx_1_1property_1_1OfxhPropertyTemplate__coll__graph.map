@@ -1,0 +1,4 @@
+<map id="G" name="G">
+<area shape="rect" id="node2" href="$db/d1f/classtuttle_1_1host_1_1ofx_1_1property_1_1OfxhProperty.html" title="base class for all properties" alt="" coords="48,353,299,855"/>
+<area shape="rect" id="node4" href="$d8/d0c/classtuttle_1_1host_1_1ofx_1_1property_1_1OfxhGetHook.html" title="{tuttle::host::ofx::property::OfxhGetHook\n||+ ~OfxhGetHook()\l+ getProperty()\l+ getPropertyN()\l+ getStringProperty()\l+ getIntProperty()\l+ getIntPropertyN()\l+ getDoubleProperty()\l+ getDoublePropertyN()\l+ getPointerProperty()\l+ getPointerPropertyN()\l+ getDimension()\l+ reset()\l+ getPropertyN()\l+ getPropertyN()\l+ getPropertyN()\l}" alt="" coords="47,5,300,288"/>
+</map>

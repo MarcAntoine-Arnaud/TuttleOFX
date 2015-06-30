@@ -1,0 +1,51 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$de/d70/classtuttle_1_1host_1_1ThumbnailDiskCache.html#ae848efac9542e4ac50def44b33d43d8d" title="Tranform the original image path into a cache key." alt="" coords="741,164,1016,191"/>
+<area shape="rect" id="node5" href="$de/d70/classtuttle_1_1host_1_1ThumbnailDiskCache.html#a96b5c660e2e66144f39801dbcebdabe8" title="Check if the imagePath has a thumbnail in the cache." alt="" coords="358,113,693,140"/>
+<area shape="rect" id="node10" href="$d5/dfd/classtuttle_1_1host_1_1DiskCacheTranslator.html#a092f8632aa0a7f399b9b1423da63aebb" title="Convert a key into a filepath." alt="" coords="1065,75,1402,101"/>
+<area shape="rect" id="node17" href="$de/d70/classtuttle_1_1host_1_1ThumbnailDiskCache.html#a91f46783ed53252aa96970cd9d26c6e0" title="Create a thumbnail for an image path and the associated key." alt="" coords="395,215,656,241"/>
+<area shape="rect" id="node114" href="$d0/d0f/namespacetuttle_1_1host.html#ac62ff1a1b7f672a03f653c7ddf666b64" title="tuttle::host::loadImage" alt="" coords="803,537,955,564"/>
+<area shape="rect" id="node8" href="$d5/dfd/classtuttle_1_1host_1_1DiskCacheTranslator.html#af12055d6282ee2700daaeefe0c82e8db" title="Check if the key exists." alt="" coords="743,63,1015,89"/>
+<area shape="rect" id="node12" href="$d5/dfd/classtuttle_1_1host_1_1DiskCacheTranslator.html#a38a6781aef4573a9d37eaede2cee8416" title="Convert a key into a filepath." alt="" coords="1477,5,1811,32"/>
+<area shape="rect" id="node14" href="$d5/dfd/classtuttle_1_1host_1_1DiskCacheTranslator.html#aaa886ecdd53ed7e4ec895f9d78fa42f8" title="Convert a relative keypath into an absolute keypath." alt="" coords="1451,56,1837,83"/>
+<area shape="rect" id="node20" href="$d5/dfd/classtuttle_1_1host_1_1DiskCacheTranslator.html#acbc743b70abab20caa9a397272789f37" title="Retrieve a absolute filepath from a key and create needed directories. Throw an error if you can&#39;t cr..." alt="" coords="749,215,1008,241"/>
+<area shape="rect" id="node23" href="$d0/d0f/namespacetuttle_1_1host.html#a8d4c2142ab1cc3497ec70fe45c6b62ea" title="tuttle::host::loadAndGenerateThumbnail" alt="" coords="753,341,1005,368"/>
+<area shape="rect" id="node25" href="$d8/d72/classtuttle_1_1host_1_1Graph.html#a73deb10bff86eb5fff005a16e9467d78" title="Add nodes to the graph and connect them linearly." alt="" coords="1105,208,1362,235"/>
+<area shape="rect" id="node35" href="$d8/d72/classtuttle_1_1host_1_1Graph.html#ac96cfa449690965050699dfcee23dea3" title="tuttle::host::Graph::compute" alt="" coords="1141,360,1326,387"/>
+<area shape="rect" id="node37" href="$db/dcb/classtuttle_1_1host_1_1memory_1_1MemoryCache.html#a524ba223ae8d44893f5c02c9285cb83d" title="tuttle::host::memory::MemoryCache::get" alt="" coords="1104,563,1363,589"/>
+<area shape="rect" id="node39" href="$d4/df0/namespacetuttle_1_1host_1_1io.html#a93a8a559c29ecd109c39ad86203a85f1" title="tuttle::host::io::getBestReader" alt="" coords="1135,512,1332,539"/>
+<area shape="rect" id="node59" href="$d8/d72/classtuttle_1_1host_1_1Graph.html#ab25d4c2400879784c015c7eaebe91d94" title="tuttle::host::Graph::setup" alt="" coords="1561,512,1727,539"/>
+<area shape="rect" id="node96" href="$d4/df0/namespacetuttle_1_1host_1_1io.html#a7258ca7a67054cb2ea4be60c04c5a555" title="tuttle::host::io::getBestWriter" alt="" coords="1138,309,1329,336"/>
+<area shape="rect" id="node102" href="$de/dbb/classtuttle_1_1host_1_1NodeInit.html#aebb11b304c4aeb08c8aec2ae03746180" title="Set parameter values. If it&#39;s a multi&#45;dimensional parameter, you should put all dimensions values..." alt="" coords="1131,411,1336,437"/>
+<area shape="rect" id="node104" href="$de/d43/classtuttle_1_1host_1_1ComputeOptions.html#a2b0177253fcf3f078bb61708605314a1" title="tuttle::host::ComputeOptions::setTimeRange" alt="" coords="1092,259,1375,285"/>
+<area shape="rect" id="node109" href="$de/d43/classtuttle_1_1host_1_1ComputeOptions.html#a676e33b798d37c39bcd8bd8ea4826830" title="Set the verbose level of the process." alt="" coords="1086,157,1381,184"/>
+<area shape="rect" id="node27" href="$d8/d72/classtuttle_1_1host_1_1Graph.html#a30c1a63adf3de5b2eb38ce6fe68d234f" title="Add nodes to the graph." alt="" coords="1547,208,1741,235"/>
+<area shape="rect" id="node31" href="$d8/d72/classtuttle_1_1host_1_1Graph.html#ae09d010c511292846d8afbe467af736e" title="Connect nodes (using there unique name in this graph)." alt="" coords="1553,157,1735,184"/>
+<area shape="rect" id="node29" href="$d8/d72/classtuttle_1_1host_1_1Graph.html#a23190ba311be1d85e8cdf67cf843813a" title="Add a node to the graph. It takes the ownership of the node object." alt="" coords="1941,296,2128,323"/>
+<area shape="rect" id="node33" href="$d8/d72/classtuttle_1_1host_1_1Graph.html#a9b58b5e99a51543823a42752c070264a" title="tuttle::host::Graph::getNode" alt="" coords="1943,157,2127,184"/>
+<area shape="rect" id="node41" href="$d4/df0/namespacetuttle_1_1host_1_1io.html#a71fd94ecbef17281bdffac0571c79f19" title="tuttle::host::io::getFileExtension" alt="" coords="1541,360,1747,387"/>
+<area shape="rect" id="node43" href="$d4/df0/namespacetuttle_1_1host_1_1io.html#ad03185266cbbb5360bc34bcaa3564a95" title="tuttle::host::io::_getReaders" alt="" coords="1552,461,1736,488"/>
+<area shape="rect" id="node51" href="$d8/d72/classtuttle_1_1host_1_1Graph.html#a1ce4507633a402ccc3ae87c650c4d759" title="Create a new node in the graph." alt="" coords="1543,411,1745,437"/>
+<area shape="rect" id="node54" href="$dc/df6/classtuttle_1_1host_1_1ImageEffectNode.html#a7e946fc92a137bd811506acd76b22f71" title="tuttle::host::ImageEffectNode::getParam" alt="" coords="1515,739,1773,765"/>
+<area shape="rect" id="node56" href="$d1/dfc/classtuttle_1_1host_1_1ofx_1_1attribute_1_1OfxhParam.html#a82e16ecac8133e5770ebb890452a4a18" title="tuttle::host::ofx::attribute::OfxhParam::setValue" alt="" coords="1495,587,1793,613"/>
+<area shape="rect" id="node76" href="$dc/df6/classtuttle_1_1host_1_1ImageEffectNode.html#aac7cea8492d1d7f895dedab3b4e81d1e" title="tuttle::host::ImageEffectNode::getTimeDomain" alt="" coords="1497,789,1791,816"/>
+<area shape="rect" id="node80" href="$d8/d72/classtuttle_1_1host_1_1Graph.html#a0604eecdcdfc9870e6203a37ede4e11c" title="tuttle::host::Graph::setupAtTime" alt="" coords="1539,637,1749,664"/>
+<area shape="rect" id="node93" href="$dc/df6/classtuttle_1_1host_1_1ImageEffectNode.html#a21e1122ee803385b39262c316359a3dc" title="tuttle::host::ImageEffectNode::getRegionOfDefinition" alt="" coords="1479,688,1809,715"/>
+<area shape="rect" id="node45" href="$d4/df0/namespacetuttle_1_1host_1_1io.html#a228234b45bd121d85a05d1a1170fd810" title="tuttle::host::io::getIOPluginsForExtension" alt="" coords="1903,397,2166,424"/>
+<area shape="rect" id="node47" href="$d0/d0f/namespacetuttle_1_1host.html#a746fb95bca42f3df0271cb413f04804e" title="tuttle::host::core" alt="" coords="2333,448,2451,475"/>
+<area shape="rect" id="node49" href="$de/d69/classSingleton.html#a8c7bf07247779fedadccb1fc482a4b85" title="return the unique instance of Singleton&lt;T&gt; class" alt="" coords="2600,448,2733,475"/>
+<area shape="rect" id="node62" href="$d3/d9c/classtuttle_1_1host_1_1graph_1_1ProcessGraph.html#ae79149c66d2b25e1c9e2bc5535ddf268" title="tuttle::host::graph::ProcessGraph::setup" alt="" coords="1907,549,2162,576"/>
+<area shape="rect" id="node64" href="$d0/d14/classtuttle_1_1host_1_1graph_1_1InternalGraph.html#a84191c2a2114da48ffa78b0cd2564034" title="tuttle::host::graph::InternalGraph::getVertices" alt="" coords="2250,701,2534,728"/>
+<area shape="rect" id="node66" href="$d0/d14/classtuttle_1_1host_1_1graph_1_1InternalGraph.html#a8e22b81d5425e6d27de07bd039ad8115" title="tuttle::host::graph::InternalGraph::instance" alt="" coords="2259,752,2525,779"/>
+<area shape="rect" id="node68" href="$da/d41/classtuttle_1_1host_1_1graph_1_1IVertex.html#ab2e0e4dec82a81e1d598147449e71f7f" title="tuttle::host::graph::IVertex::isFake" alt="" coords="2281,600,2503,627"/>
+<area shape="rect" id="node70" href="$de/dea/classtuttle_1_1host_1_1graph_1_1ProcessVertex.html#aa7bbc3770bf3f7cac92c62b61084e40c" title="tuttle::host::graph::ProcessVertex::setProcessData" alt="" coords="2232,499,2552,525"/>
+<area shape="rect" id="node72" href="$da/d41/classtuttle_1_1host_1_1graph_1_1IVertex.html#a37244cbe55372033aa6391f6d9d35b6c" title="tuttle::host::graph::IVertex::getProcessNode" alt="" coords="2253,651,2531,677"/>
+<area shape="rect" id="node74" href="$d6/dc0/classtuttle_1_1host_1_1INode.html#a2eabb8ab1fc059e32e94c5023d662ff2" title="tuttle::host::INode::setProcessData" alt="" coords="2277,549,2507,576"/>
+<area shape="rect" id="node78" href="$d6/dc0/classtuttle_1_1host_1_1INode.html#ac0acabcf812acfe4b00557bde062e5bd" title="tuttle::host::INode::getData" alt="" coords="1944,777,2125,804"/>
+<area shape="rect" id="node83" href="$d2/d07/classtuttle_1_1host_1_1Core.html#aa4d2421e08fb50396f9f64d3cce042d7" title="tuttle::host::Core::getMemoryCache" alt="" coords="1919,651,2150,677"/>
+<area shape="rect" id="node85" href="$de/d1d/classtuttle_1_1host_1_1NodeListArg.html#a7a704c6391507cba9655445964e811fb" title="tuttle::host::NodeListArg::getNodes" alt="" coords="1921,600,2149,627"/>
+<area shape="rect" id="node87" href="$d3/d9c/classtuttle_1_1host_1_1graph_1_1ProcessGraph.html#a5f2a080df5777d68ba479f5a0cff7972" title="tuttle::host::graph::ProcessGraph::setupAtTime" alt="" coords="1886,701,2183,728"/>
+<area shape="rect" id="node99" href="$d4/df0/namespacetuttle_1_1host_1_1io.html#aaf8b838c77947413c050d02418ab1c0b" title="tuttle::host::io::_getWriters" alt="" coords="1555,309,1733,336"/>
+<area shape="rect" id="node106" href="$de/d43/classtuttle_1_1host_1_1ComputeOptions.html#a5d05572a18c0747534d99f0f642a961e" title="tuttle::host::ComputeOptions::addTimeRange" alt="" coords="1501,259,1787,285"/>
+<area shape="rect" id="node111" href="$dd/dd5/classtuttle_1_1common_1_1Formatter.html#ae587f0f159aa61018734b493ba4e241a" title="tuttle::common::Formatter::get" alt="" coords="1545,107,1743,133"/>
+<area shape="rect" id="node116" href="$d0/d0f/namespacetuttle_1_1host.html#a4aa3d4b8b7251ea81c5ead52a67f7e4f" title="tuttle::host::compute" alt="" coords="1162,613,1305,640"/>
+</map>

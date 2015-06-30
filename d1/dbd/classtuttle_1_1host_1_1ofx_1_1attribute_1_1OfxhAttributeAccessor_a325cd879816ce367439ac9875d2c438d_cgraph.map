@@ -1,0 +1,4 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$d1/dbd/classtuttle_1_1host_1_1ofx_1_1attribute_1_1OfxhAttributeAccessor.html#a1d53d4e2abc7848170e25c6dacece122" title="tuttle::host::ofx::attribute::OfxhAttributeAccessor::getEditableProperties" alt="" coords="448,5,885,32"/>
+<area shape="rect" id="node5" href="$db/dc8/classtuttle_1_1host_1_1ofx_1_1property_1_1OfxhSet.html#a32654a6d0ff3bebe697b2836c255f940" title="set a particular string property without fetching via a get hook, useful for notifies" alt="" coords="501,56,832,83"/>
+</map>

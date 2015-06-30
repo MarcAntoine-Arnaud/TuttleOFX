@@ -1,0 +1,12 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$dc/d22/classtuttle_1_1host_1_1ofx_1_1OfxhPluginBinary.html#ac19c46c79dc4399c0448eeb6d78b503e" title="try to open the plugin bundle object and query it for plugins" alt="" coords="381,183,691,209"/>
+<area shape="rect" id="node5" href="$de/d55/classtuttle_1_1host_1_1ofx_1_1OfxhBinary.html#a9808d52ab205a1956d7cf64d8ec81aa9" title="Last modification time of the file." alt="" coords="777,5,1015,32"/>
+<area shape="rect" id="node7" href="$de/d55/classtuttle_1_1host_1_1ofx_1_1OfxhBinary.html#a6f8be11347370fe572155a2de1aece25" title="Current size of the file." alt="" coords="779,56,1013,83"/>
+<area shape="rect" id="node9" href="$de/d55/classtuttle_1_1host_1_1ofx_1_1OfxhBinary.html#a24129006b338ba025260cc2cc5591eec" title="open the binary." alt="" coords="789,107,1003,133"/>
+<area shape="rect" id="node13" href="$de/d55/classtuttle_1_1host_1_1ofx_1_1OfxhBinary.html#aebb1f6f2460482af9ad8506a9b29b89e" title="tuttle::host::ofx::OfxhBinary::findSymbol" alt="" coords="768,157,1024,184"/>
+<area shape="rect" id="node16" href="$de/d55/classtuttle_1_1host_1_1ofx_1_1OfxhBinary.html#a842ef41073812a3b5fd031eacb385548" title="set invalid status (e.g. called by user if a mandatory symbol was missing)" alt="" coords="773,208,1019,235"/>
+<area shape="rect" id="node18" href="$d6/d2c/classtuttle_1_1host_1_1ofx_1_1OfxhPluginCache.html#a2dd12a280c2d38a196e2eaa3be7609de" title="find the API cache handler for the given api/apiverson" alt="" coords="739,259,1053,285"/>
+<area shape="rect" id="node20" href="$de/d55/classtuttle_1_1host_1_1ofx_1_1OfxhBinary.html#a726a12e9dbf89d3b70219eed765b0130" title="Path to the file." alt="" coords="759,309,1033,336"/>
+<area shape="rect" id="node22" href="$de/d55/classtuttle_1_1host_1_1ofx_1_1OfxhBinary.html#a525b33266ba5b65abddf4cc9cf194320" title="close the binary" alt="" coords="781,360,1011,387"/>
+<area shape="rect" id="node11" href="$d2/d7f/namespacetuttle.html#a87ac1f9750141f52daffed18951b58be" title="tuttle::quotes" alt="" coords="1101,132,1200,159"/>
+</map>

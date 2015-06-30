@@ -1,0 +1,12 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$d0/d25/classtuttle_1_1host_1_1memory_1_1MemoryPool.html#a04b5cb832a359e7f859c4a599ffbfebe" title="tuttle::host::memory::MemoryPool::getAllocatedMemorySize" alt="" coords="264,5,637,32"/>
+<area shape="rect" id="node5" href="$d0/d25/classtuttle_1_1host_1_1memory_1_1MemoryPool.html#a8acac81d25e70991db8e49f80c368763" title="tuttle::host::memory::MemoryPool::getUsedMemorySize" alt="" coords="731,56,1082,83"/>
+<area shape="rect" id="node9" href="$d0/d25/classtuttle_1_1host_1_1memory_1_1MemoryPool.html#a60c07f76e8f2939029dfb80232d7f786" title="tuttle::host::memory::MemoryPool::getAvailableMemorySize" alt="" coords="265,107,637,133"/>
+<area shape="rect" id="node11" href="$d0/d25/classtuttle_1_1host_1_1memory_1_1MemoryPool.html#a00ae0390f8890058114500375398008a" title="tuttle::host::memory::MemoryPool::getMaxMemorySize" alt="" coords="735,132,1079,159"/>
+<area shape="rect" id="node14" href="$d0/d25/classtuttle_1_1host_1_1memory_1_1MemoryPool.html#a18870b1178071bf50a78c1466983f686" title="tuttle::host::memory::MemoryPool::getDataUnusedSize" alt="" coords="278,208,623,235"/>
+<area shape="rect" id="node16" href="$d0/d25/classtuttle_1_1host_1_1memory_1_1MemoryPool.html#aa8703f53a991c28c97634fccf9936b40" title="tuttle::host::memory::MemoryPool::getDataUsedSize" alt="" coords="285,259,616,285"/>
+<area shape="rect" id="node19" href="$dd/da9/memoryInfo_8cpp.html#ab005635ee3dc847b8b4dfdcf6e2ff178" title="getMemoryInfo" alt="" coords="396,309,505,336"/>
+<area shape="rect" id="node24" href="$d0/d25/classtuttle_1_1host_1_1memory_1_1MemoryPool.html#aa40acaed894a2e474f08a944deac46a7" title="tuttle::host::memory::MemoryPool::getWastedMemorySize" alt="" coords="269,360,633,387"/>
+<area shape="rect" id="node7" href="$d0/d25/classtuttle_1_1host_1_1memory_1_1MemoryPool.html#a19882dcfee785d737a17c246549b2586" title="tuttle::host::memory::MemoryPool::getAllocatedAndUnusedMemorySize" alt="" coords="686,5,1127,32"/>
+<area shape="rect" id="node21" href="$d2/d7f/namespacetuttle.html#ae47d39ffbfd26c4920c2b25e8c0da3cc" title="tuttle::max" alt="" coords="865,309,949,336"/>
+</map>

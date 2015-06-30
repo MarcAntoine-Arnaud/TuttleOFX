@@ -1,0 +1,34 @@
+<map id="G" name="G">
+<area shape="rect" id="node5" href="$df/df2/structtuttle_1_1exception_1_1BadHandle.html" title="Status error code for an operation on a bad handle." alt="" coords="352,381,539,459"/>
+<area shape="rect" id="node7" href="$d2/d76/structtuttle_1_1exception_1_1BadIndex.html" title="Status error code indicating that a given index was invalid or unavailable." alt="" coords="563,381,741,459"/>
+<area shape="rect" id="node9" href="$dc/d52/structtuttle_1_1exception_1_1Exists.html" title="Status error code for an operation attempting to create something that exists." alt="" coords="765,381,924,459"/>
+<area shape="rect" id="node11" href="$d3/dcb/structtuttle_1_1exception_1_1Failed.html" title="Status error code for a failed operation." alt="" coords="950,381,1108,459"/>
+<area shape="rect" id="node31" href="$db/dde/structtuttle_1_1exception_1_1Fatal.html" title="Status error code for a fatal error." alt="" coords="1133,381,1285,459"/>
+<area shape="rect" id="node35" href="$d4/d6b/structtuttle_1_1exception_1_1Format.html" title="Status error code for an incorrect format." alt="" coords="1310,381,1473,459"/>
+<area shape="rect" id="node41" href="$d0/d14/structtuttle_1_1exception_1_1ImageFormat.html" title="imageEffect specific errors" alt="" coords="1499,381,1697,459"/>
+<area shape="rect" id="node47" href="$da/dca/structtuttle_1_1exception_1_1Memory.html" title="Status error code indicating that something failed due to memory shortage." alt="" coords="1723,381,1893,459"/>
+<area shape="rect" id="node49" href="$d8/dc9/structtuttle_1_1exception_1_1MissingHostFeature.html" title="Status error code returned by plug&#45;ins when they are missing host functionality, either an API or som..." alt="" coords="1917,374,2157,466"/>
+<area shape="rect" id="node51" href="$d6/d4a/structtuttle_1_1exception_1_1OfxCustom.html" title="Ofx standard errors." alt="" coords="2182,381,2372,459"/>
+<area shape="rect" id="node53" href="$d6/d45/structtuttle_1_1exception_1_1Unknown.html" title="Status error code for an operation on or request for an unknown object." alt="" coords="2397,381,2576,459"/>
+<area shape="rect" id="node55" href="$db/df4/structtuttle_1_1exception_1_1Unsupported.html" title="Status error code for an unsupported feature/operation." alt="" coords="2600,381,2797,459"/>
+<area shape="rect" id="node59" href="$df/dcf/structtuttle_1_1exception_1_1Value.html" title="Status error code indicating that something failed due an illegal value." alt="" coords="2930,381,3085,459"/>
+<area shape="rect" id="node2" href="$d5/dbf/classboost_1_1backtrace.html" title="{boost::backtrace\n|+ default_stack_size\l&#45; frames_\l|+ backtrace()\l+ ~backtrace()\l+ stack_size()\l+ return_address()\l+ trace_line()\l+ trace_line()\l+ trace()\l+ trace()\l}" alt="" coords="1527,5,1669,200"/>
+<area shape="rect" id="node13" href="$d3/dc2/structtuttle_1_1exception_1_1BadConversion.html" title="Unknown error inside a conversion." alt="" coords="281,523,492,600"/>
+<area shape="rect" id="node15" href="$dc/d51/structtuttle_1_1exception_1_1File.html" title="File manipulation error. eg. read only, file doesn&#39;t exists, etc." alt="" coords="517,515,661,607"/>
+<area shape="rect" id="node27" href="$d5/df6/structtuttle_1_1exception_1_1ImageNotConnected.html" title="A non optional input clip in not connected. * plugin: Normally the host should not launch the render ..." alt="" coords="685,523,928,600"/>
+<area shape="rect" id="node29" href="$d6/d07/structtuttle_1_1exception_1_1Logic.html" title="Other exceptions." alt="" coords="952,523,1105,600"/>
+<area shape="rect" id="node17" href="$de/d15/structtuttle_1_1exception_1_1FileExist.html" title="File already exists." alt="" coords="5,657,179,749"/>
+<area shape="rect" id="node19" href="$db/d8b/structtuttle_1_1exception_1_1FileInSequenceNotExist.html" title="File in sequence doesn&#39;t exist." alt="" coords="204,657,468,749"/>
+<area shape="rect" id="node21" href="$d0/d8e/structtuttle_1_1exception_1_1FileNotExist.html" title="File doesn&#39;t exist." alt="" coords="492,657,687,749"/>
+<area shape="rect" id="node23" href="$da/d55/structtuttle_1_1exception_1_1NoDirectory.html" title="Directory doesn&#39;t exist." alt="" coords="711,657,904,749"/>
+<area shape="rect" id="node25" href="$de/d19/structtuttle_1_1exception_1_1ReadOnlyFile.html" title="Read only file." alt="" coords="929,657,1132,749"/>
+<area shape="rect" id="node33" href="$d8/dff/structtuttle_1_1exception_1_1Bug.html" title="Something that should never appends. These exceptions may be replaced by assertions, but we prefer to keep a runtime check even in release (for the moment)." alt="" coords="1131,523,1277,600"/>
+<area shape="rect" id="node37" href="$d4/df0/structtuttle_1_1exception_1_1InOutMismatch.html" title="Input and output properties mismatch. * plugin: The error comes from host. * host: We can&#39;t launch th..." alt="" coords="1302,523,1513,600"/>
+<area shape="rect" id="node39" href="$d3/d46/structtuttle_1_1exception_1_1InputMismatch.html" title="Input property don&#39;t satisfy descriptor requirements. * plugin: The error comes from host..." alt="" coords="1538,523,1747,600"/>
+<area shape="rect" id="node43" href="$d2/d53/structtuttle_1_1exception_1_1BitDepthMismatch.html" title="Input(s) and enventually output properties mismatch. * plugin: The error comes from host..." alt="" coords="1771,523,2001,600"/>
+<area shape="rect" id="node45" href="$d2/db6/structtuttle_1_1exception_1_1WrongRowBytes.html" title="Image raw bytes not valid. * plugin: The error comes from host. * host: We can&#39;t launch the render in..." alt="" coords="2026,523,2248,600"/>
+<area shape="rect" id="node57" href="$d4/d08/structtuttle_1_1exception_1_1NotImplemented.html" title="Something that could work, but is not implemeted." alt="" coords="2535,523,2753,600"/>
+<area shape="rect" id="node61" href="$dd/ddf/structtuttle_1_1exception_1_1Data.html" title="Status error code indicating that something failed due an illegal data." alt="" coords="2778,523,2928,600"/>
+<area shape="rect" id="node63" href="$dc/dc3/structtuttle_1_1exception_1_1ImageNotReady.html" title="Error with a NULL image buffer. * plugin: The host launch a process, but the input clips are not fill..." alt="" coords="2953,523,3172,600"/>
+<area shape="rect" id="node65" href="$d7/d81/structtuttle_1_1exception_1_1WrongParameter.html" title="The parameter doesn&#39;t make sense." alt="" coords="3196,523,3417,600"/>
+</map>

@@ -1,0 +1,17 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$db/dc8/classtuttle_1_1host_1_1ofx_1_1property_1_1OfxhSet.html#ae4f6e8aadabf45e1bf55dfced998989e" title="adds a bunch of properties from PropSpec" alt="" coords="1064,56,1373,83"/>
+<area shape="rect" id="node9" href="$d2/dd3/namespacetuttle_1_1host_1_1ofx_1_1attribute.html#a15530e6bf14cbe5a15f523ed61d465ef" title="tuttle::host::ofx::attribute::findType" alt="" coords="614,411,837,438"/>
+<area shape="rect" id="node11" href="$d7/d4d/classtuttle_1_1host_1_1ofx_1_1attribute_1_1OfxhAttributeDescriptor.html#a86547ceba084677e72a397e7cdd3081a" title="tuttle::host::ofx::attribute::OfxhAttributeDescriptor::getEditableProperties" alt="" coords="997,107,1440,134"/>
+<area shape="rect" id="node13" href="$dd/d39/classtuttle_1_1host_1_1ofx_1_1attribute_1_1OfxhParamDescriptor.html#ad24f4e2391aa19083258087cfffc310f" title="add standard properties to a params that can take an interact" alt="" coords="505,56,945,83"/>
+<area shape="rect" id="node17" href="$dd/d39/classtuttle_1_1host_1_1ofx_1_1attribute_1_1OfxhParamDescriptor.html#a86571458af5169ad9e74e59ea182108f" title="tuttle::host::ofx::attribute::OfxhParamDescriptor::initNoValueParamProps" alt="" coords="502,107,949,134"/>
+<area shape="rect" id="node21" href="$dd/d39/classtuttle_1_1host_1_1ofx_1_1attribute_1_1OfxhParamDescriptor.html#a8b44128757b250f281e24f4719a7d63d" title="add standard properties to a value holding param" alt="" coords="503,259,948,286"/>
+<area shape="rect" id="node25" href="$d2/dd3/namespacetuttle_1_1host_1_1ofx_1_1attribute.html#a8b5ab18c5104ebba0b3fb030b5f20060" title="tuttle::host::ofx::attribute::isColourParam" alt="" coords="1089,310,1348,336"/>
+<area shape="rect" id="node27" href="$d2/dd3/namespacetuttle_1_1host_1_1ofx_1_1attribute.html#a25398eefa04d589bd5d60994bc099dfc" title="tuttle::host::ofx::attribute::isDoubleParam" alt="" coords="1087,360,1350,387"/>
+<area shape="rect" id="node35" href="$dd/d39/classtuttle_1_1host_1_1ofx_1_1attribute_1_1OfxhParamDescriptor.html#a578576eb4113843704869f7060a553c3" title="add standard properties to a value holding param" alt="" coords="511,158,940,184"/>
+<area shape="rect" id="node41" href="$d2/dd3/namespacetuttle_1_1host_1_1ofx_1_1attribute.html#a5a04a2feec7d80177b2f3564d9a576af" title="tuttle::host::ofx::attribute::isIntParam" alt="" coords="607,462,843,488"/>
+<area shape="rect" id="node5" href="$db/dc8/classtuttle_1_1host_1_1ofx_1_1property_1_1OfxhSet.html#a6c87c959bb4175ec30daadfe0d44da11" title="add one new property" alt="" coords="1488,56,1803,83"/>
+<area shape="rect" id="node7" href="$dc/dd4/namespacetuttle_1_1host_1_1ofx_1_1property.html#a6db68329639d790e07cc142c3cf89e11" title="tuttle::host::ofx::property::mapTypeEnumToString" alt="" coords="1851,56,2162,83"/>
+<area shape="rect" id="node29" href="$d2/d7f/namespacetuttle.html#ae47d39ffbfd26c4920c2b25e8c0da3cc" title="tuttle::max" alt="" coords="1177,158,1261,184"/>
+<area shape="rect" id="node31" href="$d2/d7f/namespacetuttle.html#afbd150ec02af9b6e21b9d758f8aae158" title="tuttle::min" alt="" coords="1179,208,1259,235"/>
+<area shape="rect" id="node33" href="$db/dc8/classtuttle_1_1host_1_1ofx_1_1property_1_1OfxhSet.html#a32654a6d0ff3bebe697b2836c255f940" title="set a particular string property without fetching via a get hook, useful for notifies" alt="" coords="1053,259,1384,286"/>
+</map>

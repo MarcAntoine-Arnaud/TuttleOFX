@@ -1,0 +1,11 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$db/dc8/classtuttle_1_1host_1_1ofx_1_1property_1_1OfxhSet.html#ae4f6e8aadabf45e1bf55dfced998989e" title="adds a bunch of properties from PropSpec" alt="" coords="565,5,875,32"/>
+<area shape="rect" id="node9" href="$d7/d4d/classtuttle_1_1host_1_1ofx_1_1attribute_1_1OfxhAttributeDescriptor.html#a86547ceba084677e72a397e7cdd3081a" title="tuttle::host::ofx::attribute::OfxhAttributeDescriptor::getEditableProperties" alt="" coords="499,56,941,83"/>
+<area shape="rect" id="node11" href="$d2/dd3/namespacetuttle_1_1host_1_1ofx_1_1attribute.html#a8b5ab18c5104ebba0b3fb030b5f20060" title="tuttle::host::ofx::attribute::isColourParam" alt="" coords="591,107,849,133"/>
+<area shape="rect" id="node13" href="$d2/dd3/namespacetuttle_1_1host_1_1ofx_1_1attribute.html#a25398eefa04d589bd5d60994bc099dfc" title="tuttle::host::ofx::attribute::isDoubleParam" alt="" coords="589,157,851,184"/>
+<area shape="rect" id="node15" href="$d2/d7f/namespacetuttle.html#ae47d39ffbfd26c4920c2b25e8c0da3cc" title="tuttle::max" alt="" coords="678,208,762,235"/>
+<area shape="rect" id="node17" href="$d2/d7f/namespacetuttle.html#afbd150ec02af9b6e21b9d758f8aae158" title="tuttle::min" alt="" coords="680,259,760,285"/>
+<area shape="rect" id="node19" href="$db/dc8/classtuttle_1_1host_1_1ofx_1_1property_1_1OfxhSet.html#a32654a6d0ff3bebe697b2836c255f940" title="set a particular string property without fetching via a get hook, useful for notifies" alt="" coords="555,309,885,336"/>
+<area shape="rect" id="node5" href="$db/dc8/classtuttle_1_1host_1_1ofx_1_1property_1_1OfxhSet.html#a6c87c959bb4175ec30daadfe0d44da11" title="add one new property" alt="" coords="989,5,1304,32"/>
+<area shape="rect" id="node7" href="$dc/dd4/namespacetuttle_1_1host_1_1ofx_1_1property.html#a6db68329639d790e07cc142c3cf89e11" title="tuttle::host::ofx::property::mapTypeEnumToString" alt="" coords="1353,5,1663,32"/>
+</map>

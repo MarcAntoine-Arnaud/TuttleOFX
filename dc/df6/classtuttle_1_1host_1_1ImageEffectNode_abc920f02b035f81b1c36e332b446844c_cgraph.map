@@ -1,0 +1,15 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$d3/d43/classtuttle_1_1host_1_1ofx_1_1OfxhPluginDesc.html#a566a23e6ed45620585a67d52e9ce285b" title="tuttle::host::ofx::OfxhPluginDesc::getHash" alt="" coords="457,56,727,83"/>
+<area shape="rect" id="node9" href="$d0/d5e/classtuttle_1_1host_1_1ofx_1_1attribute_1_1OfxhParamSet.html#a90837d00a573fb479d5fb895a9f6baa8" title="tuttle::host::ofx::attribute::OfxhParamSet::getHashAtTime" alt="" coords="413,157,771,184"/>
+<area shape="rect" id="node23" href="$dc/df6/classtuttle_1_1host_1_1ImageEffectNode.html#a86ee428261b8d482e7b8b00b4164923e" title="tuttle::host::ImageEffectNode::getParamSet" alt="" coords="453,208,731,235"/>
+<area shape="rect" id="node25" href="$de/d55/classtuttle_1_1host_1_1ofx_1_1imageEffect_1_1OfxhImageEffectNode.html#a75e1d88efaa61e052b5201ff89d23d0c" title="return the plugin this instance was created with" alt="" coords="398,259,786,285"/>
+<area shape="rect" id="node27" href="$de/d55/classtuttle_1_1host_1_1ofx_1_1imageEffect_1_1OfxhImageEffectNode.html#af43700e6d6a15807a5bb2a83cd78cbe7" title="tuttle::host::ofx::imageEffect::OfxhImageEffectNode::isFrameVarying" alt="" coords="379,309,805,336"/>
+<area shape="rect" id="node5" href="$d3/d43/classtuttle_1_1host_1_1ofx_1_1OfxhPluginDesc.html#ae8f68a3675156401e1a9eb1bd37164bb" title="tuttle::host::ofx::OfxhPluginDesc::getIdentifier" alt="" coords="926,5,1215,32"/>
+<area shape="rect" id="node7" href="$d3/d43/classtuttle_1_1host_1_1ofx_1_1OfxhPluginDesc.html#a484c9013b645f0fe31d722507e56b58e" title="tuttle::host::ofx::OfxhPluginDesc::getVersionMajor" alt="" coords="913,56,1228,83"/>
+<area shape="rect" id="node11" href="$d0/d5e/classtuttle_1_1host_1_1ofx_1_1attribute_1_1OfxhParamSet.html#adf388a805e33f9275d0c769dc4ca8c36" title="tuttle::host::ofx::attribute::OfxhParamSet::getParamVector" alt="" coords="890,107,1251,133"/>
+<area shape="rect" id="node13" href="$d1/dfc/classtuttle_1_1host_1_1ofx_1_1attribute_1_1OfxhParam.html#af634f37f0e6c546af5a432ef53e48585" title="tuttle::host::ofx::attribute::OfxhParam::paramTypeHasData" alt="" coords="889,157,1253,184"/>
+<area shape="rect" id="node15" href="$d7/d9d/classtuttle_1_1host_1_1ofx_1_1attribute_1_1OfxhParamAccessor.html#a4debfa218c305695739c5de1ae93cee4" title="tuttle::host::ofx::attribute::OfxhParamAccessor::getEvaluateOnChange" alt="" coords="854,208,1287,235"/>
+<area shape="rect" id="node21" href="$d1/dfc/classtuttle_1_1host_1_1ofx_1_1attribute_1_1OfxhParam.html#a3db7e0bb3410dda742b7ffda4320a901" title="tuttle::host::ofx::attribute::OfxhParam::getHashAtTime" alt="" coords="901,259,1240,285"/>
+<area shape="rect" id="node17" href="$d1/dbd/classtuttle_1_1host_1_1ofx_1_1attribute_1_1OfxhAttributeAccessor.html#afc39d1c719a76f2a906468bad6d90a45" title="tuttle::host::ofx::attribute::OfxhAttributeAccessor::getProperties" alt="" coords="1337,183,1727,209"/>
+<area shape="rect" id="node19" href="$db/dc8/classtuttle_1_1host_1_1ofx_1_1property_1_1OfxhSet.html#a93aa0eb3c85c46638935cd97331ed87f" title="get the value of a particular int property" alt="" coords="1377,233,1687,260"/>
+</map>

@@ -1,0 +1,10 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$de/d9a/classtuttle_1_1host_1_1ofx_1_1interact_1_1OfxhInteract.html#a34397cdbbf75556658e66a79d6bcf0af" title="tuttle::host::ofx::interact::OfxhInteract::getBackgroundColour" alt="" coords="369,5,743,32"/>
+<area shape="rect" id="node5" href="$de/d9a/classtuttle_1_1host_1_1ofx_1_1interact_1_1OfxhInteract.html#a18ae0f8ab43ff7d4728087d987f4f399" title="tuttle::host::ofx::interact::OfxhInteract::getPixelScale" alt="" coords="391,56,721,83"/>
+<area shape="rect" id="node7" href="$db/dc8/classtuttle_1_1host_1_1ofx_1_1property_1_1OfxhSet.html#a48d3280a8ca43310907fda71f95023ac" title="get the value of a particular pointer property" alt="" coords="387,107,725,133"/>
+<area shape="rect" id="node9" href="$de/d9a/classtuttle_1_1host_1_1ofx_1_1interact_1_1OfxhInteract.html#a6eb7759cb73098771aea794a9d6d8982" title="tuttle::host::ofx::interact::OfxhInteract::getViewportSize" alt="" coords="384,157,728,184"/>
+<area shape="rect" id="node11" href="$db/dc8/classtuttle_1_1host_1_1ofx_1_1property_1_1OfxhSet.html#a0531611320fc76e6fbe1dab5658b2cec" title="get a particular double property" alt="" coords="387,208,725,235"/>
+<area shape="rect" id="node13" href="$db/dc8/classtuttle_1_1host_1_1ofx_1_1property_1_1OfxhSet.html#a2bb46a5f5d914e0fae46ad75ef4a6ddf" title="get a particular double property" alt="" coords="383,259,729,285"/>
+<area shape="rect" id="node15" href="$db/dc8/classtuttle_1_1host_1_1ofx_1_1property_1_1OfxhSet.html#a179cf4809adbc62771b7404e31ef69c9" title="set a particular double property" alt="" coords="395,309,717,336"/>
+<area shape="rect" id="node17" href="$db/dc8/classtuttle_1_1host_1_1ofx_1_1property_1_1OfxhSet.html#a5e9bd143d801d10f9379dbf83b57340b" title="get a particular double property" alt="" coords="387,360,725,387"/>
+</map>

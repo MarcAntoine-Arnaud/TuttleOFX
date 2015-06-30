@@ -1,0 +1,6 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$d2/d07/classtuttle_1_1host_1_1Core.html" title="{tuttle::host::Core\&lt; Core \&gt;\n|&#45; _host\l&#45; _imageEffectPluginCache\l&#45; _pluginCache\l&#45; _memoryPool\l&#45; _memoryCache\l&#45; _isPreloaded\l&#45; _formatter\l&#45; _preferences\l|+ getPluginCache()\l+ getPluginCache()\l+ getPlugins()\l+ getHost()\l+ getFormatter()\l+ getPreferences()\l+ getPreferences()\l+ getImageEffectPluginCache()\l+ getMemoryPool()\l+ getMemoryPool()\l+ getMemoryCache()\l+ getMemoryCache()\l+ getImageEffectPluginById()\l+ preload()\l+ operator[]()\l&#45; Core()\l&#45; ~Core()\l}" alt="" coords="5,222,211,637"/>
+<area shape="rect" id="node5" href="$de/d69/classSingleton.html" title="{Singleton\&lt; FileGlobal \&gt;\n|&#45; inst\l|+ instance()\l+ destroy()\l# Singleton()\l# ~Singleton()\l&#45; Singleton()\l&#45; operator=()\l}" alt="" coords="235,354,393,505"/>
+<area shape="rect" id="node9" href="$de/d69/classSingleton.html" title="{Singleton\&lt; Core \&gt;\n|&#45; inst\l|+ instance()\l+ destroy()\l# Singleton()\l# ~Singleton()\l&#45; Singleton()\l&#45; operator=()\l}" alt="" coords="419,354,547,505"/>
+<area shape="rect" id="node7" href="$dd/d93/classFileGlobal.html" title="Output datas in the same file from anywhere." alt="" coords="263,689,367,810"/>
+</map>

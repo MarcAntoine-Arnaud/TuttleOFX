@@ -1,0 +1,13 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$db/dd3/classtuttle_1_1host_1_1attribute_1_1ClipImage.html#acdea50ccb25efbabdb60d0add89372fc" title="tuttle::host::attribute::ClipImage::getFullName" alt="" coords="421,101,709,128"/>
+<area shape="rect" id="node11" href="$dd/dc2/classtuttle_1_1host_1_1ofx_1_1attribute_1_1OfxhClipAccessor.html#a4cfa0f7d859e260cb216c8b3745fe749" title="tuttle::host::ofx::attribute::OfxhClipAccessor::isConnected" alt="" coords="385,164,745,191"/>
+<area shape="rect" id="node17" href="$dd/dc2/classtuttle_1_1host_1_1ofx_1_1attribute_1_1OfxhClipAccessor.html#ae2d0e1d324b04f67a5a47fda7fcc5e89" title="is the clip optional" alt="" coords="393,215,738,241"/>
+<area shape="rect" id="node21" href="$d1/dbd/classtuttle_1_1host_1_1ofx_1_1attribute_1_1OfxhAttributeAccessor.html#a9a7f6fa9ba00352e303f162f11ca6540" title="is the clip an output clip" alt="" coords="384,291,747,317"/>
+<area shape="rect" id="node5" href="$d7/d58/classtuttle_1_1host_1_1attribute_1_1Attribute.html#a3f70f88825447f81c5aa66c0bd3694e2" title="tuttle::host::attribute::Attribute::getNode" alt="" coords="852,5,1105,32"/>
+<area shape="rect" id="node7" href="$d6/dc0/classtuttle_1_1host_1_1INode.html#a1035be3d96536a96ccc6094ec4b05846" title="tuttle::host::INode::getName" alt="" coords="885,56,1073,83"/>
+<area shape="rect" id="node9" href="$db/dd3/classtuttle_1_1host_1_1attribute_1_1ClipImage.html#a114c73991a9ae0477e12f9ce096ee2db" title="tuttle::host::attribute::ClipImage::getName" alt="" coords="845,107,1112,133"/>
+<area shape="rect" id="node13" href="$d1/dbd/classtuttle_1_1host_1_1ofx_1_1attribute_1_1OfxhAttributeAccessor.html#afc39d1c719a76f2a906468bad6d90a45" title="tuttle::host::ofx::attribute::OfxhAttributeAccessor::getProperties" alt="" coords="1211,259,1602,285"/>
+<area shape="rect" id="node15" href="$db/dc8/classtuttle_1_1host_1_1ofx_1_1property_1_1OfxhSet.html#a93aa0eb3c85c46638935cd97331ed87f" title="get the value of a particular int property" alt="" coords="823,208,1134,235"/>
+<area shape="rect" id="node23" href="$d1/dbd/classtuttle_1_1host_1_1ofx_1_1attribute_1_1OfxhAttributeAccessor.html#a5dd0b6a71e059db4f3eaa1bf23b208d8" title="tuttle::host::ofx::attribute::OfxhAttributeAccessor::getName" alt="" coords="795,309,1162,336"/>
+<area shape="rect" id="node26" href="$db/dc8/classtuttle_1_1host_1_1ofx_1_1property_1_1OfxhSet.html#ad3455a816a53f81c7382f2a755f9f2c5" title="get the value of a particular string property" alt="" coords="1241,309,1572,336"/>
+</map>

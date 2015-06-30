@@ -1,0 +1,6 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$d6/dc0/classtuttle_1_1host_1_1INode.html#a3638640241342cae8098b5f69446aa30" title="tuttle::host::INode::asImageEffectNode" alt="" coords="365,5,616,32"/>
+<area shape="rect" id="node5" href="$d3/d43/classtuttle_1_1host_1_1ofx_1_1OfxhPluginDesc.html#ae8f68a3675156401e1a9eb1bd37164bb" title="tuttle::host::ofx::OfxhPluginDesc::getIdentifier" alt="" coords="346,56,635,83"/>
+<area shape="rect" id="node7" href="$d8/d72/classtuttle_1_1host_1_1Graph.html#a099e4ec3190aa37eafb6fef76e435111" title="tuttle::host::Graph::getNodesMap" alt="" coords="383,107,599,133"/>
+<area shape="rect" id="node9" href="$de/d55/classtuttle_1_1host_1_1ofx_1_1imageEffect_1_1OfxhImageEffectNode.html#a75e1d88efaa61e052b5201ff89d23d0c" title="return the plugin this instance was created with" alt="" coords="297,157,685,184"/>
+</map>

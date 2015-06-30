@@ -1,0 +1,13 @@
+<map id="G" name="G">
+<area shape="rect" id="node7" href="$d3/dc2/structtuttle_1_1exception_1_1BadConversion.html" title="Unknown error inside a conversion." alt="" coords="281,507,492,584"/>
+<area shape="rect" id="node9" href="$dc/d51/structtuttle_1_1exception_1_1File.html" title="File manipulation error. eg. read only, file doesn&#39;t exists, etc." alt="" coords="517,499,661,591"/>
+<area shape="rect" id="node21" href="$d5/df6/structtuttle_1_1exception_1_1ImageNotConnected.html" title="A non optional input clip in not connected. * plugin: Normally the host should not launch the render ..." alt="" coords="685,507,928,584"/>
+<area shape="rect" id="node23" href="$d6/d07/structtuttle_1_1exception_1_1Logic.html" title="Other exceptions." alt="" coords="952,507,1105,584"/>
+<area shape="rect" id="node2" href="$de/dd4/structtuttle_1_1exception_1_1Common.html" title="Common exception for all tuttle plugin exceptions." alt="" coords="609,248,785,325"/>
+<area shape="rect" id="node4" href="$d5/dbf/classboost_1_1backtrace.html" title="{boost::backtrace\n|+ default_stack_size\l&#45; frames_\l|+ backtrace()\l+ ~backtrace()\l+ stack_size()\l+ return_address()\l+ trace_line()\l+ trace_line()\l+ trace()\l+ trace()\l}" alt="" coords="626,5,768,200"/>
+<area shape="rect" id="node11" href="$de/d15/structtuttle_1_1exception_1_1FileExist.html" title="File already exists." alt="" coords="5,641,179,733"/>
+<area shape="rect" id="node13" href="$db/d8b/structtuttle_1_1exception_1_1FileInSequenceNotExist.html" title="File in sequence doesn&#39;t exist." alt="" coords="204,641,468,733"/>
+<area shape="rect" id="node15" href="$d0/d8e/structtuttle_1_1exception_1_1FileNotExist.html" title="File doesn&#39;t exist." alt="" coords="492,641,687,733"/>
+<area shape="rect" id="node17" href="$da/d55/structtuttle_1_1exception_1_1NoDirectory.html" title="Directory doesn&#39;t exist." alt="" coords="711,641,904,733"/>
+<area shape="rect" id="node19" href="$de/d19/structtuttle_1_1exception_1_1ReadOnlyFile.html" title="Read only file." alt="" coords="929,641,1132,733"/>
+</map>

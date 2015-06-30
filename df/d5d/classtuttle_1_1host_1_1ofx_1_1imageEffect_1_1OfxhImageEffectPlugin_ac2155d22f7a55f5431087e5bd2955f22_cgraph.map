@@ -1,0 +1,8 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$df/d5d/classtuttle_1_1host_1_1ofx_1_1imageEffect_1_1OfxhImageEffectPlugin.html#a39255aad013489d349f157c13005f8cb" title="tuttle::host::ofx::imageEffect::OfxhImageEffectPlugin::describeInContextAction" alt="" coords="528,56,1011,83"/>
+<area shape="rect" id="node13" href="$d3/d43/classtuttle_1_1host_1_1ofx_1_1OfxhPluginDesc.html#ae8f68a3675156401e1a9eb1bd37164bb" title="tuttle::host::ofx::OfxhPluginDesc::getIdentifier" alt="" coords="625,107,914,133"/>
+<area shape="rect" id="node5" href="$d0/d0f/namespacetuttle_1_1host.html#a746fb95bca42f3df0271cb413f04804e" title="tuttle::host::core" alt="" coords="1209,5,1327,32"/>
+<area shape="rect" id="node9" href="$df/d5d/classtuttle_1_1host_1_1ofx_1_1imageEffect_1_1OfxhImageEffectPlugin.html#a9efeb361c7c97b05edc5c48e0fcd1c8e" title="get the base image effect descriptor" alt="" coords="1059,56,1477,83"/>
+<area shape="rect" id="node11" href="$db/dc8/classtuttle_1_1host_1_1ofx_1_1property_1_1OfxhSet.html#a384feefa53e7c58419806e167007d3b8" title="get a handle on this object for passing to the C API" alt="" coords="1124,107,1412,133"/>
+<area shape="rect" id="node7" href="$de/d69/classSingleton.html#a8c7bf07247779fedadccb1fc482a4b85" title="return the unique instance of Singleton&lt;T&gt; class" alt="" coords="1525,5,1659,32"/>
+</map>

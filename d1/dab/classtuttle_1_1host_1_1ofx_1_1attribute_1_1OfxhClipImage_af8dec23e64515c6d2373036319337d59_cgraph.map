@@ -1,0 +1,8 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$d1/dab/classtuttle_1_1host_1_1ofx_1_1attribute_1_1OfxhClipImage.html#a7ad2ec8166d155f3bd3c6d916027a78f" title="tuttle::host::ofx::attribute::OfxhClipImage::getComponents" alt="" coords="432,56,792,83"/>
+<area shape="rect" id="node13" href="$dd/d48/namespacetuttle_1_1ofx_1_1imageEffect.html#aa738356992534ac07c4c6f9e0f3687a0" title="tuttle::ofx::imageEffect::numberOfComponents" alt="" coords="465,107,759,133"/>
+<area shape="rect" id="node5" href="$d1/dab/classtuttle_1_1host_1_1ofx_1_1attribute_1_1OfxhClipImage.html#a70eb90732a88e79264ba4db8967d1fe4" title="tuttle::host::ofx::attribute::OfxhClipImage::getComponentsString" alt="" coords="840,31,1235,57"/>
+<area shape="rect" id="node11" href="$dd/d48/namespacetuttle_1_1ofx_1_1imageEffect.html#a1e2b2faf199ad451bb5b076465176151" title="turns a pixel component string into and enum" alt="" coords="854,81,1221,108"/>
+<area shape="rect" id="node7" href="$d1/d9d/classtuttle_1_1host_1_1ofx_1_1attribute_1_1OfxhAttribute.html#a63bf42137afa64ab0e37537e7404add6" title="tuttle::host::ofx::attribute::OfxhAttribute::getProperties" alt="" coords="1283,5,1618,32"/>
+<area shape="rect" id="node9" href="$db/dc8/classtuttle_1_1host_1_1ofx_1_1property_1_1OfxhSet.html#ad3455a816a53f81c7382f2a755f9f2c5" title="get the value of a particular string property" alt="" coords="1285,56,1616,83"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="G" name="G">
+<area shape="rect" id="node7" href="$d8/dff/structtuttle_1_1exception_1_1Bug.html" title="Something that should never appends. These exceptions may be replaced by assertions, but we prefer to keep a runtime check even in release (for the moment)." alt="" coords="20,499,167,576"/>
+<area shape="rect" id="node2" href="$de/dd4/structtuttle_1_1exception_1_1Common.html" title="Common exception for all tuttle plugin exceptions." alt="" coords="5,248,181,325"/>
+<area shape="rect" id="node4" href="$d5/dbf/classboost_1_1backtrace.html" title="{boost::backtrace\n|+ default_stack_size\l&#45; frames_\l|+ backtrace()\l+ ~backtrace()\l+ stack_size()\l+ return_address()\l+ trace_line()\l+ trace_line()\l+ trace()\l+ trace()\l}" alt="" coords="22,5,164,200"/>
+</map>

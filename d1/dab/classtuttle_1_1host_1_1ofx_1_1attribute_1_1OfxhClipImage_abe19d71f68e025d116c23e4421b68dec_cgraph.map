@@ -1,0 +1,14 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$d1/dab/classtuttle_1_1host_1_1ofx_1_1attribute_1_1OfxhClipImage.html#aff8033ad4d6b2bb15d6762faaf8829d9" title="tuttle::host::ofx::attribute::OfxhClipImage::getBitDepthMemorySize" alt="" coords="443,56,853,83"/>
+<area shape="rect" id="node17" href="$d1/dab/classtuttle_1_1host_1_1ofx_1_1attribute_1_1OfxhClipImage.html#af8dec23e64515c6d2373036319337d59" title="tuttle::host::ofx::attribute::OfxhClipImage::getNbComponents" alt="" coords="459,107,837,133"/>
+<area shape="rect" id="node5" href="$dd/d48/namespacetuttle_1_1ofx_1_1imageEffect.html#a8238e01e5050185d7e0c74a86ea3db70" title="tuttle::ofx::imageEffect::bitDepthMemorySize" alt="" coords="939,5,1224,32"/>
+<area shape="rect" id="node7" href="$d1/dab/classtuttle_1_1host_1_1ofx_1_1attribute_1_1OfxhClipImage.html#a11dbc89b9f072be01b49e000bc9f1ad6" title="fetch depth of all chromatic component in this clip" alt="" coords="913,56,1250,83"/>
+<area shape="rect" id="node9" href="$d1/dab/classtuttle_1_1host_1_1ofx_1_1attribute_1_1OfxhClipImage.html#ac97ed9b44fdf6d037d688b61efce79f8" title="fetch depth of all chromatic component in this clip" alt="" coords="1321,5,1692,32"/>
+<area shape="rect" id="node15" href="$dd/d48/namespacetuttle_1_1ofx_1_1imageEffect.html#a505dca59edac98771d6d00869fddb53d" title="map a std::string to a context" alt="" coords="1345,56,1668,83"/>
+<area shape="rect" id="node11" href="$d1/d9d/classtuttle_1_1host_1_1ofx_1_1attribute_1_1OfxhAttribute.html#a63bf42137afa64ab0e37537e7404add6" title="tuttle::host::ofx::attribute::OfxhAttribute::getProperties" alt="" coords="1753,19,2087,45"/>
+<area shape="rect" id="node13" href="$db/dc8/classtuttle_1_1host_1_1ofx_1_1property_1_1OfxhSet.html#ad3455a816a53f81c7382f2a755f9f2c5" title="get the value of a particular string property" alt="" coords="1755,95,2085,121"/>
+<area shape="rect" id="node19" href="$d1/dab/classtuttle_1_1host_1_1ofx_1_1attribute_1_1OfxhClipImage.html#a7ad2ec8166d155f3bd3c6d916027a78f" title="tuttle::host::ofx::attribute::OfxhClipImage::getComponents" alt="" coords="901,107,1261,133"/>
+<area shape="rect" id="node27" href="$dd/d48/namespacetuttle_1_1ofx_1_1imageEffect.html#aa738356992534ac07c4c6f9e0f3687a0" title="tuttle::ofx::imageEffect::numberOfComponents" alt="" coords="934,157,1229,184"/>
+<area shape="rect" id="node21" href="$d1/dab/classtuttle_1_1host_1_1ofx_1_1attribute_1_1OfxhClipImage.html#a70eb90732a88e79264ba4db8967d1fe4" title="tuttle::host::ofx::attribute::OfxhClipImage::getComponentsString" alt="" coords="1309,107,1704,133"/>
+<area shape="rect" id="node25" href="$dd/d48/namespacetuttle_1_1ofx_1_1imageEffect.html#a1e2b2faf199ad451bb5b076465176151" title="turns a pixel component string into and enum" alt="" coords="1323,157,1690,184"/>
+</map>

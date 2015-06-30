@@ -1,0 +1,8 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$d4/df0/namespacetuttle_1_1host_1_1io.html#a228234b45bd121d85a05d1a1170fd810" title="tuttle::host::io::getIOPluginsForExtension" alt="" coords="233,81,495,108"/>
+<area shape="rect" id="node5" href="$d0/d0f/namespacetuttle_1_1host.html#a746fb95bca42f3df0271cb413f04804e" title="tuttle::host::core" alt="" coords="720,5,837,32"/>
+<area shape="rect" id="node9" href="$d2/d07/classtuttle_1_1host_1_1Core.html#a5848ad09f2756e291ec464db29b50fa3" title="tuttle::host::Core::getImageEffectPluginCache" alt="" coords="633,56,924,83"/>
+<area shape="rect" id="node11" href="$dc/d22/classtuttle_1_1host_1_1ofx_1_1imageEffect_1_1OfxhImageEffectPluginCache.html#aeae7d8d8ae069150d6e5c73e662d7660" title="tuttle::host::ofx::imageEffect::OfxhImageEffectPluginCache::getPluginsByID" alt="" coords="545,107,1013,133"/>
+<area shape="rect" id="node13" href="$d8/d1e/classtuttle_1_1host_1_1ofx_1_1imageEffect_1_1OfxhImageEffectNodeBase.html#ae5aece28ee4518c45899d38181a1008d" title="tuttle::host::ofx::imageEffect::OfxhImageEffectNodeBase::getProperties" alt="" coords="558,157,999,184"/>
+<area shape="rect" id="node7" href="$de/d69/classSingleton.html#a8c7bf07247779fedadccb1fc482a4b85" title="return the unique instance of Singleton&lt;T&gt; class" alt="" coords="1061,5,1195,32"/>
+</map>

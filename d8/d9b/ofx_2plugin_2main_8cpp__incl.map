@@ -1,0 +1,23 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$d5/df0/unit__test_8hpp.html" title="tuttle/test/unit_test.hpp" alt="" coords="197,80,352,107"/>
+<area shape="rect" id="node9" href="$df/df9/common_2utils_2global_8hpp.html" title="tuttle/common/utils/global.hpp" alt="" coords="1474,80,1669,107"/>
+<area shape="rect" id="node36" href="$d7/d38/Core_8hpp.html" title="tuttle/host/Core.hpp" alt="" coords="2631,80,2768,107"/>
+<area shape="rect" id="node73" href="$d4/d7f/OfxhImageEffectPlugin_8hpp.html" title="OfxhImageEffectPlugin.hpp" alt="" coords="3418,304,3600,331"/>
+<area shape="rect" id="node5" href="$df/d9c/exceptionFormatting_8hpp.html" title="exceptionFormatting.hpp" alt="" coords="5,155,169,181"/>
+<area shape="rect" id="node13" href="$d9/d2e/Formatter_8hpp.html" title="Formatter.hpp" alt="" coords="1970,155,2072,181"/>
+<area shape="rect" id="node20" href="$dd/d90/system_8hpp.html" title="tuttle/common/system/system.hpp" alt="" coords="492,155,715,181"/>
+<area shape="rect" id="node22" href="$dd/d80/compatibility_8hpp.html" title="tuttle/common/system/compatibility.hpp" alt="" coords="741,155,995,181"/>
+<area shape="rect" id="node24" href="$d9/d43/windows_8h.html" title="tuttle/common/system/windows/windows.h" alt="" coords="1019,155,1292,181"/>
+<area shape="rect" id="node34" href="$d8/d16/release_8hpp.html" title="release.hpp" alt="" coords="378,155,467,181"/>
+<area shape="rect" id="node38" href="$d7/dad/version_8hpp.html" title="version.hpp" alt="" coords="2471,155,2560,181"/>
+<area shape="rect" id="node40" href="$d1/d9a/Preferences_8hpp.html" title="Preferences.hpp" alt="" coords="2467,304,2583,331"/>
+<area shape="rect" id="node44" href="$d1/d25/IMemoryCache_8hpp.html" title="tuttle/host/memory/IMemoryCache.hpp" alt="" coords="2198,155,2447,181"/>
+<area shape="rect" id="node48" href="$db/db1/HostDescriptor_8hpp.html" title="tuttle/host/HostDescriptor.hpp" alt="" coords="4159,304,4356,331"/>
+<area shape="rect" id="node61" href="$d7/de6/OfxhPluginCache_8hpp.html" title="OfxhPluginCache.hpp" alt="" coords="2564,379,2712,405"/>
+<area shape="rect" id="node68" href="$d3/d11/OfxhImageEffectPluginCache_8hpp.html" title="tuttle/host/ofx/OfxhImageEffectPluginCache.hpp" alt="" coords="2737,155,3041,181"/>
+<area shape="rect" id="node110" href="$de/d21/Singleton_8hpp.html" title="tuttle/common/patterns/Singleton.hpp" alt="" coords="3066,155,3304,181"/>
+<area shape="rect" id="node50" href="$d3/d37/OfxhImageEffectHost_8hpp.html" title="tuttle/host/ofx/OfxhImageEffectHost.hpp" alt="" coords="4392,379,4649,405"/>
+<area shape="rect" id="node52" href="$db/d9a/OfxhHost_8hpp.html" title="OfxhHost.hpp" alt="" coords="3186,453,3288,480"/>
+<area shape="rect" id="node71" href="$d2/db7/OfxhImageEffectNode_8hpp.html" title="tuttle/host/ofx/OfxhImageEffectNode.hpp" alt="" coords="3268,229,3528,256"/>
+<area shape="rect" id="node77" href="$db/dea/OfxhPluginLoadGuard_8hpp.html" title="OfxhPluginLoadGuard.hpp" alt="" coords="3237,379,3411,405"/>
+</map>

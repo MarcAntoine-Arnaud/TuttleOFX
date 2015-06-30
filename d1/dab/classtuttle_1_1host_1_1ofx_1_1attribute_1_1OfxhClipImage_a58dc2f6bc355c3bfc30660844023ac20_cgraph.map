@@ -1,0 +1,11 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$db/dc8/classtuttle_1_1host_1_1ofx_1_1property_1_1OfxhSet.html#ad2e6c7df7300e4f13cbc15e8d2f834d9" title="tuttle::host::ofx::property::OfxhSet::fetchLocalStringProperty" alt="" coords="619,5,991,32"/>
+<area shape="rect" id="node5" href="$d1/dab/classtuttle_1_1host_1_1ofx_1_1attribute_1_1OfxhClipImage.html#a11dbc89b9f072be01b49e000bc9f1ad6" title="fetch depth of all chromatic component in this clip" alt="" coords="637,56,974,83"/>
+<area shape="rect" id="node13" href="$dd/d48/namespacetuttle_1_1ofx_1_1imageEffect.html#a505dca59edac98771d6d00869fddb53d" title="map a std::string to a context" alt="" coords="1069,107,1392,133"/>
+<area shape="rect" id="node15" href="$d1/d9d/classtuttle_1_1host_1_1ofx_1_1attribute_1_1OfxhAttribute.html#a5a58bf74358d0031e4045c8037c8f5b7" title="tuttle::host::ofx::attribute::OfxhAttribute::getEditableProperties" alt="" coords="614,157,997,184"/>
+<area shape="rect" id="node17" href="$db/d1f/classtuttle_1_1host_1_1ofx_1_1property_1_1OfxhProperty.html#a6809028d595604d9f069606823858ac3" title="tuttle::host::ofx::property::OfxhProperty::getModifiedBy" alt="" coords="635,208,976,235"/>
+<area shape="rect" id="node20" href="$d6/d97/classtuttle_1_1host_1_1ofx_1_1property_1_1OfxhPropertyTemplate.html#ab5c17520333b4375a0fa1d22e7c43d6a" title="set one value" alt="" coords="624,259,987,285"/>
+<area shape="rect" id="node7" href="$d1/dab/classtuttle_1_1host_1_1ofx_1_1attribute_1_1OfxhClipImage.html#ac97ed9b44fdf6d037d688b61efce79f8" title="fetch depth of all chromatic component in this clip" alt="" coords="1045,56,1416,83"/>
+<area shape="rect" id="node9" href="$d1/d9d/classtuttle_1_1host_1_1ofx_1_1attribute_1_1OfxhAttribute.html#a63bf42137afa64ab0e37537e7404add6" title="tuttle::host::ofx::attribute::OfxhAttribute::getProperties" alt="" coords="1465,31,1799,57"/>
+<area shape="rect" id="node11" href="$db/dc8/classtuttle_1_1host_1_1ofx_1_1property_1_1OfxhSet.html#ad3455a816a53f81c7382f2a755f9f2c5" title="get the value of a particular string property" alt="" coords="1467,81,1797,108"/>
+</map>

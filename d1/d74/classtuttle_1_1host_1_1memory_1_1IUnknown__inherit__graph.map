@@ -1,0 +1,5 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$d2/d1b/classtuttle_1_1host_1_1memory_1_1IPoolData.html" title="{tuttle::host::memory::IPoolData\n||+ ~IPoolData()\l+ data()\l+ data()\l+ size()\l+ reservedSize()\l+ setSize()\l}" alt="" coords="113,161,319,311"/>
+<area shape="rect" id="node5" href="$df/d19/classtuttle_1_1host_1_1memory_1_1LinkData.html" title="A link to an external buffer which can&#39;t be managed by the MemoryPool." alt="" coords="5,419,203,629"/>
+<area shape="rect" id="node7" href="$dd/d6a/classtuttle_1_1host_1_1memory_1_1PoolData.html" title="{tuttle::host::memory::PoolData\n|&#45; _pool\l&#45; _id\l&#45; _reservedSize\l&#45; _size\l&#45; _pData\l&#45; _refCount\l&#45; _count\l|+ PoolData()\l+ ~PoolData()\l+ operator==()\l+ addRef()\l+ release()\l+ data()\l+ data()\l+ size()\l+ reservedSize()\l+ setSize()\l&#45; PoolData()\l&#45; PoolData()\l}" alt="" coords="227,361,428,687"/>
+</map>

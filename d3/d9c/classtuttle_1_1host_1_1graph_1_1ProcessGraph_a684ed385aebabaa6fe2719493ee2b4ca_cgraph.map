@@ -1,0 +1,19 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$d0/d14/classtuttle_1_1host_1_1graph_1_1InternalGraph.html#abb74c4233282c0fd0898492217e2f78a" title="tuttle::host::graph::InternalGraph::addVertex" alt="" coords="371,5,648,32"/>
+<area shape="rect" id="node5" href="$d0/d14/classtuttle_1_1host_1_1graph_1_1InternalGraph.html#a2fa1ef25e99e96b798b6d0f7f2d291fc" title="tuttle::host::graph::InternalGraph::connect" alt="" coords="377,56,641,83"/>
+<area shape="rect" id="node7" href="$d0/d14/classtuttle_1_1host_1_1graph_1_1InternalGraph.html#a64ed6008974bdaba32d18d24ba665439" title="tuttle::host::graph::InternalGraph::copyTransposed" alt="" coords="352,107,667,133"/>
+<area shape="rect" id="node9" href="$d8/d72/classtuttle_1_1host_1_1Graph.html#ac37f92f10245f66407ef7fd202296e98" title="tuttle::host::Graph::getGraph" alt="" coords="415,157,603,184"/>
+<area shape="rect" id="node11" href="$de/dea/classtuttle_1_1host_1_1graph_1_1ProcessVertex.html#a772e6e5aab23a8ca8ecd308994ec9e68" title="tuttle::host::graph::ProcessVertex::getKey" alt="" coords="376,208,643,235"/>
+<area shape="rect" id="node15" href="$d0/d14/classtuttle_1_1host_1_1graph_1_1InternalGraph.html#a8e22b81d5425e6d27de07bd039ad8115" title="tuttle::host::graph::InternalGraph::instance" alt="" coords="775,208,1041,235"/>
+<area shape="rect" id="node17" href="$d3/d9c/classtuttle_1_1host_1_1graph_1_1ProcessGraph.html#ac782a91cc650b0f1896ebf94928c10fa" title="After copying Vertices, we need to duplicate Nodes and relink Vertices with new Nodes." alt="" coords="382,360,637,387"/>
+<area shape="rect" id="node37" href="$d0/d14/classtuttle_1_1host_1_1graph_1_1InternalGraph.html#aad57b3afd5753e7aca36cdbc5839924c" title="Create a vector of root vertices, ie. all nodes whithout parents." alt="" coords="365,411,653,437"/>
+<area shape="rect" id="node13" href="$da/d41/classtuttle_1_1host_1_1graph_1_1IVertex.html#ae497b9c70cf8ab5d062028e17e64fb58" title="tuttle::host::graph::IVertex::getName" alt="" coords="1149,259,1384,285"/>
+<area shape="rect" id="node19" href="$d6/dc0/classtuttle_1_1host_1_1INode.html#a4662085aa762b28b2dc9180344b0f945" title="tuttle::host::INode::clone" alt="" coords="825,259,991,285"/>
+<area shape="rect" id="node21" href="$d6/dc0/classtuttle_1_1host_1_1INode.html#a1035be3d96536a96ccc6094ec4b05846" title="tuttle::host::INode::getName" alt="" coords="814,309,1002,336"/>
+<area shape="rect" id="node23" href="$da/d41/classtuttle_1_1host_1_1graph_1_1IVertex.html#a37244cbe55372033aa6391f6d9d35b6c" title="tuttle::host::graph::IVertex::getProcessNode" alt="" coords="769,360,1047,387"/>
+<area shape="rect" id="node26" href="$d0/d14/classtuttle_1_1host_1_1graph_1_1InternalGraph.html#aa7b8a7a36c1468c25fbdc70d7cb0da39" title="tuttle::host::graph::InternalGraph::getVertexDescriptor" alt="" coords="741,411,1075,437"/>
+<area shape="rect" id="node28" href="$d0/d14/classtuttle_1_1host_1_1graph_1_1InternalGraph.html#a84191c2a2114da48ffa78b0cd2564034" title="tuttle::host::graph::InternalGraph::getVertices" alt="" coords="766,461,1050,488"/>
+<area shape="rect" id="node31" href="$da/d41/classtuttle_1_1host_1_1graph_1_1IVertex.html#ab2e0e4dec82a81e1d598147449e71f7f" title="tuttle::host::graph::IVertex::isFake" alt="" coords="797,512,1019,539"/>
+<area shape="rect" id="node33" href="$d0/d14/classtuttle_1_1host_1_1graph_1_1InternalGraph.html#afb111b662145e6b7b6b73b2181793700" title="Remove all vertices without connection with vroot." alt="" coords="715,563,1101,589"/>
+<area shape="rect" id="node35" href="$da/d41/classtuttle_1_1host_1_1graph_1_1IVertex.html#a584e9ac2f88da478173890b640ab94d7" title="tuttle::host::graph::IVertex::setProcessNode" alt="" coords="769,613,1047,640"/>
+</map>

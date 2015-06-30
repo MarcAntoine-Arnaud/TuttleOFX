@@ -1,0 +1,6 @@
+<map id="G" name="G">
+<area shape="rect" id="node7" href="$d2/d53/structtuttle_1_1exception_1_1BitDepthMismatch.html" title="Input(s) and enventually output properties mismatch. * plugin: The error comes from host..." alt="" coords="5,499,235,576"/>
+<area shape="rect" id="node9" href="$d2/db6/structtuttle_1_1exception_1_1WrongRowBytes.html" title="Image raw bytes not valid. * plugin: The error comes from host. * host: We can&#39;t launch the render in..." alt="" coords="259,499,481,576"/>
+<area shape="rect" id="node2" href="$de/dd4/structtuttle_1_1exception_1_1Common.html" title="Common exception for all tuttle plugin exceptions." alt="" coords="157,248,333,325"/>
+<area shape="rect" id="node4" href="$d5/dbf/classboost_1_1backtrace.html" title="{boost::backtrace\n|+ default_stack_size\l&#45; frames_\l|+ backtrace()\l+ ~backtrace()\l+ stack_size()\l+ return_address()\l+ trace_line()\l+ trace_line()\l+ trace()\l+ trace()\l}" alt="" coords="174,5,316,200"/>
+</map>

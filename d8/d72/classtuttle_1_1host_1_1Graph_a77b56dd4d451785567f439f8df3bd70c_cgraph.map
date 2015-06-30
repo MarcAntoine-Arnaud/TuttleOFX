@@ -1,0 +1,5 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$d8/d72/classtuttle_1_1host_1_1Graph.html#a1ce4507633a402ccc3ae87c650c4d759" title="Create a new node in the graph." alt="" coords="288,5,491,32"/>
+<area shape="rect" id="node5" href="$d8/d72/classtuttle_1_1host_1_1Graph.html#a23190ba311be1d85e8cdf67cf843813a" title="Add a node to the graph. It takes the ownership of the node object." alt="" coords="539,5,725,32"/>
+<area shape="rect" id="node7" href="$de/dbb/classtuttle_1_1host_1_1NodeInit.html#af9040128d16197f3ea0816d970c61aad" title="tuttle::host::NodeInit::release" alt="" coords="774,5,965,32"/>
+</map>

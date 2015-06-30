@@ -1,0 +1,20 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$d6/dc0/classtuttle_1_1host_1_1INode.html#a688840599f8cc3a6caf29d9e387b64b2" title="tuttle::host::INode::getClip" alt="" coords="373,205,549,232"/>
+<area shape="rect" id="node5" href="$db/dd3/classtuttle_1_1host_1_1attribute_1_1ClipImage.html#a1fd6100d73eb52b577d507355e140f91" title="tuttle::host::attribute::ClipImage::setConnectedClip" alt="" coords="302,256,621,282"/>
+<area shape="rect" id="node7" href="$d1/dbd/classtuttle_1_1host_1_1ofx_1_1attribute_1_1OfxhAttributeAccessor.html#a9a7f6fa9ba00352e303f162f11ca6540" title="is the clip an output clip" alt="" coords="1587,41,1949,68"/>
+<area shape="rect" id="node15" href="$dd/dc2/classtuttle_1_1host_1_1ofx_1_1attribute_1_1OfxhClipAccessor.html#a7d07dafd806f3a7357648f1dcb03a0f6" title="Connected Says whether the clip is currently connected." alt="" coords="677,306,1045,333"/>
+<area shape="rect" id="node21" href="$d1/d9d/classtuttle_1_1host_1_1ofx_1_1attribute_1_1OfxhAttribute.html#a5a58bf74358d0031e4045c8037c8f5b7" title="tuttle::host::ofx::attribute::OfxhAttribute::getEditableProperties" alt="" coords="670,357,1053,384"/>
+<area shape="rect" id="node23" href="$db/dd3/classtuttle_1_1host_1_1attribute_1_1ClipImage.html#acdea50ccb25efbabdb60d0add89372fc" title="tuttle::host::attribute::ClipImage::getFullName" alt="" coords="1624,230,1912,257"/>
+<area shape="rect" id="node31" href="$db/dd3/classtuttle_1_1host_1_1attribute_1_1ClipImage.html#a5e6d00d39d27d57bc586223cbd24d322" title="tuttle::host::attribute::ClipImage::getClipIdentifier" alt="" coords="709,154,1014,181"/>
+<area shape="rect" id="node9" href="$d1/dbd/classtuttle_1_1host_1_1ofx_1_1attribute_1_1OfxhAttributeAccessor.html#a5dd0b6a71e059db4f3eaa1bf23b208d8" title="tuttle::host::ofx::attribute::OfxhAttributeAccessor::getName" alt="" coords="1998,34,2365,61"/>
+<area shape="rect" id="node11" href="$d1/dbd/classtuttle_1_1host_1_1ofx_1_1attribute_1_1OfxhAttributeAccessor.html#afc39d1c719a76f2a906468bad6d90a45" title="tuttle::host::ofx::attribute::OfxhAttributeAccessor::getProperties" alt="" coords="2414,85,2805,112"/>
+<area shape="rect" id="node13" href="$db/dc8/classtuttle_1_1host_1_1ofx_1_1property_1_1OfxhSet.html#ad3455a816a53f81c7382f2a755f9f2c5" title="get the value of a particular string property" alt="" coords="2444,34,2775,61"/>
+<area shape="rect" id="node17" href="$d1/dbd/classtuttle_1_1host_1_1ofx_1_1attribute_1_1OfxhAttributeAccessor.html#a1d53d4e2abc7848170e25c6dacece122" title="tuttle::host::ofx::attribute::OfxhAttributeAccessor::getEditableProperties" alt="" coords="1101,306,1539,333"/>
+<area shape="rect" id="node19" href="$db/dc8/classtuttle_1_1host_1_1ofx_1_1property_1_1OfxhSet.html#a2110c0e43429db10446b7fa0a7f62dd1" title="set a particular int property" alt="" coords="1165,357,1475,384"/>
+<area shape="rect" id="node25" href="$d7/d58/classtuttle_1_1host_1_1attribute_1_1Attribute.html#a3f70f88825447f81c5aa66c0bd3694e2" title="tuttle::host::attribute::Attribute::getNode" alt="" coords="2055,186,2308,213"/>
+<area shape="rect" id="node27" href="$d6/dc0/classtuttle_1_1host_1_1INode.html#a1035be3d96536a96ccc6094ec4b05846" title="tuttle::host::INode::getName" alt="" coords="2087,237,2275,264"/>
+<area shape="rect" id="node29" href="$db/dd3/classtuttle_1_1host_1_1attribute_1_1ClipImage.html#a114c73991a9ae0477e12f9ce096ee2db" title="tuttle::host::attribute::ClipImage::getName" alt="" coords="2048,288,2315,314"/>
+<area shape="rect" id="node34" href="$dd/dc2/classtuttle_1_1host_1_1ofx_1_1attribute_1_1OfxhClipAccessor.html#a4cfa0f7d859e260cb216c8b3745fe749" title="tuttle::host::ofx::attribute::OfxhClipAccessor::isConnected" alt="" coords="1588,124,1948,150"/>
+<area shape="rect" id="node40" href="$db/dd3/classtuttle_1_1host_1_1attribute_1_1ClipImage.html#a2974cd638e95f0c17a65157dde6e2a7c" title="tuttle::host::attribute::ClipImage::getConnectedClipFullName" alt="" coords="1133,104,1507,130"/>
+<area shape="rect" id="node37" href="$db/dc8/classtuttle_1_1host_1_1ofx_1_1property_1_1OfxhSet.html#a93aa0eb3c85c46638935cd97331ed87f" title="get the value of a particular int property" alt="" coords="2026,136,2337,162"/>
+</map>

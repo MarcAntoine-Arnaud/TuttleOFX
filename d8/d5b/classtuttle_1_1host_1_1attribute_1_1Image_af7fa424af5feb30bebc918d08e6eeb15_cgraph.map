@@ -1,0 +1,11 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$d6/d6a/classtuttle_1_1host_1_1ofx_1_1imageEffect_1_1OfxhImage.html#a64213215c00c6af329fd5454d9692b89" title="tuttle::host::ofx::imageEffect::OfxhImage::getBitDepth" alt="" coords="298,5,635,32"/>
+<area shape="rect" id="node7" href="$d6/d6a/classtuttle_1_1host_1_1ofx_1_1imageEffect_1_1OfxhImage.html#a1ecf5a3ee9d7a716c467fe211cf1658b" title="tuttle::host::ofx::imageEffect::OfxhImage::getComponentsType" alt="" coords="272,56,661,83"/>
+<area shape="rect" id="node10" href="$d8/d5b/classtuttle_1_1host_1_1attribute_1_1Image.html#a8b5955eae420b18a50dbe3fc1e880202" title="tuttle::host::attribute::Image::getGilView" alt="" coords="339,107,594,133"/>
+<area shape="rect" id="node5" href="$db/dc8/classtuttle_1_1host_1_1ofx_1_1property_1_1OfxhSet.html#ad3455a816a53f81c7382f2a755f9f2c5" title="get the value of a particular string property" alt="" coords="729,5,1060,32"/>
+<area shape="rect" id="node12" href="$d6/d6a/classtuttle_1_1host_1_1ofx_1_1imageEffect_1_1OfxhImage.html#af1e4c842e2b676fe200318dbb6e074a4" title="get the bounds of the pixels in memory" alt="" coords="729,56,1060,83"/>
+<area shape="rect" id="node16" href="$d6/d6a/classtuttle_1_1host_1_1ofx_1_1imageEffect_1_1OfxhImage.html#aab6208a340aaa1ff546172c51511572f" title="tuttle::host::ofx::imageEffect::OfxhImage::getRowBytes" alt="" coords="721,107,1068,133"/>
+<area shape="rect" id="node20" href="$d8/d5b/classtuttle_1_1host_1_1attribute_1_1Image.html#a93978bfa8c2cbacff51609dba7ee7fd5" title="Get distance between rows depending on the requested orientation." alt="" coords="709,157,1080,184"/>
+<area shape="rect" id="node14" href="$db/dc8/classtuttle_1_1host_1_1ofx_1_1property_1_1OfxhSet.html#a7ef1ef4f225414f3950651b04752ae2c" title="get the value of a particular double property" alt="" coords="1129,56,1450,83"/>
+<area shape="rect" id="node18" href="$db/dc8/classtuttle_1_1host_1_1ofx_1_1property_1_1OfxhSet.html#a93aa0eb3c85c46638935cd97331ed87f" title="get the value of a particular int property" alt="" coords="1134,107,1445,133"/>
+</map>

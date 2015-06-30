@@ -1,0 +1,4 @@
+<map id="G" name="G">
+<area shape="rect" id="node1" href="$df/d6c/classtuttle_1_1host_1_1ofx_1_1APICache_1_1OfxhPluginAPICacheI.html" title="this acts as an interface for the Plugin Cache, handling api&#45;specific cacheing" alt="" coords="5,5,320,32"/>
+<area shape="rect" id="node3" href="$dc/d22/classtuttle_1_1host_1_1ofx_1_1imageEffect_1_1OfxhImageEffectPluginCache.html" title="implementation of the specific Image Effect handler API cache." alt="" coords="369,5,738,32"/>
+</map>

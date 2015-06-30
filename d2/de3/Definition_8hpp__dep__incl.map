@@ -1,0 +1,14 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$d7/dfa/GeneratorDefinition_8hpp.html" title="TuttleOFX/libraries/tuttle/src/tuttle/plugin/context/GeneratorDefinition.hpp" alt="" coords="469,80,913,107"/>
+<area shape="rect" id="node11" href="$d0/d90/ReaderDefinition_8hpp.html" title="TuttleOFX/libraries/tuttle/src/tuttle/plugin/context/ReaderDefinition.hpp" alt="" coords="1170,80,1600,107"/>
+<area shape="rect" id="node19" href="$d6/d30/WriterDefinition_8hpp.html" title="TuttleOFX/libraries/tuttle/src/tuttle/plugin/context/WriterDefinition.hpp" alt="" coords="1857,80,2279,107"/>
+<area shape="rect" id="node5" href="$da/df5/GeneratorPlugin_8hpp.html" title="TuttleOFX/libraries/tuttle/src/tuttle/plugin/context/GeneratorPlugin.hpp" alt="" coords="5,155,432,181"/>
+<area shape="rect" id="node9" href="$da/de0/GeneratorPluginFactory_8hpp.html" title="TuttleOFX/libraries/tuttle/src/tuttle/plugin/context/GeneratorPluginFactory.hpp" alt="" coords="457,155,927,181"/>
+<area shape="rect" id="node7" href="$d1/d89/GeneratorPlugin_8cpp.html" title="TuttleOFX/libraries/tuttle/src/tuttle/plugin/context/GeneratorPlugin.cpp" alt="" coords="5,229,432,256"/>
+<area shape="rect" id="node13" href="$de/db1/ReaderPlugin_8hpp.html" title="TuttleOFX/libraries/tuttle/src/tuttle/plugin/context/ReaderPlugin.hpp" alt="" coords="952,155,1363,181"/>
+<area shape="rect" id="node17" href="$d7/d19/ReaderPluginFactory_8hpp.html" title="TuttleOFX/libraries/tuttle/src/tuttle/plugin/context/ReaderPluginFactory.hpp" alt="" coords="1387,155,1841,181"/>
+<area shape="rect" id="node15" href="$d2/d75/ReaderPlugin_8cpp.html" title="TuttleOFX/libraries/tuttle/src/tuttle/plugin/context/ReaderPlugin.cpp" alt="" coords="952,229,1363,256"/>
+<area shape="rect" id="node21" href="$d1/d91/WriterPlugin_8hpp.html" title="TuttleOFX/libraries/tuttle/src/tuttle/plugin/context/WriterPlugin.hpp" alt="" coords="1866,155,2269,181"/>
+<area shape="rect" id="node25" href="$d5/d6b/WriterPluginFactory_8hpp.html" title="TuttleOFX/libraries/tuttle/src/tuttle/plugin/context/WriterPluginFactory.hpp" alt="" coords="2295,155,2741,181"/>
+<area shape="rect" id="node23" href="$d6/d8c/WriterPlugin_8cpp.html" title="TuttleOFX/libraries/tuttle/src/tuttle/plugin/context/WriterPlugin.cpp" alt="" coords="1866,229,2269,256"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$d6/d2c/classtuttle_1_1host_1_1ofx_1_1OfxhPluginCache.html#a2dd12a280c2d38a196e2eaa3be7609de" title="find the API cache handler for the given api/apiverson" alt="" coords="331,5,645,32"/>
+<area shape="rect" id="node5" href="$d3/d43/classtuttle_1_1host_1_1ofx_1_1OfxhPluginDesc.html#adc9866490499576f753a136334cd24c1" title="tuttle::host::ofx::OfxhPluginDesc::getApiVersion" alt="" coords="337,56,639,83"/>
+<area shape="rect" id="node7" href="$dc/d22/classtuttle_1_1host_1_1ofx_1_1OfxhPluginBinary.html#a757a69df4523605fa20daaf1b75068b9" title="tuttle::host::ofx::OfxhPluginBinary::getFilePath" alt="" coords="341,107,635,133"/>
+<area shape="rect" id="node9" href="$d3/d43/classtuttle_1_1host_1_1ofx_1_1OfxhPluginDesc.html#ac3bca07e386fa315fbdcde9bbdc43160" title="tuttle::host::ofx::OfxhPluginDesc::getPluginApi" alt="" coords="341,157,635,184"/>
+<area shape="rect" id="node11" href="$dc/d22/classtuttle_1_1host_1_1ofx_1_1OfxhPluginBinary.html#a75a04aba7ff5ac8ddac2532202ce431d" title="get plugins" alt="" coords="344,208,632,235"/>
+<area shape="rect" id="node13" href="$d7/d76/classtuttle_1_1host_1_1ofx_1_1OfxhPlugin.html#ae113b7de7e8b8991de8ed63718f9a78e" title="tuttle::host::ofx::OfxhPlugin::setApiHandler" alt="" coords="352,259,624,285"/>
+</map>

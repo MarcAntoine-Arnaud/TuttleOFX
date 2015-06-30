@@ -1,0 +1,14 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$d0/d25/classtuttle_1_1host_1_1memory_1_1MemoryPool.html#ae93a75c772572035ede2e1994c93c62c" title="tuttle::host::memory::MemoryPool::clear" alt="" coords="387,5,643,32"/>
+<area shape="rect" id="node5" href="$d0/dfb/classtuttle_1_1host_1_1memory_1_1IMemoryCache.html#ac6f7f5182a0a31a0a91dc5049eddd356" title="tuttle::host::memory::IMemoryCache::clearUnused" alt="" coords="356,56,673,83"/>
+<area shape="rect" id="node7" href="$d0/d0f/namespacetuttle_1_1host.html#a746fb95bca42f3df0271cb413f04804e" title="tuttle::host::core" alt="" coords="456,107,573,133"/>
+<area shape="rect" id="node11" href="$d0/d25/classtuttle_1_1host_1_1memory_1_1MemoryPool.html#a60c07f76e8f2939029dfb80232d7f786" title="tuttle::host::memory::MemoryPool::getAvailableMemorySize" alt="" coords="329,157,701,184"/>
+<area shape="rect" id="node17" href="$d2/d07/classtuttle_1_1host_1_1Core.html#aa4d2421e08fb50396f9f64d3cce042d7" title="tuttle::host::Core::getMemoryCache" alt="" coords="399,208,630,235"/>
+<area shape="rect" id="node19" href="$d0/d25/classtuttle_1_1host_1_1memory_1_1MemoryPool.html#a3d5e75afdcb7b7290886a606f9be97cd" title="tuttle::host::memory::MemoryPool::getOneAvailableData" alt="" coords="339,259,690,285"/>
+<area shape="rect" id="node21" href="$d0/dfb/classtuttle_1_1host_1_1memory_1_1IMemoryCache.html#a2827ec43fac2f115fcfc925efa053106" title="tuttle::host::memory::IMemoryCache::getUnusedWithSize" alt="" coords="335,309,695,336"/>
+<area shape="rect" id="node23" href="$d0/dfb/classtuttle_1_1host_1_1memory_1_1IMemoryCache.html#a021e5e9c1536d1bba12c82493186a553" title="tuttle::host::memory::IMemoryCache::remove" alt="" coords="371,360,658,387"/>
+<area shape="rect" id="node25" href="$d2/d1b/classtuttle_1_1host_1_1memory_1_1IPoolData.html#a25f10af2d1bb011bb2cc2897955d92a9" title="tuttle::host::memory::IPoolData::setSize" alt="" coords="386,411,643,437"/>
+<area shape="rect" id="node9" href="$de/d69/classSingleton.html#a8c7bf07247779fedadccb1fc482a4b85" title="return the unique instance of Singleton&lt;T&gt; class" alt="" coords="859,107,992,133"/>
+<area shape="rect" id="node13" href="$d0/d25/classtuttle_1_1host_1_1memory_1_1MemoryPool.html#a00ae0390f8890058114500375398008a" title="tuttle::host::memory::MemoryPool::getMaxMemorySize" alt="" coords="753,157,1097,184"/>
+<area shape="rect" id="node15" href="$d0/d25/classtuttle_1_1host_1_1memory_1_1MemoryPool.html#a8acac81d25e70991db8e49f80c368763" title="tuttle::host::memory::MemoryPool::getUsedMemorySize" alt="" coords="750,208,1101,235"/>
+</map>
